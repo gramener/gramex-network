@@ -1,8 +1,25 @@
 import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
+/**
+ * Creates a D3.js layer on a given element with specified attributes.
+ *
+ * @param {d3.Selection} el - The parent D3 selection.
+ * @param {string} tag - The HTML/SVG tag to create.
+ * @param {string} cls - The class to apply to new elements.
+ * @param {Function} [data=(d) => [d]] - The data-binding function.
+ * @returns {d3.Selection} The D3.js selection.
+ */
 export const layer = (el, tag, cls, data = (d) => [d]) =>
   el.selectAll(`${tag}.${cls}`).data(data).join(tag).attr("class", cls);
 
+/**
+ * Retrieves the closest SVG element, along with its width and height
+ *
+ * @param {string|HTMLElement} el - The selector or HTML element.
+ * @param {number} [width] - The width of the SVG. Optional, fallback to the closest SVG parent.
+ * @param {number} [height] - The height of the SVG. Optional, fallback to the closest SVG parent.
+ * @returns {Object} Object containing the SVG element and dimensions.
+ */
 export function getSVG(el, width, height) {
   el = typeof el == "string" ? document.querySelector(el) : el;
   // If width and height are not specified, get them from the closest SVG parent.
@@ -13,15 +30,42 @@ export function getSVG(el, width, height) {
   return { el, container, width, height };
 }
 
+const defaultForces = {
+  link: ({ nodes, links }) => {
+    const force = d3.forceLink(links);
+    return nodes?.[0]?.id ? force.id((d) => d.id) : force;
+  },
+  charge: () => d3.forceManyBody(),
+  x: ({ width }) => d3.forceX(width / 2),
+  y: ({ height }) => d3.forceY(height / 2),
+};
+
+/**
+ * Creates a network visualization.
+ *
+ * @async
+ * @param {string|HTMLElement} el - The selector or HTML element for the SVG.
+ * @param {Object} params - Parameters for the visualization.
+ * @param {Array} params.nodes - array of node objects.
+ * @param {Array} params.links - array of {source, target} link objects.
+ * @param {number} [params.width] - width of the SVG.
+ * @param {number} [params.height] - height of the SVG.
+ * @param {number} [params.linkCurvature=0] - curvature of the links. 0 = straight, 1 = half-circle.
+ * @param {Object} [params.forces] - object of forces to apply to the simulation.
+ * @param {Function} [params.brush] - callback function to handle brush events.
+ * @returns {Object} Object containing D3.js selections for nodes and links.
+ */
 export async function network(
   el,
-  { data, width, height, nodes, links, onBrush }
+  { nodes, links, width, height, linkCurvature = 0, forces, brush },
 ) {
   let container;
   ({ el, container, width, height } = getSVG(el, width, height));
   const svg = d3.select(el);
 
-  if (onBrush) {
+  const arc = Math.sqrt(2 * (1 - Math.cos(Math.PI * linkCurvature)));
+
+  if (brush) {
     layer(svg, "g", "brush").call(
       d3
         .brush()
@@ -33,30 +77,22 @@ export async function network(
         .on("end", function (event) {
           if (event.selection) {
             const [[x0, y0], [x1, y1]] = event.selection;
-            onBrush(
-              nodes.filter(
-                (node) => node.x >= x0 && node.x <= x1 && node.y >= y0 && node.y <= y1
-              )
+            brush(
+              nodes.filter((node) => node.x >= x0 && node.x <= x1 && node.y >= y0 && node.y <= y1),
             );
           } else {
-            onBrush([]);
+            brush([]);
           }
-        })
+        }),
     );
   }
 
-  const simulation = d3
-    .forceSimulation(nodes)
-    .force(
-      "link",
-      d3.forceLink(links).id((d) => d.id)
-    )
-    .force("charge", d3.forceManyBody())
-    .force("x", d3.forceX(width / 2))
-    .force("y", d3.forceY(height / 2));
+  const simulation = d3.forceSimulation(nodes);
+  for (let [name, force] of Object.entries(Object.assign({}, defaultForces, forces)))
+    if (force) simulation.force(name, force({ nodes, links, width, height }));
 
   const linkGroup = layer(svg, "g", "links");
-  const linksLayer = layer(linkGroup, "line", "link", links);
+  const linksLayer = layer(linkGroup, "path", "link", links).attr("fill", "none");
   const nodeGroup = layer(svg, "g", "nodes");
   const nodesLayer = layer(nodeGroup, "circle", "node", nodes)
     .call(d3.drag().on("start", dragstarted).on("drag", dragged).on("end", dragended))
@@ -65,12 +101,12 @@ export async function network(
   d3.select(container).on("dblclick", releaseAllNodes); // Added double-click listener to the SVG background
 
   simulation.on("tick", () => {
-    linksLayer
-      .attr("x1", (d) => d.source.x)
-      .attr("y1", (d) => d.source.y)
-      .attr("x2", (d) => d.target.x)
-      .attr("y2", (d) => d.target.y);
-    nodesLayer.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
+    linksLayer.attr("d", (d) => {
+      // linkCurvature == 1 => 180° curve. 0.5 => 90° curve. 0 => straight line.
+      const r = arc == 0 ? 0 : Math.hypot(d.target.x - d.source.x, d.target.y - d.source.y) / arc;
+      return `M${d.source.x},${d.source.y}A${r},${r} 0 0,1 ${d.target.x},${d.target.y}`;
+    });
+    nodesLayer.attr("transform", (d) => `translate(${d.x},${d.y})`);
   });
 
   function dragstarted(event, d) {

@@ -4,15 +4,15 @@ A force-directed network or graph visualization.
 
 ## Example
 
-Given this [table of countries and religions](country-religion.json):
+Given this [table of countries and religions](docs/country-religion.json):
 
-[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion-data.png)](docs/country-religion.json ":include")
+[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/country-religion.json)
 
 ... we can render the following network:
 
 [![Religion network visual](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/religion.html ":include")
 
-[Religion network code](docs/religion.html ":include :type=code")
+[Here is the source code for the network above](docs/religion.html ":include :type=code")
 
 ## Installation
 
@@ -58,120 +58,105 @@ Use via CDN as a script:
 
 ## API
 
-The `network()` function accepts the following parameters:
+The `network()` function creates a network visualization. It accepts the following parameters:
 
-- `element`: the SVG element to render the map in. This may be an `<svg>` or a `<g>` element.
-- `options`: an object with the following keys
-  - `layers`: an array of layers. Each layer draws a map. It's an object with these keys:
-    - `type`: `"choropleth"`, `"network"` or `"centroid"`
-    - `data`: a [TopoJSON map](https://github.com/topojson/topojson) object
-    - `id`: optional ID for the map layer;
-    - `filter`: optional function to filter which features are drawn, e.g. `(d) => d.properties.population > 1000000`
-    - `update`: optional function to update the map features, e.g. `(join) => join.attr('fill', d => d.color)`
-    - `fit`: optional boolean. If true, the projection automatically fits to the boundary of this layer
-  - `projection`: Any [d3-geo projection](https://github.com/d3/d3-geo)
-  - `width`: optional width of the map. Defaults to the element's size (or the nearest SVG parent)
-  - `height`: optional width of the map. Defaults to the element's size (or the nearest SVG parent)
+- `el`: {string|HTMLElement} - The selector or HTML element for the SVG.
+- `params`: {Object} - Parameters for the visualization.
+  - `nodes`: {Array} - The data for the nodes.
+  - `links`: {Array} - The data for the links.
+  - `width`: {number} - (optional) The width of the SVG.
+  - `height`: {number} - (optional) The height of the SVG.
+  - `brush`: {Function} - (optional) Callback function to handle brush events.
 
-## Color features
+It returns an object with 2 keys:
 
-Add an `update` function to color features based on data.
+- `nodes`: a D3 join of the nodes
+- `links`: a D3 join of the links
 
-[![Map with colors](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/color.png)](docs/color.html ":include")
+## Use a node-link dataset
 
-[Source code](docs/color.html ":include :type=code")
+The `network()` function accepts a `{ nodes, links }` object.
 
-## Resize features
+- `nodes` is an array of objects.
+- `links` is an array of `{ source, target }` objects that to the node by index number or by reference.
 
-Add an `update` function to set any attribute on features based on data.
+```json
+{
+  "nodes": [{ "id": "Alice" }, { "id": "Bob" }, { "id": "Carol" }],
+  "links": [
+    { "source": 0, "target": 1 },
+    { "source": 1, "target": 2 }
+  ]
+}
+```
 
-[![Map with resized circles](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/features.png)](docs/features.html ":include")
+If `nodes` has an `id` key, you can specify the links using `id`:
 
-[Source code](docs/features.html ":include :type=code")
+```json
+{
+  "nodes": [{ "id": "Alice" }, { "id": "Bob" }, { "id": "Carol" }],
+  "links": [
+    { "source": "Alice", "target": "Bob" },
+    { "source": "Bob", "target": "Carol" }
+  ]
+}
+```
 
-## Animate features
+Here is a simple network that draws the above dataset:
 
-Use `.transition()` on in `update` to animate the map.
+[![Simple network](https://code.gramener.com/reuse/gramex-cartogram/-/raw/main/docs/simple.png)](docs/simple.html ":include")
 
-[![Map with animation](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/animate.gif)](docs/animate.html ":include")
+[Source code](docs/simple.html ":include :type=code")
 
-[Source code](docs/animate.html ":include :type=code")
+## Style nodes and links
 
-## Add shapes at centroid
+Update the attributes and styles of the returned `.nodes` and `.links` joins to style the nodes and links.
 
-The `"centroid"` layer type lets you add any shape to the map. This example adds a square and a label at the centroid of each feature.
+By default, the nodes are rendered as `<circle>` elements and links as `<line>` elements.
 
-[![Map with squares at centroid](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/centroid.png)](docs/centroid.html ":include")
+You can apply the D3 [`.attr`](https://github.com/d3/d3-selection#selection_attr),
+[`.classed`](https://github.com/d3/d3-selection#selection_classed),
+[`.style`](https://github.com/d3/d3-selection#selection_style),
+[`.text`](https://github.com/d3/d3-selection#selection_text),
+and any other [selection methods](https://github.com/d3/d3-selection) to style the elements.
 
-[Source code](docs/centroid.html ":include :type=code")
+You can use any node/link keys in the styles. For example:
 
-## Filter features
+```js
+const graph = await network("#network", data);
+graph.nodes.attr("r", (d) => d.depth);
+```
 
-The `filter` function is called with each feature. Features are objects with the following keys:
+[![Styled network](https://code.gramener.com/reuse/gramex-cartogram/-/raw/main/docs/style.png)](docs/style.html ":include")
 
-- `type`: `"Feature"`
-- `properties`: An object with the properties of the feature. This varies by map.
-- `geometry`: An object with the geometry of the feature. Use [d3-geo](https://github.com/d3/d3-geo) to process this
+[Source code](docs/style.html ":include :type=code")
 
-This example draws 2 layers. The second layer filters selected features and colors it in red.
-
-[![Map with filters](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/filter.png)](docs/filter.html ":include")
-
-[Source code](docs/filter.html ":include :type=code")
-
-## Zoom to fit
-
-By default, network zooms to fit all layers. To zoom to specific layers, add `fit: true` to the layers.
-
-[![Map with transformations](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/fit.png)](docs/fit.html ":include")
-
-[Source code](docs/fit.html ":include :type=code")
-
-## Multiple maps
-
-You can add different maps in each layer. In this map, we have one layer for France (red) and one for Germany (green).
-
-[![Multiple maps](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/multiple.png)](docs/multiple.html ":include")
-
-[Source code](docs/multiple.html ":include :type=code")
+<!--
 
 ## Add tooltips
 
-This example shows how to use [Bootstrap tooltips](https://getbootstrap.com/docs/5.3/components/tooltips/).
 
-1. Add a `data-bs-toggle="tooltip" title="..."` attribute to each feature using `update`
-2. Call `new bootstrap.Tooltip(element, {selector: '[data-bs-toggle="tooltip"]'})` to initialize tooltips
+## Filter nodes and links
 
-[Example](docs/tooltip.html ":include")
 
-[Source code](docs/tooltip.html ":include :type=code")
+## K-partite data
 
-## Change projection
 
-This example shows how to pass a [d3-geo projection](https://github.com/d3/d3-geo) as `projection`.
+## Animate features
 
-[![Map with projection](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/projection.png)](docs/projection.html ":include")
 
-[Source code](docs/projection.html ":include :type=code")
+## Zoom to fit
 
-## Transform SVG
-
-`network()` works on any `<svg>` or `<g>` element, and respects all transformations.
-
-[![Map with transformations](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/transform.png)](docs/transform.html ":include")
-
-[Source code](docs/transform.html ":include :type=code")
+-->
 
 ## Documentation
 
 - [**Home page**](https://gramener.com/gramex-network/)
-- [**Source**](https://code.gramener.com/reusablecharts/gramex-network.git)
+- [**Source**](https://code.gramener.com/cto/gramex-network.git)
 
 ## Release notes
 
-- 1.0.1: 7 Jun 2023. Initial release
-- 1.1.0: 8 Jun 2023. Add `type="centroid"`. Support transitions. `fit` supports multiple layers.
-- 2.0.0: 16 Jun 2023. Build as `gramex.network()` instead of `network.network()`.
+- 1.0.0: 6 Sep 2023. Initial release
 
 ## Authors
 

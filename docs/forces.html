@@ -9,7 +9,15 @@
   var root = d3.hierarchy(data);
 
   // Create the network
-  const graph = await network("#network", { links: root.links(), nodes: root.descendants() });
+  const graph = await network("#network", {
+    links: root.links(),
+    nodes: root.descendants(),
+    forces: {
+      x: false,
+      y: false,
+      center: ({ width, height }) => d3.forceCenter(width / 2, height / 2),
+    },
+  });
 
   // Style the network
   const color = d3.scaleOrdinal(d3.schemeCategory10);

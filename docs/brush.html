@@ -1,4 +1,7 @@
-<svg id="network" width="600" height="380"></svg>
+<svg id="network" width="380" height="380" style="display: inline-block"></svg>
+<div id="selection" style="display: inline-block; vertical-align: top; margin-left: 1rem">
+  Select nodes to see their names here.
+</div>
 
 <script type="module">
   import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1";
@@ -9,7 +12,12 @@
   var root = d3.hierarchy(data);
 
   // Create the network
-  const graph = await network("#network", { links: root.links(), nodes: root.descendants() });
+  const graph = await network("#network", {
+    links: root.links(),
+    nodes: root.descendants(),
+    brush: (nodes) =>
+      (document.querySelector("#selection").innerHTML = nodes.map((d) => d.data.name).join("<br>")),
+  });
 
   // Style the network
   const color = d3.scaleOrdinal(d3.schemeCategory10);

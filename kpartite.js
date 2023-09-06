@@ -19,8 +19,8 @@
  * };
  *
  * const values = {
- *  count: 1
- *  Population: "Population",
+ *  count: 1,
+ *  Population: "Population"
  * };
  *
  * const result = kpartite(data, keys, values);

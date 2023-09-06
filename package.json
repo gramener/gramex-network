@@ -1,15 +1,15 @@
 {
   "name": "@gramex/network",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A layered map visual that renders choropleths and networks from TopoJSON files",
   "module": "dist/network.js",
   "browser": "dist/network.min.js",
   "scripts": {
-    "watch": "esbuild index.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist --watch",
-    "build-browser": "esbuild index.js kpartite.js --format=iife --global-name=gramex --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
-    "build-esm": "esbuild index.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
+    "watch": "esbuild network.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist --watch",
+    "build-browser": "esbuild network.js kpartite.js --format=iife --global-name=gramex --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
+    "build-esm": "esbuild network.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
     "build": "npm run build-browser && npm run build-esm",
-    "prepublish": "npm run build"
+    "prepublishOnly": "npm run build"
   },
   "files": [
     "dist/*"

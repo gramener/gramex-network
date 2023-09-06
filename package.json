@@ -1,0 +1,46 @@
+{
+  "name": "@gramex/network",
+  "version": "2.0.0",
+  "description": "A layered map visual that renders choropleths and networks from TopoJSON files",
+  "module": "network.js",
+  "browser": "network.min.js",
+  "scripts": {
+    "watch": "esbuild index.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outfile=network.js --watch",
+    "build-browser": "esbuild index.js --format=iife --global-name=gramex --bundle --sourcemap --minify --outfile=network.min.js",
+    "build-esm": "esbuild index.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outfile=network.js",
+    "build": "npm run build-browser && npm run build-esm",
+    "prepublish": "npm run build"
+  },
+  "files": [
+    "network.*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://code.gramener.com/cto/gramex-network"
+  },
+  "keywords": [
+    "gramex",
+    "network",
+    "choropleth",
+    "map"
+  ],
+  "author": "S Anand <root.node@gmail.com>",
+  "contributors": [],
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://code.gramener.com/cto/gramex-network/-/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://gramener.com/gramex-network/",
+  "prettier": {
+    "printWidth": 100
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.2",
+    "eslint": "^8.48.0",
+    "eslint-plugin-html": "^7.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+validate:
+  image: gramener/builderrors
+  script: builderrors
+
+deploy:
+  stage: deploy
+  script: deploy
+  variables:
+    SERVER: gramener.com
+    URL: gramex-network
+    VERSION: static
+    SETUP: npm install && npm run build

@@ -1,0 +1,12 @@
+<svg id="network" width="500" height="500" style="outline: 1px solid black" viewBox="500 500"></svg>
+
+<script type="module">
+  // import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1/network.js";
+  import { network } from "../network.js";
+  import { kpartite } from "../kpartite.js";
+
+  const data = await fetch("country-religion.json").then((r) => r.json());
+  const graph = await network("#network", { data, ...kpartite(data, { country: "Country", religion: "Religion" }) });
+  graph.nodes.attr("fill", (d) => d.key == "country" ? "red" : "blue").attr("r", 5).append("title").text(d => d.value)
+  graph.links.attr("stroke", "rgba(0,0,0,0.2)")
+</script>

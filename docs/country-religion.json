@@ -1,0 +1,9542 @@
+[
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 1587608
+  },
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Refused to answer",
+    "Value": 386024
+  },
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Catholic",
+    "Value": 280921
+  },
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Orthodox",
+    "Value": 188992
+  },
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Believers without denomination",
+    "Value": 153630
+  },
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Atheist",
+    "Value": 69995
+  },
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Not Stated",
+    "Value": 68022
+  },
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Bektashism",
+    "Value": 58628
+  },
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Evangelical",
+    "Value": 3797
+  },
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Other Christians",
+    "Value": 1919
+  },
+  {
+    "Country": "Albania",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 602
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Anglican",
+    "Value": 3313
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Methodist",
+    "Value": 2733
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Pentecostal",
+    "Value": 878
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Seventh Day Adventist",
+    "Value": 871
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Church of God",
+    "Value": 869
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Baptist",
+    "Value": 833
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Roman Catholic",
+    "Value": 654
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "No Religion",
+    "Value": 456
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Other Religions",
+    "Value": 400
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Rastafarian",
+    "Value": 82
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Jehovah Witness",
+    "Value": 81
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Evangelical",
+    "Value": 60
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Hindu",
+    "Value": 45
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Brethren",
+    "Value": 39
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Not Specified",
+    "Value": 39
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Muslim",
+    "Value": 36
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Presbyterian",
+    "Value": 25
+  },
+  {
+    "Country": "Anguilla",
+    "Year": 2001,
+    "Religion": "Jewish",
+    "Value": 16
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Anglican",
+    "Value": 19767
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Seventh Day Adventist",
+    "Value": 9436
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Pentecostal",
+    "Value": 8118
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Moravian",
+    "Value": 8057
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Roman Catholic",
+    "Value": 8021
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Methodist",
+    "Value": 6091
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Baptist",
+    "Value": 3777
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Church of God",
+    "Value": 3443
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "No Religion",
+    "Value": 3145
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Evangelical",
+    "Value": 1982
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Not Declared",
+    "Value": 1329
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Jehovah Witness",
+    "Value": 1257
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Rastafarian",
+    "Value": 973
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Salvation Army",
+    "Value": 444
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Islam ",
+    "Value": 228
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Presbyterian",
+    "Value": 205
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Brethren",
+    "Value": 194
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Hindu",
+    "Value": 189
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Other",
+    "Value": 116
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Spiritualist",
+    "Value": 66
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Year": 2001,
+    "Religion": "Baha'i",
+    "Value": 51
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "Armenian Apostolic",
+    "Value": 2796519
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "Not Stated",
+    "Value": 87214
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 34373
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "Evangelical",
+    "Value": 29280
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "Shar-fadinian",
+    "Value": 25204
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "Catholic",
+    "Value": 13843
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "Yeshiva's witness",
+    "Value": 8695
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 7888
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "Armenian Orthodox",
+    "Value": 7532
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "Pagan",
+    "Value": 5434
+  },
+  {
+    "Country": "Armenia",
+    "Year": 2011,
+    "Religion": "Molokai",
+    "Value": 2872
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "Roman Catholic",
+    "Value": 76464
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "Other Religions and Persuasions",
+    "Value": 11862
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "Pagan",
+    "Value": 5625
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "No Religion",
+    "Value": 5625
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "Protestant",
+    "Value": 2698
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "Jehovah Witness",
+    "Value": 1703
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "Methodist",
+    "Value": 932
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "Adventist",
+    "Value": 880
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "Not Stated",
+    "Value": 515
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "Anglican",
+    "Value": 450
+  },
+  {
+    "Country": "Aruba",
+    "Year": 2010,
+    "Religion": "Jewish",
+    "Value": 354
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "No Religion",
+    "Value": 6933708
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Catholic",
+    "Value": 5291834
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Anglican",
+    "Value": 3101185
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Not Stated",
+    "Value": 2132167
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "United Church",
+    "Value": 870183
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Christian nfd",
+    "Value": 612371
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Islam ",
+    "Value": 604240
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Buddhist",
+    "Value": 563674
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Presbyterian and Reformed",
+    "Value": 526689
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Eastern Orthodox",
+    "Value": 502801
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Hindu",
+    "Value": 440300
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Baptist",
+    "Value": 345142
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Pentecostal",
+    "Value": 260558
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Lutheran",
+    "Value": 174019
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Sikh",
+    "Value": 125901
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Other Protestant",
+    "Value": 108307
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Religious belief, nfd and Inadequately described",
+    "Value": 106568
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Judaism",
+    "Value": 91022
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Jehovah's Witnesses",
+    "Value": 82510
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Secular Beliefs",
+    "Value": 67592
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Seventh Day Adventist",
+    "Value": 62945
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Latter Day Saints",
+    "Value": 61639
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Oriental Orthodox",
+    "Value": 51013
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Salvation Army",
+    "Value": 48939
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Church of Christ",
+    "Value": 39621
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Other Religions",
+    "Value": 39180
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Other Christians",
+    "Value": 30549
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Nature and earth based religions",
+    "Value": 27207
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Other",
+    "Value": 25065
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Brethren",
+    "Value": 17423
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Baha'i",
+    "Value": 13989
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Assyrian Apostolic",
+    "Value": 13863
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Spiritualist",
+    "Value": 10101
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Australian Aboriginal Traditional Religion",
+    "Value": 8078
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Chinese Religions",
+    "Value": 6385
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Druze",
+    "Value": 3096
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Japanese Religions",
+    "Value": 1772
+  },
+  {
+    "Country": "Australia",
+    "Year": 2016,
+    "Religion": "Secular Beliefs and Other Spiritual Beliefs and No Religious Affiliation, nfd",
+    "Value": 237
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Roman Catholic",
+    "Value": 5915421
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "No Religion",
+    "Value": 963263
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Protestant",
+    "Value": 376150
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Islam ",
+    "Value": 338988
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Not Specified",
+    "Value": 160662
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Orthodox",
+    "Value": 159115
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Jehovah Witness",
+    "Value": 23206
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Greek Orthodox",
+    "Value": 18533
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Old Catholic Church",
+    "Value": 14621
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Buddhist",
+    "Value": 10402
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Jewish",
+    "Value": 8140
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Free Christian Community",
+    "Value": 7186
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Evangelical",
+    "Value": 4892
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Seventh Day Adventist",
+    "Value": 4220
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "New Apostolic",
+    "Value": 4217
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Hindu",
+    "Value": 3629
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Sikh",
+    "Value": 2794
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Church of England",
+    "Value": 2317
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Latter Day Saints",
+    "Value": 2236
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Baptist",
+    "Value": 2108
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Armenian Apostolic",
+    "Value": 1824
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Other Religions",
+    "Value": 1745
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Christian Community",
+    "Value": 1428
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Methodist",
+    "Value": 1263
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Christengmeinschaft",
+    "Value": 1152
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Greek Oriental",
+    "Value": 1089
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Catholic",
+    "Value": 764
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Baha'i",
+    "Value": 760
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Mennonite",
+    "Value": 381
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Unification",
+    "Value": 297
+  },
+  {
+    "Country": "Austria",
+    "Year": 2001,
+    "Religion": "Shinto",
+    "Value": 123
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Baptist",
+    "Value": 122500
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Anglican",
+    "Value": 48006
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Roman Catholic",
+    "Value": 42287
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Other Christians",
+    "Value": 41214
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Pentecostal",
+    "Value": 31358
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Seventh Day Adventist",
+    "Value": 15441
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Methodist",
+    "Value": 12512
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Not Stated",
+    "Value": 9050
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Church of God",
+    "Value": 6732
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": null,
+    "Value": 6561
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Brethren",
+    "Value": 5781
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Jehovah Witness",
+    "Value": 3762
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Assembly of God",
+    "Value": 2397
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Rastafarian",
+    "Value": 790
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Presbyterian",
+    "Value": 728
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Greek Church",
+    "Value": 447
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Hindu",
+    "Value": 428
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Lutheran",
+    "Value": 376
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Islam ",
+    "Value": 306
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Mormon",
+    "Value": 301
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Other Non-Christians",
+    "Value": 228
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Jewish",
+    "Value": 191
+  },
+  {
+    "Country": "Bahamas",
+    "Year": 2010,
+    "Religion": "Baha'i",
+    "Value": 65
+  },
+  {
+    "Country": "Bahrain",
+    "Year": 2020,
+    "Religion": "Muslim",
+    "Value": 1111533
+  },
+  {
+    "Country": "Bahrain",
+    "Year": 2020,
+    "Religion": "Other Religions",
+    "Value": 390102
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2001,
+    "Religion": "Muslim",
+    "Value": 111393250
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2001,
+    "Religion": "Hindu",
+    "Value": 11608268
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2001,
+    "Religion": "Buddhist",
+    "Value": 773949
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2001,
+    "Religion": "Christian",
+    "Value": 388855
+  },
+  {
+    "Country": "Bangladesh",
+    "Year": 2001,
+    "Religion": "Other",
+    "Value": 190941
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Anglican",
+    "Value": 53969
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "No Religion",
+    "Value": 46559
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Pentecostal",
+    "Value": 44093
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Adventist",
+    "Value": 13437
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Methodist",
+    "Value": 9461
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Roman Catholic",
+    "Value": 8679
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Wesleyan",
+    "Value": 7701
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Other Christians",
+    "Value": 7567
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Nazarene",
+    "Value": 7300
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Church of God",
+    "Value": 5356
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Jehovah Witness",
+    "Value": 4515
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Baptist",
+    "Value": 4082
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Not Specified",
+    "Value": 2776
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Moravian",
+    "Value": 2692
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Rastafarian",
+    "Value": 2332
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Muslim",
+    "Value": 1605
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Brethren",
+    "Value": 1075
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Hindu",
+    "Value": 1055
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Salvation Army",
+    "Value": 879
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Other Non-Christians",
+    "Value": 624
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Mormon",
+    "Value": 235
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Jewish",
+    "Value": 103
+  },
+  {
+    "Country": "Barbados",
+    "Year": 2010,
+    "Religion": "Baha'i",
+    "Value": 98
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Roman Catholic",
+    "Value": 129456
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "No Religion",
+    "Value": 49975
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Other Religions",
+    "Value": 28976
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Pentecostal",
+    "Value": 27121
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Seventh Day Adventist",
+    "Value": 17559
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Anglican",
+    "Value": 15065
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Mennonite",
+    "Value": 12053
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Baptist",
+    "Value": 11620
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Methodist",
+    "Value": 9457
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Nazarene",
+    "Value": 9145
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Jehovah Witness",
+    "Value": 5386
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Not Stated",
+    "Value": 2028
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Mormon",
+    "Value": 1333
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Adventist",
+    "Value": 820
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Hindu",
+    "Value": 654
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Muslim",
+    "Value": 622
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Not Specified",
+    "Value": 567
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Salvation Army",
+    "Value": 400
+  },
+  {
+    "Country": "Belize",
+    "Year": 2010,
+    "Religion": "Baha'i",
+    "Value": 216
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": null,
+    "Value": 11466
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Anglican",
+    "Value": 10138
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Roman Catholic",
+    "Value": 9340
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "African Methodist Episcopal Church",
+    "Value": 5497
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Non-denominational",
+    "Value": 5309
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Other Religions",
+    "Value": 4399
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Seventh Day Adventist",
+    "Value": 4273
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Pentecostal",
+    "Value": 2246
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Methodist",
+    "Value": 1747
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Other",
+    "Value": 1527
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Not Stated",
+    "Value": 1407
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Presbyterian",
+    "Value": 1300
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Church of God",
+    "Value": 1001
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Jehovah Witness",
+    "Value": 850
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Baptist",
+    "Value": 786
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Salvation Army",
+    "Value": 708
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Brethren",
+    "Value": 652
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Muslim",
+    "Value": 616
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Ethiopian Orthodox",
+    "Value": 253
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Lutheran",
+    "Value": 251
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Rastafarian",
+    "Value": 212
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Jewish",
+    "Value": 135
+  },
+  {
+    "Country": "Bermuda",
+    "Year": 2010,
+    "Religion": "Baha'i",
+    "Value": 124
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2011,
+    "Religion": "Christian",
+    "Value": 1171537
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 547103
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 225416
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2011,
+    "Religion": "Badimo",
+    "Value": 60613
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 10941
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2011,
+    "Religion": "Hindu",
+    "Value": 3729
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2011,
+    "Religion": "Baha'i",
+    "Value": 2074
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2011,
+    "Religion": "Rastafarian",
+    "Value": 2030
+  },
+  {
+    "Country": "Botswana",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 1461
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Roman Apostolic Catholic",
+    "Value": 123280172
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "No Religion",
+    "Value": 15335510
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Assembly of God",
+    "Value": 12314410
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Other Traditional Evangelical",
+    "Value": 9358386
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Other Evangelical Pentecostal",
+    "Value": 8047813
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Espiritia",
+    "Value": 3848876
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Baptist",
+    "Value": 3723853
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Christian Congregation of Brazil",
+    "Value": 2289634
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Other Religions",
+    "Value": 1953260
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Universal of the Kingdom of God",
+    "Value": 1873243
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Adventist",
+    "Value": 1561071
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Jehovah Witness",
+    "Value": 1393208
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Lutheran",
+    "Value": 999498
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Presbyterian",
+    "Value": 921209
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "God is Love",
+    "Value": 845383
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Not Specified",
+    "Value": 643598
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Brasilian Apostolic Catholic",
+    "Value": 560781
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Umbanda",
+    "Value": 407331
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Methodist",
+    "Value": 340938
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Buddhist",
+    "Value": 243966
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Not Declared",
+    "Value": 241941
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Candomble",
+    "Value": 167363
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Orthodox Catholic",
+    "Value": 131571
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Jewish",
+    "Value": 107329
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Messianica",
+    "Value": 103716
+  },
+  {
+    "Country": "Brazil",
+    "Year": 2010,
+    "Religion": "Spiritualist",
+    "Value": 61739
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Methodist",
+    "Value": 4941
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Church of God",
+    "Value": 2913
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Anglican",
+    "Value": 2674
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Seventh Day Adventist",
+    "Value": 2523
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Roman Catholic",
+    "Value": 2492
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Pentecostal",
+    "Value": 2292
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "No Religion",
+    "Value": 2230
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Baptist",
+    "Value": 2080
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "New Testament Church of God",
+    "Value": 1924
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Other",
+    "Value": 1153
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Jehovah Witness",
+    "Value": 693
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Not Stated",
+    "Value": 683
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Hindu",
+    "Value": 528
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Muslim",
+    "Value": 255
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Evangelical",
+    "Value": 184
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Rastafarian",
+    "Value": 179
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Moravian",
+    "Value": 92
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Mormon",
+    "Value": 75
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Presbyterian",
+    "Value": 68
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Buddhist",
+    "Value": 43
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Judaism",
+    "Value": 11
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Year": 2010,
+    "Religion": "Baha'i",
+    "Value": 10
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 309962
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Year": 2011,
+    "Religion": "Christian",
+    "Value": 34176
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Year": 2011,
+    "Religion": "Buddhist",
+    "Value": 30814
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 18420
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Religion": "Eastern Orthodox",
+    "Value": 4374135
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 1606269
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 577139
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Religion": "Not Specified",
+    "Value": 409898
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 272264
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Religion": "Protestant",
+    "Value": 64476
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Religion": "Catholic",
+    "Value": 48945
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 9023
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Religion": "Armeno-Gregorian",
+    "Value": 1715
+  },
+  {
+    "Country": "Bulgaria",
+    "Year": 2011,
+    "Religion": "Yiddish",
+    "Value": 706
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2006,
+    "Religion": "Muslim",
+    "Value": 8485149
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2006,
+    "Religion": "Catholic",
+    "Value": 2664236
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2006,
+    "Religion": "Animist",
+    "Value": 2150309
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2006,
+    "Religion": "Protestant",
+    "Value": 585154
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2006,
+    "Religion": "Other",
+    "Value": 79485
+  },
+  {
+    "Country": "Burkina Faso",
+    "Year": 2006,
+    "Religion": "No Religion",
+    "Value": 52929
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2008,
+    "Religion": "Catholic",
+    "Value": 4941833
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2008,
+    "Religion": "Protestant",
+    "Value": 1722039
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2008,
+    "Religion": "Other Religions",
+    "Value": 494533
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2008,
+    "Religion": "Unknown",
+    "Value": 491098
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2008,
+    "Religion": "Muslim",
+    "Value": 200509
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2008,
+    "Religion": "Adventist",
+    "Value": 185361
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2008,
+    "Religion": "Jehovah's Witnesses",
+    "Value": 25454
+  },
+  {
+    "Country": "Burundi",
+    "Year": 2008,
+    "Religion": "Traditional",
+    "Value": 2747
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "Muslim",
+    "Value": 9618121
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "No Religion",
+    "Value": 4289895
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "Catholic",
+    "Value": 3851434
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "Evangelical",
+    "Value": 2647178
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "Animist",
+    "Value": 808719
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "Other Christians",
+    "Value": 503349
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "Protestant",
+    "Value": 383900
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "Unknown",
+    "Value": 234442
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "Other Religions and Persuasions",
+    "Value": 117761
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "Harriste",
+    "Value": 116950
+  },
+  {
+    "Country": "C\u00f4te d'Ivoire",
+    "Year": 2014,
+    "Religion": "Celestial",
+    "Value": 99582
+  },
+  {
+    "Country": "Cambodia",
+    "Year": 2008,
+    "Religion": "Buddhist",
+    "Value": 12984523
+  },
+  {
+    "Country": "Cambodia",
+    "Year": 2008,
+    "Religion": "Islam ",
+    "Value": 257022
+  },
+  {
+    "Country": "Cambodia",
+    "Year": 2008,
+    "Religion": "Other",
+    "Value": 104081
+  },
+  {
+    "Country": "Cambodia",
+    "Year": 2008,
+    "Religion": "Christian",
+    "Value": 50056
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 12728880
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 7762200
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "United Church",
+    "Value": 2007610
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Anglican",
+    "Value": 1631845
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Christians, n.i.e.",
+    "Value": 1475565
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Islam ",
+    "Value": 1053945
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Baptist",
+    "Value": 635840
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Protestant nfd",
+    "Value": 550965
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Hindu",
+    "Value": 497960
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Pentecostal",
+    "Value": 478705
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Lutheran",
+    "Value": 478180
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Presbyterian",
+    "Value": 472385
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Sikh",
+    "Value": 454960
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Buddhist",
+    "Value": 366830
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Jewish",
+    "Value": 329500
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Other Orthodox Churches",
+    "Value": 220270
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Greek Orthodox",
+    "Value": 220255
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Mennonite",
+    "Value": 179195
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Jehovah Witness",
+    "Value": 137780
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Church of Jesus Christ of Latter-day Saints",
+    "Value": 105365
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Evangelical",
+    "Value": 92650
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Salvation Army",
+    "Value": 70955
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Adventist",
+    "Value": 66940
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Christian Reformed Church",
+    "Value": 65395
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Aboriginal spirituality",
+    "Value": 64940
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 53685
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Ukrainian Catholic",
+    "Value": 51790
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Christian and Mission Alliance",
+    "Value": 50720
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Atheist",
+    "Value": 48675
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Non-denominational",
+    "Value": 43595
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Agnostic",
+    "Value": 36280
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Other Catholic",
+    "Value": 28865
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Russian Orthodox",
+    "Value": 25245
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Ukrainian Orthodox",
+    "Value": 23845
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Other Reformed Church",
+    "Value": 22965
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Serbian Orthodox",
+    "Value": 22780
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Methodist",
+    "Value": 22750
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Baha'i",
+    "Value": 18945
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Brethren in Christ",
+    "Value": 18110
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Coptic Orthodox",
+    "Value": 16255
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Church of Christ",
+    "Value": 15815
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Pagan",
+    "Value": 15270
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Unitarian",
+    "Value": 15125
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Armenian Orthodox",
+    "Value": 13730
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Wesleyan",
+    "Value": 13290
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Free Methodists",
+    "Value": 10555
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Canadian Reformed Church",
+    "Value": 10120
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Church of Nazarene",
+    "Value": 9015
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Evangelical Missionary Church",
+    "Value": 7820
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Church of God",
+    "Value": 7290
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Romanian Orthodox",
+    "Value": 7085
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Evangelical Free Church",
+    "Value": 6545
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Other Christians",
+    "Value": 6145
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Zoroastrian",
+    "Value": 6130
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Associated Gospel",
+    "Value": 5700
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Christian or Plymouth Brethren",
+    "Value": 5370
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "New Apostolic",
+    "Value": 5220
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Moravian",
+    "Value": 5020
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Dutch Reformed",
+    "Value": 4355
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Spiritualist",
+    "Value": 4315
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Taoist",
+    "Value": 3625
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Humanist",
+    "Value": 3450
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Jains",
+    "Value": 3320
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Reorganized Church of Latter-day Saints",
+    "Value": 3300
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Christadelphian",
+    "Value": 3000
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Quakers",
+    "Value": 2725
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Unity-New Thought-Pantheist",
+    "Value": 2565
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Christian Congregational",
+    "Value": 2510
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Doukhobors",
+    "Value": 2290
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "New Age",
+    "Value": 2225
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Charismatic Renewal",
+    "Value": 1960
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Interdenominational",
+    "Value": 1815
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Scientology",
+    "Value": 1745
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Apostolic Christian Church",
+    "Value": 1600
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Vineyard Christian Fellowship",
+    "Value": 1585
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Antiochian Orthodox Christian",
+    "Value": 1220
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Rastafarian",
+    "Value": 1060
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Satanist",
+    "Value": 1050
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Shinto",
+    "Value": 915
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Gnostic",
+    "Value": 870
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Swedenborgian (New Church)",
+    "Value": 840
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Worldwide Church of God",
+    "Value": 600
+  },
+  {
+    "Country": "Canada",
+    "Year": 2011,
+    "Religion": "Mission de l'Esprit Saint",
+    "Value": 520
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Church of God",
+    "Value": 12459.70481
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Roman Catholic",
+    "Value": 7745.359712
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Seventh Day Adventist",
+    "Value": 5171.455055
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": null,
+    "Value": 5116.343729
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Presbyterian and Reformed",
+    "Value": 4750.262838
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Baptist",
+    "Value": 4541.234896
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Pentecostal",
+    "Value": 391672764
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Other",
+    "Value": 3892.200345
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Non-denominational",
+    "Value": 2907.586049
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Anglican",
+    "Value": 2251.722789
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Wesleyan",
+    "Value": 1335.189337
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Jehovah Witness",
+    "Value": 613.3797966
+  },
+  {
+    "Country": "Cayman Islands",
+    "Year": 2010,
+    "Religion": "Not Stated",
+    "Value": 335.4878946
+  },
+  {
+    "Country": "Chile",
+    "Year": 2002,
+    "Religion": "Catholic",
+    "Value": 7853428
+  },
+  {
+    "Country": "Chile",
+    "Year": 2002,
+    "Religion": "Evangelical",
+    "Value": 1699725
+  },
+  {
+    "Country": "Chile",
+    "Year": 2002,
+    "Religion": "No religion, Agnostic, Atheist",
+    "Value": 931990
+  },
+  {
+    "Country": "Chile",
+    "Year": 2002,
+    "Religion": "Other Religions",
+    "Value": 493147
+  },
+  {
+    "Country": "Chile",
+    "Year": 2002,
+    "Religion": "Jehovah Witness",
+    "Value": 119455
+  },
+  {
+    "Country": "Chile",
+    "Year": 2002,
+    "Religion": "Mormon",
+    "Value": 103735
+  },
+  {
+    "Country": "Chile",
+    "Year": 2002,
+    "Religion": "Judaism",
+    "Value": 14976
+  },
+  {
+    "Country": "Chile",
+    "Year": 2002,
+    "Religion": "Orthodox",
+    "Value": 6959
+  },
+  {
+    "Country": "Chile",
+    "Year": 2002,
+    "Religion": "Muslim",
+    "Value": 2894
+  },
+  {
+    "Country": "Cook Islands",
+    "Year": 2011,
+    "Religion": "Cook Islands Christian Church",
+    "Value": 7356
+  },
+  {
+    "Country": "Cook Islands",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 2540
+  },
+  {
+    "Country": "Cook Islands",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 1201
+  },
+  {
+    "Country": "Cook Islands",
+    "Year": 2011,
+    "Religion": "Seventh Day Adventist",
+    "Value": 1190
+  },
+  {
+    "Country": "Cook Islands",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 841
+  },
+  {
+    "Country": "Cook Islands",
+    "Year": 2011,
+    "Religion": "Latter Day Saints",
+    "Value": 656
+  },
+  {
+    "Country": "Cook Islands",
+    "Year": 2011,
+    "Religion": "Assembly of God",
+    "Value": 557
+  },
+  {
+    "Country": "Cook Islands",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 323
+  },
+  {
+    "Country": "Cook Islands",
+    "Year": 2011,
+    "Religion": "Apostolic",
+    "Value": 310
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Catholic",
+    "Value": 3697143
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Orthodox",
+    "Value": 190143
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Atheist",
+    "Value": 163375
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Not Declared",
+    "Value": 93018
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 62977
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Agnostic",
+    "Value": 32518
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Protestant",
+    "Value": 14653
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Other Christians",
+    "Value": 12961
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 12460
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 2555
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Oriental",
+    "Value": 2550
+  },
+  {
+    "Country": "Croatia",
+    "Year": 2011,
+    "Religion": "Jewish",
+    "Value": 536
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2001,
+    "Religion": "Orthodox",
+    "Value": 653635
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2001,
+    "Religion": "Roman Catholic",
+    "Value": 10240
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2001,
+    "Religion": "Anglican",
+    "Value": 6839
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2001,
+    "Religion": "Other",
+    "Value": 6505
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2001,
+    "Religion": "Muslim",
+    "Value": 4182
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2001,
+    "Religion": "Maronite church",
+    "Value": 3930
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2001,
+    "Religion": "Armenian church",
+    "Value": 1741
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2001,
+    "Religion": "Atheist",
+    "Value": 1500
+  },
+  {
+    "Country": "Cyprus",
+    "Year": 2001,
+    "Religion": "Not Stated",
+    "Value": 993
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 4662455
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 3604095
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 1082463
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Not Specified",
+    "Value": 705368
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 209028
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Evangelical",
+    "Value": 51858
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Czechoslovak Hussite Church",
+    "Value": 39229
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Orthodox",
+    "Value": 20533
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Jehovah's Witnesses",
+    "Value": 13069
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Brethren",
+    "Value": 10865
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Catholic",
+    "Value": 9883
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Christian",
+    "Value": 9377
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Silesian Evangelical Church",
+    "Value": 8158
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Seventh Day Adventist",
+    "Value": 7391
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Old Catholic Church",
+    "Value": 1730
+  },
+  {
+    "Country": "Czechia",
+    "Year": 2011,
+    "Religion": "Atheist",
+    "Value": 1058
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Roman Catholic",
+    "Value": 42174
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Other Evangelical Churches",
+    "Value": 4882
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "No Religion",
+    "Value": 4165
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Seventh Day Adventist",
+    "Value": 4144
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Pentecostal",
+    "Value": 3863
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Baptist",
+    "Value": 2798
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Methodist",
+    "Value": 2572
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Rastafarian",
+    "Value": 879
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Church of God",
+    "Value": 819
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Jehovah Witness",
+    "Value": 805
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Not Specified",
+    "Value": 720
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Anglican",
+    "Value": 423
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Other",
+    "Value": 252
+  },
+  {
+    "Country": "Dominica",
+    "Year": 2001,
+    "Religion": "Islam ",
+    "Value": 139
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 592588
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Orthodox",
+    "Value": 176773
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Refused to answer",
+    "Value": 157216
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Lutheran",
+    "Value": 108513
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 23888
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Baptist",
+    "Value": 4507
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 4501
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Jehovah Witness",
+    "Value": 3938
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Taara or Earth Believer",
+    "Value": 2972
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Old Believers",
+    "Value": 2605
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Christian Free Congregations",
+    "Value": 2189
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Other Christians",
+    "Value": 1899
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Pentecostal",
+    "Value": 1855
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Not Specified",
+    "Value": 1804
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 1508
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 1228
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Adventist",
+    "Value": 1194
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Buddhist",
+    "Value": 1145
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Methodist",
+    "Value": 1098
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Judaism",
+    "Value": 355
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Apostolic",
+    "Value": 341
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Pagan",
+    "Value": 341
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Estonian Ancient Belief",
+    "Value": 291
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "New Age",
+    "Value": 272
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Church of Christian Fellowship",
+    "Value": 269
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Mormon",
+    "Value": 185
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Russian Catholic Orthodox Church",
+    "Value": 160
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Taoist",
+    "Value": 144
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Hindu",
+    "Value": 142
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Ukrainian Greek-Catholic Church",
+    "Value": 124
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Hare Rama Hare Krishna",
+    "Value": 121
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Satanist",
+    "Value": 120
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Spiritualist",
+    "Value": 100
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Church of Charismatic Fellowship",
+    "Value": 99
+  },
+  {
+    "Country": "Estonia",
+    "Year": 2011,
+    "Religion": "Charismatic Episcopal Church",
+    "Value": 79
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2007,
+    "Religion": "Orthodox",
+    "Value": 32092182
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2007,
+    "Religion": "Muslim",
+    "Value": 25037646
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2007,
+    "Religion": "Protestant",
+    "Value": 13661588
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2007,
+    "Religion": "Traditional",
+    "Value": 1956647
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2007,
+    "Religion": "Catholic",
+    "Value": 532187
+  },
+  {
+    "Country": "Ethiopia",
+    "Year": 2007,
+    "Religion": "Other",
+    "Value": 470682
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Year": 2006,
+    "Religion": "Christian",
+    "Value": 1985
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Year": 2006,
+    "Religion": null,
+    "Value": 931
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Year": 2006,
+    "Religion": "Baha'i",
+    "Value": 12
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Year": 2006,
+    "Religion": "Other",
+    "Value": 11
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Year": 2006,
+    "Religion": "Hindu",
+    "Value": 9
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Year": 2006,
+    "Religion": "Muslim",
+    "Value": 9
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Year": 2006,
+    "Religion": "Buddhist",
+    "Value": 5
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Year": 2006,
+    "Religion": "Jewish",
+    "Value": 1
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "Methodist",
+    "Value": 289923
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "Hindu",
+    "Value": 233393
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "Other Christians",
+    "Value": 86781
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "Catholic",
+    "Value": 76433
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "Muslim",
+    "Value": 52520
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "Assembly of God",
+    "Value": 47778
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "Seventh Day Adventist",
+    "Value": 32308
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "No Religion",
+    "Value": 7073
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "Anglican",
+    "Value": 6313
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "Sikh",
+    "Value": 2577
+  },
+  {
+    "Country": "Fiji",
+    "Year": 2007,
+    "Religion": "Other Religions",
+    "Value": 2172
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Lutheran",
+    "Value": 3749713
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "No Religion",
+    "Value": 1627727
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "The Greek Orthodox Church in Finland",
+    "Value": 60086
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Islam ",
+    "Value": 19347
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Jehovah Witness",
+    "Value": 16787
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Other Lutheran Churches",
+    "Value": 15329
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Free Church in Finland",
+    "Value": 15064
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Roman Catholic Church in Finland",
+    "Value": 14529
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Adventist",
+    "Value": 3236
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Latter Day Saints",
+    "Value": 3230
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Other Religions",
+    "Value": 2836
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Baptist",
+    "Value": 2512
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Buddhist",
+    "Value": 1826
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Methodist",
+    "Value": 1364
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Jewish",
+    "Value": 1094
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Baha'i",
+    "Value": 653
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Hindu",
+    "Value": 368
+  },
+  {
+    "Country": "Finland",
+    "Year": 2021,
+    "Religion": "Christian",
+    "Value": 286
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Religion": "Christian Orthodox",
+    "Value": 3097573
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Religion": "Muslim",
+    "Value": 398677
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Religion": "Armeno-Gregorian",
+    "Value": 109041
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Religion": "Not Specified",
+    "Value": 34251
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Religion": "Other",
+    "Value": 24935
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Religion": "Catholic",
+    "Value": 19195
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Religion": null,
+    "Value": 19080
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Religion": "Unknown",
+    "Value": 9635
+  },
+  {
+    "Country": "Georgia",
+    "Year": 2014,
+    "Religion": "Jewish",
+    "Value": 1417
+  },
+  {
+    "Country": "Germany",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 32783750
+  },
+  {
+    "Country": "Germany",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 24066604
+  },
+  {
+    "Country": "Germany",
+    "Year": 2011,
+    "Religion": "Protestant",
+    "Value": 23369341
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2010,
+    "Religion": "Pentecostal",
+    "Value": 6980792
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2010,
+    "Religion": "Protestant",
+    "Value": 4534178
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2010,
+    "Religion": "Islam ",
+    "Value": 4345723
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2010,
+    "Religion": "Catholic",
+    "Value": 3230996
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2010,
+    "Religion": "Other Christians",
+    "Value": 2800871
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2010,
+    "Religion": "No Religion",
+    "Value": 1302077
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2010,
+    "Religion": "Traditional",
+    "Value": 1270272
+  },
+  {
+    "Country": "Ghana",
+    "Year": 2010,
+    "Religion": "Other Religions",
+    "Value": 193914
+  },
+  {
+    "Country": "Gibraltar",
+    "Year": 2012,
+    "Religion": "Roman Catholic",
+    "Value": 23223
+  },
+  {
+    "Country": "Gibraltar",
+    "Year": 2012,
+    "Religion": "Church of England",
+    "Value": 2480
+  },
+  {
+    "Country": "Gibraltar",
+    "Year": 2012,
+    "Religion": "No Religion",
+    "Value": 2293
+  },
+  {
+    "Country": "Gibraltar",
+    "Year": 2012,
+    "Religion": "Other Christians",
+    "Value": 1232
+  },
+  {
+    "Country": "Gibraltar",
+    "Year": 2012,
+    "Religion": "Muslim",
+    "Value": 1166
+  },
+  {
+    "Country": "Gibraltar",
+    "Year": 2012,
+    "Religion": "Jewish",
+    "Value": 763
+  },
+  {
+    "Country": "Gibraltar",
+    "Year": 2012,
+    "Religion": "Hindu",
+    "Value": 628
+  },
+  {
+    "Country": "Gibraltar",
+    "Year": 2012,
+    "Religion": "Other",
+    "Value": 365
+  },
+  {
+    "Country": "Gibraltar",
+    "Year": 2012,
+    "Religion": "Not Stated",
+    "Value": 44
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2014,
+    "Religion": "Muslim",
+    "Value": 9358718
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2014,
+    "Religion": "Christian",
+    "Value": 711349
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2014,
+    "Religion": "No Religion",
+    "Value": 252786
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2014,
+    "Religion": "Animist",
+    "Value": 167406
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2014,
+    "Religion": "Unknown",
+    "Value": 20129
+  },
+  {
+    "Country": "Guinea",
+    "Year": 2014,
+    "Religion": "Other",
+    "Value": 12873
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2009,
+    "Religion": "Muslim",
+    "Value": 650402
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2009,
+    "Religion": "Christian",
+    "Value": 318021
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2009,
+    "Religion": "Unknown",
+    "Value": 228718
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2009,
+    "Religion": "Animist",
+    "Value": 215130
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2009,
+    "Religion": "No Religion",
+    "Value": 29542
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Year": 2009,
+    "Religion": "Other",
+    "Value": 414
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 3691389
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Not Declared",
+    "Value": 2698844
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": null,
+    "Value": 1659023
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Calvinist",
+    "Value": 1153454
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Lutheran",
+    "Value": 215093
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Greek Catholic",
+    "Value": 179176
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Atheist",
+    "Value": 147386
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 84506
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Other Protestant",
+    "Value": 58301
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Baptist",
+    "Value": 18211
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Orthodox",
+    "Value": 13710
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Jewish",
+    "Value": 10965
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Adventist",
+    "Value": 6213
+  },
+  {
+    "Country": "Hungary",
+    "Year": 2011,
+    "Religion": "Other Catholic",
+    "Value": 1357
+  },
+  {
+    "Country": "India",
+    "Year": 2001,
+    "Religion": "Hindu",
+    "Value": 827578868
+  },
+  {
+    "Country": "India",
+    "Year": 2001,
+    "Religion": "Muslim",
+    "Value": 138188240
+  },
+  {
+    "Country": "India",
+    "Year": 2001,
+    "Religion": "Christian",
+    "Value": 24080016
+  },
+  {
+    "Country": "India",
+    "Year": 2001,
+    "Religion": "Sikh",
+    "Value": 19215730
+  },
+  {
+    "Country": "India",
+    "Year": 2001,
+    "Religion": "Buddhist",
+    "Value": 7955207
+  },
+  {
+    "Country": "India",
+    "Year": 2001,
+    "Religion": "Other",
+    "Value": 6639626
+  },
+  {
+    "Country": "India",
+    "Year": 2001,
+    "Religion": "Jains",
+    "Value": 4225053
+  },
+  {
+    "Country": "India",
+    "Year": 2001,
+    "Religion": "Not Specified",
+    "Value": 727588
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2010,
+    "Religion": "Muslim",
+    "Value": 207176162
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2010,
+    "Religion": "Protestant",
+    "Value": 16528513
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2010,
+    "Religion": "Catholic",
+    "Value": 6907873
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2010,
+    "Religion": "Hindu",
+    "Value": 4012116
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2010,
+    "Religion": "Buddhist",
+    "Value": 1703254
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2010,
+    "Religion": "Not Asked",
+    "Value": 757118
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2010,
+    "Religion": "Other",
+    "Value": 299617
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2010,
+    "Religion": "Not Stated",
+    "Value": 139582
+  },
+  {
+    "Country": "Indonesia",
+    "Year": 2010,
+    "Religion": "Confucian",
+    "Value": 117091
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "Year": 2016,
+    "Religion": "Muslim",
+    "Value": 79598054
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "Year": 2016,
+    "Religion": "Christian",
+    "Value": 130158
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "Year": 2016,
+    "Religion": "Not Specified",
+    "Value": 124572
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "Year": 2016,
+    "Religion": "Other Religions",
+    "Value": 40551
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "Year": 2016,
+    "Religion": "Zoroastrian",
+    "Value": 23109
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "Year": 2016,
+    "Religion": "Jewish",
+    "Value": 9826
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 3861335
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 269811
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Church of Ireland",
+    "Value": 129039
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Not Stated",
+    "Value": 72914
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 49204
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Orthodox",
+    "Value": 45223
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Christian",
+    "Value": 41161
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Presbyterian",
+    "Value": 24600
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 14118
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Apostolic",
+    "Value": 14043
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Hindu",
+    "Value": 10688
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Buddhist",
+    "Value": 8703
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Methodist",
+    "Value": 6842
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Jehovah Witness",
+    "Value": 6149
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Lutheran",
+    "Value": 5683
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Protestant",
+    "Value": 5326
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Evangelical",
+    "Value": 4188
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Atheist",
+    "Value": 3905
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Baptist",
+    "Value": 3531
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Agnostic",
+    "Value": 3521
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Jewish",
+    "Value": 1984
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Pantheism",
+    "Value": 1940
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Latter Day Saints",
+    "Value": 1284
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Lapsed Roman Catholic",
+    "Value": 1279
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Quakers",
+    "Value": 925
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Baha'i",
+    "Value": 520
+  },
+  {
+    "Country": "Ireland",
+    "Year": 2011,
+    "Religion": "Brethren",
+    "Value": 336
+  },
+  {
+    "Country": "Israel",
+    "Year": 1995,
+    "Religion": "Jewish",
+    "Value": 4476225
+  },
+  {
+    "Country": "Israel",
+    "Year": 1995,
+    "Religion": "Muslim",
+    "Value": 808375
+  },
+  {
+    "Country": "Israel",
+    "Year": 1995,
+    "Religion": "Christian",
+    "Value": 122400
+  },
+  {
+    "Country": "Israel",
+    "Year": 1995,
+    "Religion": "Druze",
+    "Value": 92655
+  },
+  {
+    "Country": "Israel",
+    "Year": 1995,
+    "Religion": "Other",
+    "Value": 67445
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 571988
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Seventh Day Adventist",
+    "Value": 322202
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Pentecostal",
+    "Value": 295209
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Other Church of God",
+    "Value": 246790
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "New Testament Church of God",
+    "Value": 192128
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Baptist",
+    "Value": 180626
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 169000
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Church of God in Jamaica",
+    "Value": 129557
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Church of God of Prophecy",
+    "Value": 121264
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Anglican",
+    "Value": 74995
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Not Specified",
+    "Value": 61403
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 58010
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "United Church",
+    "Value": 55419
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Jehovah Witness",
+    "Value": 50843
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Methodist",
+    "Value": 43362
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Revived",
+    "Value": 36309
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Rastafarian",
+    "Value": 29028
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Brethren",
+    "Value": 23647
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Moravian",
+    "Value": 18351
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Hindu",
+    "Value": 1839
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Islam ",
+    "Value": 1511
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Judaism",
+    "Value": 506
+  },
+  {
+    "Country": "Jamaica",
+    "Year": 2011,
+    "Religion": "Baha'i",
+    "Value": 269
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2009,
+    "Religion": "Islam ",
+    "Value": 11239176
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2009,
+    "Religion": "Christian",
+    "Value": 4214232
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2009,
+    "Religion": "Non-believers",
+    "Value": 451547
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2009,
+    "Religion": "Not Stated",
+    "Value": 81010
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2009,
+    "Religion": "Buddhist",
+    "Value": 14663
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2009,
+    "Religion": "Judaism",
+    "Value": 5281
+  },
+  {
+    "Country": "Kazakhstan",
+    "Year": 2009,
+    "Religion": "Other",
+    "Value": 3688
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "Protestant",
+    "Value": 15777430
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "Catholic",
+    "Value": 9726143
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "Evangelical",
+    "Value": 9648674
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "Muslim",
+    "Value": 5152186
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "African Instituted Churches",
+    "Value": 3292568
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "Other Christians",
+    "Value": 1732904
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "No Religion",
+    "Value": 755748
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "Other Religions",
+    "Value": 467081
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "Traditional",
+    "Value": 318726
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "Orthodox",
+    "Value": 201263
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "Unknown",
+    "Value": 73249
+  },
+  {
+    "Country": "Kenya",
+    "Year": 2019,
+    "Religion": "Hindu",
+    "Value": 60287
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Catholic",
+    "Value": 63116
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Kempsville Presbyterian Church",
+    "Value": 34464
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Latter Day Saints (Mormon)",
+    "Value": 5857
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Baha'i",
+    "Value": 2314
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Seventh Day Adventist",
+    "Value": 2064
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Other",
+    "Value": 832
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Assembly of God",
+    "Value": 364
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Te koaua",
+    "Value": 352
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Church of God",
+    "Value": 279
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "All Nations Baptist",
+    "Value": 141
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Muslim",
+    "Value": 139
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Te Ran",
+    "Value": 86
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "Church of the Foursquare Gospel",
+    "Value": 77
+  },
+  {
+    "Country": "Kiribati",
+    "Year": 2015,
+    "Religion": "No Religion",
+    "Value": 51
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Year": 2015,
+    "Religion": "Buddhist",
+    "Value": 4201993
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Year": 2015,
+    "Religion": "No Religion",
+    "Value": 2040365
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Year": 2015,
+    "Religion": "Not Stated",
+    "Value": 114012
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Year": 2015,
+    "Religion": "Christian",
+    "Value": 112230
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Year": 2015,
+    "Religion": "Other",
+    "Value": 19901
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Year": 2015,
+    "Religion": "Baha'i",
+    "Value": 2122
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Year": 2015,
+    "Religion": "Muslim",
+    "Value": 1605
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2008,
+    "Religion": "Christian",
+    "Value": 2975675
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2008,
+    "Religion": "Muslim",
+    "Value": 424685
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2008,
+    "Religion": "No Religion",
+    "Value": 50688
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2008,
+    "Religion": "Traditional",
+    "Value": 20134
+  },
+  {
+    "Country": "Liberia",
+    "Year": 2008,
+    "Religion": "Other Religions",
+    "Value": 5426
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "Roman Catholic",
+    "Value": 27599
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "No Afiliation",
+    "Value": 2623
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "Protestant Reformed",
+    "Value": 2365
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "Islam ",
+    "Value": 2215
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "Not Specified",
+    "Value": 1229
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "Christian Orthodox",
+    "Value": 472
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "Protestant Lutheran",
+    "Value": 447
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "Other Protestant",
+    "Value": 259
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "Buddhist",
+    "Value": 180
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "Other",
+    "Value": 128
+  },
+  {
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Religion": "Other Christians",
+    "Value": 105
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Roman Catholic",
+    "Value": 2085340
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Not Stated",
+    "Value": 384094
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "No Religion",
+    "Value": 171810
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Orthodox",
+    "Value": 105326
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Old Believers",
+    "Value": 18196
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Evangelical Lutherans",
+    "Value": 15741
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Other",
+    "Value": 15353
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Evangelical Reformists",
+    "Value": 5540
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Pentecostal",
+    "Value": 3032
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Sunni Muslims",
+    "Value": 2165
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Baptist",
+    "Value": 1092
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Judaism",
+    "Value": 899
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Greek Catholic",
+    "Value": 785
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Seventh Day Adventist",
+    "Value": 721
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "New Apostolic",
+    "Value": 412
+  },
+  {
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Religion": "Karaite",
+    "Value": 255
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2018,
+    "Religion": "Christian",
+    "Value": 13581623
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2018,
+    "Religion": "Islam ",
+    "Value": 2426754
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2018,
+    "Religion": "Other Religions",
+    "Value": 1178588
+  },
+  {
+    "Country": "Malawi",
+    "Year": 2018,
+    "Religion": "No Religion",
+    "Value": 376784
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Islam ",
+    "Value": 17375794
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Islam ",
+    "Value": 16849328
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Buddhist",
+    "Value": 5620483
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Buddhist",
+    "Value": 5446855
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Christian",
+    "Value": 2617159
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Christian",
+    "Value": 2542254
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Hindu",
+    "Value": 1777694
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Hindu",
+    "Value": 1725838
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Confucianism/Taoism and Other Traditional Chinese",
+    "Value": 356718
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Confucianism/Taoism and Other Traditional Chinese",
+    "Value": 346827
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Unknown",
+    "Value": 271765
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Unknown",
+    "Value": 266884
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "No Religion",
+    "Value": 202763
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "No Religion",
+    "Value": 197064
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Other Religions",
+    "Value": 111759
+  },
+  {
+    "Country": "Malaysia",
+    "Year": 2010,
+    "Religion": "Other Religions",
+    "Value": 109546
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2014,
+    "Religion": "Islam ",
+    "Value": 377651
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2014,
+    "Religion": "Hindu",
+    "Value": 10163
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2014,
+    "Religion": "Christian",
+    "Value": 6403
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2014,
+    "Religion": "Buddhist",
+    "Value": 5337
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2014,
+    "Religion": "Other",
+    "Value": 1289
+  },
+  {
+    "Country": "Maldives",
+    "Year": 2014,
+    "Religion": "Not Stated",
+    "Value": 1228
+  },
+  {
+    "Country": "Marshall Islands",
+    "Year": 1999,
+    "Religion": "Protestant",
+    "Value": 27849
+  },
+  {
+    "Country": "Marshall Islands",
+    "Year": 1999,
+    "Religion": "Assembly of God",
+    "Value": 13112
+  },
+  {
+    "Country": "Marshall Islands",
+    "Year": 1999,
+    "Religion": "Other",
+    "Value": 5632
+  },
+  {
+    "Country": "Marshall Islands",
+    "Year": 1999,
+    "Religion": "Roman Catholic",
+    "Value": 4255
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Hindu",
+    "Value": 469313
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 324811
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 153505
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Tamil and Tamil Hindu",
+    "Value": 72036
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Islam ",
+    "Value": 59178
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Christian",
+    "Value": 47774
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Telegu and Telegu Hindu",
+    "Value": 27809
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Marathi & Marathi Hindu",
+    "Value": 20654
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 8772
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Assembly of God",
+    "Value": 8692
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Pentecostal",
+    "Value": 6817
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Vedic",
+    "Value": 6318
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Adventist",
+    "Value": 4428
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Mission Salut et Guerison",
+    "Value": 3731
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Chinese",
+    "Value": 3040
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Church of England",
+    "Value": 2788
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Rajput",
+    "Value": 2320
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "T\u00e9moin de Jehovah",
+    "Value": 2173
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Buddhist",
+    "Value": 2172
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 1835
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Not Stated",
+    "Value": 1398
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Ahmadhya",
+    "Value": 1265
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Sanatanist",
+    "Value": 868
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Other Christians",
+    "Value": 748
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "La Voix de la Delivrance",
+    "Value": 731
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Baha'i",
+    "Value": 645
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Protestant",
+    "Value": 620
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Presbyterian",
+    "Value": 501
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Arya Samajist",
+    "Value": 271
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Revived",
+    "Value": 223
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Evangelical",
+    "Value": 199
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Other Hindu",
+    "Value": 183
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Eglise Chr\u00e9tienne",
+    "Value": 142
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Aryan",
+    "Value": 134
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Full Gospel Church",
+    "Value": 77
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Apostolic",
+    "Value": 70
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Kabir Panthis",
+    "Value": 66
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Other Chinese",
+    "Value": 63
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Christian Tamil",
+    "Value": 53
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Baptist",
+    "Value": 52
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Vaish",
+    "Value": 49
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Puranic",
+    "Value": 48
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Jewish",
+    "Value": 43
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Peniel Tabernacle",
+    "Value": 43
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Mormon",
+    "Value": 40
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Christian Orthodox",
+    "Value": 34
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Methodist",
+    "Value": 29
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Arya Samajist, Other",
+    "Value": 25
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 25
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Other Muslims",
+    "Value": 21
+  },
+  {
+    "Country": "Mauritius",
+    "Year": 2011,
+    "Religion": "Ahir",
+    "Value": 10
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Catholic",
+    "Value": 92924489
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Other Evangelical Churches",
+    "Value": 5595116
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "No Religion",
+    "Value": 5262546
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Not Specified",
+    "Value": 3052509
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Pentecostal",
+    "Value": 1782021
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Jehovah Witness",
+    "Value": 1561086
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Historics",
+    "Value": 820744
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Seventh Day Adventist",
+    "Value": 661878
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Latter Day Saints",
+    "Value": 314932
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Church of God",
+    "Value": 188326
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Judaism",
+    "Value": 67476
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Spiritualist",
+    "Value": 35995
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Ethnic Churches",
+    "Value": 27839
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Other Religions",
+    "Value": 19636
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Oriental",
+    "Value": 18185
+  },
+  {
+    "Country": "Mexico",
+    "Year": 2010,
+    "Religion": "Islam ",
+    "Value": 3760
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "Year": 2000,
+    "Religion": "Roman Catholic",
+    "Value": 56365
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "Year": 2000,
+    "Religion": "Congregational",
+    "Value": 42879
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "Year": 2000,
+    "Religion": "Other Religions",
+    "Value": 4066
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "Year": 2000,
+    "Religion": "Latter Day Saints",
+    "Value": 1123
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "Year": 2000,
+    "Religion": "Baptist",
+    "Value": 972
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "Year": 2000,
+    "Religion": "Seventh Day Adventist",
+    "Value": 793
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "Year": 2000,
+    "Religion": "No Religion",
+    "Value": 753
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "Year": 2000,
+    "Religion": "Refused to answer",
+    "Value": 57
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2020,
+    "Religion": "Buddhist",
+    "Value": 1643336
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2020,
+    "Religion": "No Religion",
+    "Value": 1287309
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2020,
+    "Religion": "Muslim",
+    "Value": 102336
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2020,
+    "Religion": "Shaman",
+    "Value": 80004
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2020,
+    "Religion": "Christian",
+    "Value": 41566
+  },
+  {
+    "Country": "Mongolia",
+    "Year": 2020,
+    "Religion": "Other",
+    "Value": 20014
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Christian Orthodox",
+    "Value": 446858
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 118477
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Catholic",
+    "Value": 21299
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Not Declared",
+    "Value": 16180
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Atheist",
+    "Value": 7667
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 6337
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Christian",
+    "Value": 1460
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Adventist",
+    "Value": 894
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Agnostic",
+    "Value": 451
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Jehovah Witness",
+    "Value": 145
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Protestant",
+    "Value": 143
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Buddhist",
+    "Value": 118
+  },
+  {
+    "Country": "Montenegro",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 0
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "Anglican",
+    "Value": 937
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "Methodist",
+    "Value": 731
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "Pentecostal",
+    "Value": 609
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "Roman Catholic",
+    "Value": 498
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "Unknown",
+    "Value": 465
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "Seventh Day Adventist",
+    "Value": 454
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "Other Religions",
+    "Value": 251
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "Church of God",
+    "Value": 158
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "No Religion",
+    "Value": 110
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "Rastafarian",
+    "Value": 59
+  },
+  {
+    "Country": "Montserrat",
+    "Year": 2001,
+    "Religion": "Hindu",
+    "Value": 31
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2017,
+    "Religion": "Catholic",
+    "Value": 7344788
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2017,
+    "Religion": "Islam ",
+    "Value": 5131177
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2017,
+    "Religion": "Pentecostal",
+    "Value": 4481176
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2017,
+    "Religion": "Saio/Zione",
+    "Value": 4389294
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2017,
+    "Religion": "No Religion",
+    "Value": 3625355
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2017,
+    "Religion": "Other",
+    "Value": 1148051
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2017,
+    "Religion": "Anglican",
+    "Value": 461714
+  },
+  {
+    "Country": "Mozambique",
+    "Year": 2017,
+    "Religion": "Unknown",
+    "Value": 317550
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2014,
+    "Religion": "Buddhist",
+    "Value": 45185449
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2014,
+    "Religion": "Christian",
+    "Value": 3172479
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2014,
+    "Religion": "Islam ",
+    "Value": 1147495
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2014,
+    "Religion": "Animist",
+    "Value": 408045
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2014,
+    "Religion": "Hindu",
+    "Value": 252763
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2014,
+    "Religion": "Other Religions",
+    "Value": 82825
+  },
+  {
+    "Country": "Myanmar",
+    "Year": 2014,
+    "Religion": "No Religion",
+    "Value": 30844
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2011,
+    "Religion": "Hindu",
+    "Value": 21551492
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2011,
+    "Religion": "Buddhist",
+    "Value": 2396099
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2011,
+    "Religion": "Islam ",
+    "Value": 1162370
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2011,
+    "Religion": "Kirati",
+    "Value": 807169
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2011,
+    "Religion": "Christian",
+    "Value": 375699
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 134988
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 61581
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2011,
+    "Religion": "Jains",
+    "Value": 3214
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2011,
+    "Religion": "Baha'i",
+    "Value": 1283
+  },
+  {
+    "Country": "Nepal",
+    "Year": 2011,
+    "Religion": "Sikh",
+    "Value": 609
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "No Religion",
+    "Value": 2264601
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Christian",
+    "Value": 335286
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Anglican",
+    "Value": 314913
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Not Stated",
+    "Value": 312795
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Roman Catholic",
+    "Value": 295743
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Presbyterian",
+    "Value": 224019
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Catholic",
+    "Value": 174753
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Hindu",
+    "Value": 122526
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Methodist",
+    "Value": 61014
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Islam ",
+    "Value": 57312
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Latter Day Saints",
+    "Value": 54123
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Buddhist",
+    "Value": 51378
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Ratana",
+    "Value": 43821
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Sikh",
+    "Value": 40908
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Baptist",
+    "Value": 35979
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Born Again Christian",
+    "Value": 33486
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Other",
+    "Value": 27831
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Pentecostal",
+    "Value": 24207
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Jehovah Witness",
+    "Value": 20061
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Seventh Day Adventist",
+    "Value": 17799
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Assembly of God",
+    "Value": 14883
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Ringatu",
+    "Value": 12336
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Tongan Methodist",
+    "Value": 11169
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Protestant",
+    "Value": 8544
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Spiritualist",
+    "Value": 8262
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Samoan Congregational",
+    "Value": 7932
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Salvation Army",
+    "Value": 7929
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Atheist",
+    "Value": 7068
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Plymouth Brethren",
+    "Value": 6822
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Chinese Christian",
+    "Value": 6660
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Agnostic",
+    "Value": 6516
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Orthodox",
+    "Value": 5943
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Open Brethren",
+    "Value": 5640
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Reformed Churches",
+    "Value": 5418
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "M\u00e4ori Religion",
+    "Value": 5283
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Judaism",
+    "Value": 5274
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Evangelical",
+    "Value": 4554
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "United Church",
+    "Value": 3624
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Lutheran",
+    "Value": 3585
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Korean Christian",
+    "Value": 3543
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Congregational",
+    "Value": 3513
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Vineyard Christian Fellowship",
+    "Value": 3399
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Greek Orthodox",
+    "Value": 3162
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "New life centres",
+    "Value": 3132
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Elim",
+    "Value": 3018
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Sunni Muslims",
+    "Value": 2961
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Russian Orthodox",
+    "Value": 2952
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Baha'i",
+    "Value": 2925
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Theism",
+    "Value": 2607
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Liberal Catholic",
+    "Value": 2115
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Christian and Mission Alliance",
+    "Value": 2094
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Christadelphian",
+    "Value": 1758
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Other Religions",
+    "Value": 1731
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Rastafarian",
+    "Value": 1707
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Brethren",
+    "Value": 1698
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Cook Island Congregational",
+    "Value": 1698
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "New Age",
+    "Value": 1674
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Christian Outreach",
+    "Value": 1554
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Wiccan",
+    "Value": 1482
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Church of God",
+    "Value": 1458
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Nature and earth based religions",
+    "Value": 1455
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Zen Buddhist",
+    "Value": 1401
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Church of Christ",
+    "Value": 1302
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Independent Baptist",
+    "Value": 1218
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Associated Churches of Christ",
+    "Value": 1176
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Satanist",
+    "Value": 1149
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Taoist",
+    "Value": 1098
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Zoroastrian",
+    "Value": 1068
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Full Gospel Church",
+    "Value": 1017
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Reformed Baptist",
+    "Value": 987
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Independent Pentecostal",
+    "Value": 954
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Religious Society of Friends",
+    "Value": 954
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Serbian Orthodox",
+    "Value": 936
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Bible Baptist",
+    "Value": 846
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Other Church of Christ",
+    "Value": 780
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Independent Evangelical Churches",
+    "Value": 750
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "United Pentecostal",
+    "Value": 690
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Humanist",
+    "Value": 663
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Shiite Islam",
+    "Value": 651
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Hare Rama Hare Krishna",
+    "Value": 645
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Christian Science",
+    "Value": 639
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Jains",
+    "Value": 612
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Christian Revival Crusade",
+    "Value": 576
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Nazarene",
+    "Value": 564
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Coptic Orthodox",
+    "Value": 546
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Pantheism",
+    "Value": 453
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Adventist",
+    "Value": 432
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Shinto",
+    "Value": 387
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Ahmadhya",
+    "Value": 369
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Unification",
+    "Value": 369
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Unitarian",
+    "Value": 354
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Assyrian Orthodox",
+    "Value": 327
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Yoga",
+    "Value": 327
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Church of Scientology",
+    "Value": 321
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Chinese Religions",
+    "Value": 294
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Worldwide Church of God",
+    "Value": 279
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Animist",
+    "Value": 273
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Druid",
+    "Value": 189
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Revival Centres",
+    "Value": 180
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Sufi",
+    "Value": 162
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Mahikari",
+    "Value": 138
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Confucian",
+    "Value": 99
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Unification Church",
+    "Value": 93
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Fundamentalist",
+    "Value": 87
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Ecumenical",
+    "Value": 69
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Metropolitan",
+    "Value": 63
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Japanese Religions",
+    "Value": 51
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Arya Samajist",
+    "Value": 36
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Unknown",
+    "Value": 36
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Tenrikyo",
+    "Value": 12
+  },
+  {
+    "Country": "New Zealand",
+    "Year": 2018,
+    "Religion": "Commonwealth Covenant Church",
+    "Value": 3
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2005,
+    "Religion": "Catholic",
+    "Value": 2652985
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2005,
+    "Religion": "Evangelical",
+    "Value": 981795
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2005,
+    "Religion": "No Religion",
+    "Value": 711310
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2005,
+    "Religion": "Other",
+    "Value": 74101
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2005,
+    "Religion": "Moravian",
+    "Value": 73902
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2005,
+    "Religion": "Jehovah Witness",
+    "Value": 42587
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2005,
+    "Religion": "Muslim",
+    "Value": 321
+  },
+  {
+    "Country": "Nicaragua",
+    "Year": 2005,
+    "Religion": "Judaism",
+    "Value": 199
+  },
+  {
+    "Country": "Niger",
+    "Year": 2012,
+    "Religion": "Muslim",
+    "Value": 16978889
+  },
+  {
+    "Country": "Niger",
+    "Year": 2012,
+    "Religion": "Christian",
+    "Value": 56856
+  },
+  {
+    "Country": "Niger",
+    "Year": 2012,
+    "Religion": "Unknown",
+    "Value": 42608
+  },
+  {
+    "Country": "Niger",
+    "Year": 2012,
+    "Religion": "Animist",
+    "Value": 34786
+  },
+  {
+    "Country": "Niger",
+    "Year": 2012,
+    "Religion": "No Religion",
+    "Value": 23048
+  },
+  {
+    "Country": "Niger",
+    "Year": 2012,
+    "Religion": "Other",
+    "Value": 2520
+  },
+  {
+    "Country": "Niue",
+    "Year": 2017,
+    "Religion": "Ekalesia Niue",
+    "Value": 981
+  },
+  {
+    "Country": "Niue",
+    "Year": 2017,
+    "Religion": "Latter Day Saints",
+    "Value": 139
+  },
+  {
+    "Country": "Niue",
+    "Year": 2017,
+    "Religion": "Roman Catholic",
+    "Value": 134
+  },
+  {
+    "Country": "Niue",
+    "Year": 2017,
+    "Religion": "Other",
+    "Value": 131
+  },
+  {
+    "Country": "Niue",
+    "Year": 2017,
+    "Religion": "Not Stated",
+    "Value": 81
+  },
+  {
+    "Country": "Niue",
+    "Year": 2017,
+    "Religion": null,
+    "Value": 59
+  },
+  {
+    "Country": "Niue",
+    "Year": 2017,
+    "Religion": "Jehovah's Witnesses",
+    "Value": 43
+  },
+  {
+    "Country": "Niue",
+    "Year": 2017,
+    "Religion": "Seventh Day Adventist",
+    "Value": 23
+  },
+  {
+    "Country": "Norfolk Island",
+    "Year": 2011,
+    "Religion": "Church of England",
+    "Value": 755
+  },
+  {
+    "Country": "Norfolk Island",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 499
+  },
+  {
+    "Country": "Norfolk Island",
+    "Year": 2011,
+    "Religion": "Catholic",
+    "Value": 307
+  },
+  {
+    "Country": "Norfolk Island",
+    "Year": 2011,
+    "Religion": "Uniting Church",
+    "Value": 302
+  },
+  {
+    "Country": "Norfolk Island",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 228
+  },
+  {
+    "Country": "Norfolk Island",
+    "Year": 2011,
+    "Religion": "Not Stated",
+    "Value": 150
+  },
+  {
+    "Country": "Norfolk Island",
+    "Year": 2011,
+    "Religion": "Seventh Day Adventist",
+    "Value": 61
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2002,
+    "Religion": "Orthodox",
+    "Value": 1310184
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2002,
+    "Religion": "Islam ",
+    "Value": 674015
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2002,
+    "Religion": "Other",
+    "Value": 30820
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2002,
+    "Religion": "Catholic",
+    "Value": 7008
+  },
+  {
+    "Country": "North Macedonia",
+    "Year": 2002,
+    "Religion": "Protestant",
+    "Value": 520
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2017,
+    "Religion": "Muslim",
+    "Value": 200362718
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2017,
+    "Religion": "Hindu",
+    "Value": 3595256
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2017,
+    "Religion": "Christian",
+    "Value": 2642048
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2017,
+    "Religion": "Scheduled Castes",
+    "Value": 849614
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2017,
+    "Religion": "Qadiani/Ahmadi",
+    "Value": 191737
+  },
+  {
+    "Country": "Pakistan",
+    "Year": 2017,
+    "Religion": "Other",
+    "Value": 43253
+  },
+  {
+    "Country": "Palau",
+    "Year": 2005,
+    "Religion": "Catholic",
+    "Value": 9825
+  },
+  {
+    "Country": "Palau",
+    "Year": 2005,
+    "Religion": "Protestant",
+    "Value": 4610
+  },
+  {
+    "Country": "Palau",
+    "Year": 2005,
+    "Religion": "Modekngei",
+    "Value": 1733
+  },
+  {
+    "Country": "Palau",
+    "Year": 2005,
+    "Religion": "Other",
+    "Value": 1613
+  },
+  {
+    "Country": "Palau",
+    "Year": 2005,
+    "Religion": "Seventh Day Adventist",
+    "Value": 1046
+  },
+  {
+    "Country": "Palau",
+    "Year": 2005,
+    "Religion": "Other Protestant",
+    "Value": 493
+  },
+  {
+    "Country": "Palau",
+    "Year": 2005,
+    "Religion": "Jehovah Witness",
+    "Value": 222
+  },
+  {
+    "Country": "Palau",
+    "Year": 2005,
+    "Religion": "None or Refused",
+    "Value": 222
+  },
+  {
+    "Country": "Palau",
+    "Year": 2005,
+    "Religion": "Mormon",
+    "Value": 143
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Catholic",
+    "Value": 3488086
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Evangelical",
+    "Value": 239573
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "No Religion",
+    "Value": 44334
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Other Christians",
+    "Value": 44275
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Unknown",
+    "Value": 37206
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Other Religions",
+    "Value": 32730
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Buddhist",
+    "Value": 2190
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Orthodox",
+    "Value": 1445
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Judaism",
+    "Value": 1100
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Islam ",
+    "Value": 872
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Spiritualist",
+    "Value": 641
+  },
+  {
+    "Country": "Paraguay",
+    "Year": 2002,
+    "Religion": "Hindu",
+    "Value": 151
+  },
+  {
+    "Country": "Peru",
+    "Year": 2017,
+    "Religion": "Catholic",
+    "Value": 17635339
+  },
+  {
+    "Country": "Peru",
+    "Year": 2017,
+    "Religion": "Evangelical Christian",
+    "Value": 3645850
+  },
+  {
+    "Country": "Peru",
+    "Year": 2017,
+    "Religion": "No Religion",
+    "Value": 1180361
+  },
+  {
+    "Country": "Peru",
+    "Year": 2017,
+    "Religion": "Other Religions",
+    "Value": 734841
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Roman Catholic",
+    "Value": 85645362
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Islam ",
+    "Value": 6981710
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Iglesia ni Cristo",
+    "Value": 2806524
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other",
+    "Value": 2760157
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Christians",
+    "Value": 1652715
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Seventh Day Adventist",
+    "Value": 862725
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Aglipay",
+    "Value": 818916
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Baptist Churches",
+    "Value": 698509
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Bible Baptist",
+    "Value": 540364
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "United Church of Christ",
+    "Value": 470792
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Jehovah Witness",
+    "Value": 457245
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Church of Christ",
+    "Value": 429921
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Assembly of God",
+    "Value": 421111
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Evangelical Churches",
+    "Value": 348819
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Protestant",
+    "Value": 332173
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Pentecostal",
+    "Value": 301165
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "United Methodist Church",
+    "Value": 300095
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Tribal",
+    "Value": 251548
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "United Pentecostal",
+    "Value": 212425
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Southern Baptist",
+    "Value": 190336
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Episcopal",
+    "Value": 179007
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Church of Jesus Christ of Latter-day Saints",
+    "Value": 175004
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Church of God",
+    "Value": 172440
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Church of the Foursquare Gospel",
+    "Value": 164449
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Catholic",
+    "Value": 133592
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Espiritia",
+    "Value": 132476
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Evangelical Christian",
+    "Value": 115626
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Pentecostal Churches",
+    "Value": 100070
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Association of Fundamental Baptist Church in the Philippines",
+    "Value": 98327
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Faiths",
+    "Value": 69121
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Wesleyan",
+    "Value": 55844
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Apostolic Catholic",
+    "Value": 54543
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Methodist Churches",
+    "Value": 54419
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Lutheran",
+    "Value": 54039
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Church of Christ",
+    "Value": 53207
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Free Methodists",
+    "Value": 51943
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "No Religion",
+    "Value": 43931
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Evangelical Free Church",
+    "Value": 43789
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Independent Baptist",
+    "Value": 39961
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Buddhist",
+    "Value": 39158
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Ecumenical",
+    "Value": 36094
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Salvation Army",
+    "Value": 36070
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Convention of the Philippine Baptist Church",
+    "Value": 35142
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Free Christian Community",
+    "Value": 32548
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Baptist",
+    "Value": 31206
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Iglesia Evangelista Methodista en Las Filipinas",
+    "Value": 27793
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Charismatic Churches",
+    "Value": 26289
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Presbyterian",
+    "Value": 20818
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Zion Christian Church",
+    "Value": 18294
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Church of Nazarene",
+    "Value": 16144
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Not Stated",
+    "Value": 15186
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Other Assemblies",
+    "Value": 14443
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "International Baptist Missionary Fellowship",
+    "Value": 11283
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Philippine Benevolent Missionaries Association",
+    "Value": 11283
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Evangelical",
+    "Value": 9619
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Missionary Church",
+    "Value": 9159
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Church of God",
+    "Value": 5983
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Evangelical Missionary Church",
+    "Value": 4616
+  },
+  {
+    "Country": "Philippines",
+    "Year": 2020,
+    "Religion": "Association of Baptist Churches in Luzon, Visayas and Mindanao",
+    "Value": 2798
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 33331533
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Refused to answer",
+    "Value": 2744836
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 915590
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Not Stated",
+    "Value": 560937
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Orthodox",
+    "Value": 158477
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Jehovah Witness",
+    "Value": 134693
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Evangelic Augustan Confession",
+    "Value": 69281
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 44942
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Greek Catholic",
+    "Value": 33399
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Pentecostal",
+    "Value": 26166
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Old Catholic Church",
+    "Value": 9961
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Polish National Catholic Church",
+    "Value": 8806
+  },
+  {
+    "Country": "Poland",
+    "Year": 2011,
+    "Religion": "Baptist",
+    "Value": 5945
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Religion": "Catholic",
+    "Value": 7281887
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 1572329
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Religion": "Didn't answer",
+    "Value": 744874
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 615332
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Religion": "Other Christians",
+    "Value": 163338
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Religion": "Protestant",
+    "Value": 75571
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Religion": "Orthodox",
+    "Value": 56550
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Religion": "Other Non-Christians",
+    "Value": 28596
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 20640
+  },
+  {
+    "Country": "Portugal",
+    "Year": 2011,
+    "Religion": "Jewish",
+    "Value": 3061
+  },
+  {
+    "Country": "Qatar",
+    "Year": 2004,
+    "Religion": "Muslim",
+    "Value": 576391
+  },
+  {
+    "Country": "Qatar",
+    "Year": 2004,
+    "Religion": "Other",
+    "Value": 104426
+  },
+  {
+    "Country": "Qatar",
+    "Year": 2004,
+    "Religion": "Christian",
+    "Value": 63212
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "No Religion",
+    "Value": 27498715
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Christian",
+    "Value": 13566072
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Protestant",
+    "Value": 9675761
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Buddhist",
+    "Value": 7619332
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Catholic",
+    "Value": 3890311
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Other Religions",
+    "Value": 98185
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Won Buddhist",
+    "Value": 84141
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Confucian",
+    "Value": 75703
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Ch'ondo-gyo",
+    "Value": 65964
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Daesoonjillihoi",
+    "Value": 41176
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Taejong-gyo",
+    "Value": 3101
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Not Stated",
+    "Value": 0
+  },
+  {
+    "Country": "Republic of Korea",
+    "Year": 2015,
+    "Religion": "Other Religions and Persuasions",
+    "Value": 0
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Orthodox",
+    "Value": 2528152
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Not Stated",
+    "Value": 193042
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Baptist",
+    "Value": 25380
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Other",
+    "Value": 20789
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Pentecostal",
+    "Value": 10049
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Seventh Day Adventist",
+    "Value": 9063
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Atheist",
+    "Value": 5515
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Evangelical Christian",
+    "Value": 4812
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Roman Catholic",
+    "Value": 2745
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Christian of Old Rite",
+    "Value": 2535
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "Evangelic Synodal Presbyterian",
+    "Value": 2292
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Year": 2014,
+    "Religion": "No Religion",
+    "Value": 427
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Orthodox",
+    "Value": 16307004
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Not Stated",
+    "Value": 1259739
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 870774
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Reformat",
+    "Value": 600932
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Pentecostal",
+    "Value": 362314
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Greek Catholic",
+    "Value": 150593
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Baptist",
+    "Value": 112850
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Seventh Day Adventist",
+    "Value": 80944
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 64598
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 64337
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Unitarian",
+    "Value": 57686
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Christian by Gospel",
+    "Value": 42495
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Christian of Old Rite",
+    "Value": 32558
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 30557
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Atheist",
+    "Value": 20743
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Evangelical Lutherans",
+    "Value": 20168
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 18917
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Evangelical",
+    "Value": 15514
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Evangelic Augustan Confession",
+    "Value": 5399
+  },
+  {
+    "Country": "Romania",
+    "Year": 2011,
+    "Religion": "Mosaic",
+    "Value": 3519
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2012,
+    "Religion": "Catholic",
+    "Value": 4599371
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2012,
+    "Religion": "Protestant",
+    "Value": 3967592
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2012,
+    "Religion": "Adventist",
+    "Value": 1242174
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2012,
+    "Religion": "No Religion",
+    "Value": 259150
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2012,
+    "Religion": "Muslim",
+    "Value": 211011
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2012,
+    "Religion": "Jehovah Witness",
+    "Value": 69451
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2012,
+    "Religion": "Other Religions",
+    "Value": 25344
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2012,
+    "Religion": "Not Specified",
+    "Value": 2418
+  },
+  {
+    "Country": "Rwanda",
+    "Year": 2012,
+    "Religion": "Animist",
+    "Value": 1510
+  },
+  {
+    "Country": "Saint Helena ex. dep.",
+    "Year": 2016,
+    "Religion": "Anglican",
+    "Value": 2995
+  },
+  {
+    "Country": "Saint Helena ex. dep.",
+    "Year": 2016,
+    "Religion": "Unknown",
+    "Value": 709
+  },
+  {
+    "Country": "Saint Helena ex. dep.",
+    "Year": 2016,
+    "Religion": "Jehovah Witness",
+    "Value": 178
+  },
+  {
+    "Country": "Saint Helena ex. dep.",
+    "Year": 2016,
+    "Religion": "Other",
+    "Value": 97
+  },
+  {
+    "Country": "Saint Helena ex. dep.",
+    "Year": 2016,
+    "Religion": "Baptist",
+    "Value": 93
+  },
+  {
+    "Country": "Saint Helena ex. dep.",
+    "Year": 2016,
+    "Religion": "Seventh Day Adventist",
+    "Value": 77
+  },
+  {
+    "Country": "Saint Helena ex. dep.",
+    "Year": 2016,
+    "Religion": "Salvation Army",
+    "Value": 75
+  },
+  {
+    "Country": "Saint Helena ex. dep.",
+    "Year": 2016,
+    "Religion": "New Apostolic",
+    "Value": 61
+  },
+  {
+    "Country": "Saint Helena ex. dep.",
+    "Year": 2016,
+    "Religion": "Roman Catholic",
+    "Value": 53
+  },
+  {
+    "Country": "Saint Helena ex. dep.",
+    "Year": 2016,
+    "Religion": "Baha'i",
+    "Value": 11
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Roman Catholic",
+    "Value": 105755
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Seventh Day Adventist",
+    "Value": 13499
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Pentecostal",
+    "Value": 9003
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": null,
+    "Value": 7161
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Rastafarian",
+    "Value": 3233
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Anglican",
+    "Value": 3149
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Evangelical",
+    "Value": 2980
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Baptist",
+    "Value": 2962
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Unknown",
+    "Value": 2494
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Church of God",
+    "Value": 2322
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Jehovah Witness",
+    "Value": 1582
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Other",
+    "Value": 1253
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Methodist",
+    "Value": 826
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Hindu",
+    "Value": 317
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Muslim",
+    "Value": 222
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Brethren",
+    "Value": 154
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Salvation Army",
+    "Value": 135
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Baha'i",
+    "Value": 73
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Presbyterian",
+    "Value": 60
+  },
+  {
+    "Country": "Saint Lucia",
+    "Year": 2001,
+    "Religion": "Moravian",
+    "Value": 9
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Anglican",
+    "Value": 18864
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Pentecostal",
+    "Value": 18713
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Methodist",
+    "Value": 11540
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Seventh Day Adventist",
+    "Value": 10856
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Baptist",
+    "Value": 10583
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": null,
+    "Value": 9386
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Roman Catholic",
+    "Value": 7938
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Other",
+    "Value": 6887
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Evangelical",
+    "Value": 2997
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Church of God",
+    "Value": 2655
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Not Stated",
+    "Value": 1630
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Rastafarian",
+    "Value": 1571
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Brethren",
+    "Value": 1351
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Jehovah Witness",
+    "Value": 664
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Salvation Army",
+    "Value": 285
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Presbyterian",
+    "Value": 123
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Hindu",
+    "Value": 83
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Muslim",
+    "Value": 77
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Baha'i",
+    "Value": 25
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Year": 2001,
+    "Religion": "Moravian",
+    "Value": 25
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Congregational",
+    "Value": 56818
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Catholic",
+    "Value": 36766
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Latter Day Saints",
+    "Value": 33077
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Methodist",
+    "Value": 24228
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Assembly of God",
+    "Value": 13399
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Seventh Day Adventist",
+    "Value": 8534
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Worship Centre",
+    "Value": 5433
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Other",
+    "Value": 4793
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Full Gospel Church",
+    "Value": 1946
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Voice of Christ",
+    "Value": 1841
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Jehovah Witness",
+    "Value": 1503
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Nazarene",
+    "Value": 1358
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Christian",
+    "Value": 1345
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Baha'i",
+    "Value": 817
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Peace Chapel",
+    "Value": 762
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Baptist",
+    "Value": 679
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "CCCJS",
+    "Value": 657
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Aoga Tusi Paia",
+    "Value": 639
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "No Religion",
+    "Value": 381
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Protestant",
+    "Value": 282
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Anglican",
+    "Value": 252
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Elim",
+    "Value": 159
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Samoa Evangelism",
+    "Value": 130
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Not Stated",
+    "Value": 93
+  },
+  {
+    "Country": "Samoa",
+    "Year": 2016,
+    "Religion": "Muslim",
+    "Value": 87
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "Roman Apostolic Catholic",
+    "Value": 99570
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "No Religion",
+    "Value": 37935
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "Other",
+    "Value": 8990
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "Adventist",
+    "Value": 7239
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "Assembly of God",
+    "Value": 5991
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "New Apostolic",
+    "Value": 5177
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "Man\u00e1",
+    "Value": 4191
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "Universal of the Kingdom of God",
+    "Value": 3568
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "Jehovah Witness",
+    "Value": 2202
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "God is Love",
+    "Value": 1432
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "Unknown",
+    "Value": 1268
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "Messianica",
+    "Value": 688
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Year": 2012,
+    "Religion": "Not Specified",
+    "Value": 488
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Serbian Orthodox",
+    "Value": 6079396
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Catholic",
+    "Value": 356957
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Islam ",
+    "Value": 222828
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Didn't answer",
+    "Value": 220735
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 99714
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Atheist",
+    "Value": 80053
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Protestant",
+    "Value": 71284
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Other Christians",
+    "Value": 48294
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Agnostic",
+    "Value": 4010
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 1776
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Eastern religion",
+    "Value": 1237
+  },
+  {
+    "Country": "Serbia",
+    "Year": 2011,
+    "Religion": "Judaism",
+    "Value": 578
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "Roman Catholic",
+    "Value": 67280
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "Anglican",
+    "Value": 5220
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "Other Christians",
+    "Value": 2291
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "Hindu",
+    "Value": 1700
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "Unknown",
+    "Value": 1260
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "Seventh Day Adventist",
+    "Value": 907
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "Muslim",
+    "Value": 866
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "Other Non-Christians",
+    "Value": 820
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "No Religion",
+    "Value": 511
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "Jehovah Witness",
+    "Value": 508
+  },
+  {
+    "Country": "Seychelles",
+    "Year": 2002,
+    "Religion": "Baha'i",
+    "Value": 392
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2020,
+    "Religion": "Buddhist",
+    "Value": 1074159
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2020,
+    "Religion": "No Religion",
+    "Value": 692528
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2020,
+    "Religion": "Christian",
+    "Value": 654355
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2020,
+    "Religion": "Islam ",
+    "Value": 539251
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2020,
+    "Religion": "Other Christians",
+    "Value": 411674
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2020,
+    "Religion": "Taoist",
+    "Value": 303960
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2020,
+    "Religion": "Catholic",
+    "Value": 242681
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2020,
+    "Religion": "Hindu",
+    "Value": 172963
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2020,
+    "Religion": "Sikh",
+    "Value": 12051
+  },
+  {
+    "Country": "Singapore",
+    "Year": 2020,
+    "Religion": "Other Religions",
+    "Value": 9827
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 11134
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Pentecostal",
+    "Value": 4954
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Methodist",
+    "Value": 3346
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 2654
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 2654
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Adventist",
+    "Value": 2224
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Hindu",
+    "Value": 1748
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Baptist",
+    "Value": 1585
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Christian",
+    "Value": 1387
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Anglican",
+    "Value": 1027
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Protestant",
+    "Value": 927
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 796
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Jehovah Witness",
+    "Value": 572
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Evangelical",
+    "Value": 456
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Islam/Judaism",
+    "Value": 377
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Buddhism/ Sikh",
+    "Value": 88
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Year": 2011,
+    "Religion": "Rastafarian",
+    "Value": 64
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 3347277
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 725362
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Not Stated",
+    "Value": 571437
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Evangelic of Augsburg Affiliation",
+    "Value": 316250
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Byzantine Catholic Church",
+    "Value": 206871
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Reformed Christian",
+    "Value": 98797
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Orthodox",
+    "Value": 49133
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 23340
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Jehovah Witness",
+    "Value": 17222
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Evangelic Methodist Church",
+    "Value": 10328
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Christian",
+    "Value": 7720
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Apostolic",
+    "Value": 5831
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Baptists Fraternity Union",
+    "Value": 3486
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Fraternity Church",
+    "Value": 3396
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Seventh Day Adventist",
+    "Value": 2915
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Jewish",
+    "Value": 1999
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Czechoslovak Hussite Church",
+    "Value": 1782
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Old Catholic Church",
+    "Value": 1687
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Baha'i",
+    "Value": 1065
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "Church of Jesus Christ of Latter-day Saints",
+    "Value": 972
+  },
+  {
+    "Country": "Slovakia",
+    "Year": 2011,
+    "Religion": "New Apostolic",
+    "Value": 166
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Catholic",
+    "Value": 1135626
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Didn't answer",
+    "Value": 307973
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Atheist",
+    "Value": 199264
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Unknown",
+    "Value": 139097
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "No Afiliation",
+    "Value": 68714
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Islam ",
+    "Value": 47488
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Orthodox",
+    "Value": 45908
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Evangelical",
+    "Value": 14736
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Other Christians",
+    "Value": 1877
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Other Protestant",
+    "Value": 1399
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Oriental",
+    "Value": 1026
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Other",
+    "Value": 558
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Agnostic",
+    "Value": 271
+  },
+  {
+    "Country": "Slovenia",
+    "Year": 2002,
+    "Religion": "Jewish",
+    "Value": 99
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "No Religion",
+    "Value": 6767165
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Other Apostolic Churches",
+    "Value": 5609070
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Zion Christian Church",
+    "Value": 4971932
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Pentecostal",
+    "Value": 3422749
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Methodist",
+    "Value": 3305404
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Other Christians",
+    "Value": 3195477
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Catholic",
+    "Value": 3181336
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Dutch Reformed",
+    "Value": 3005698
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Other Zionist Churches",
+    "Value": 1887147
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Anglican",
+    "Value": 1722076
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Lutheran",
+    "Value": 1130987
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Ethiopian Churches",
+    "Value": 880414
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Presbyterian",
+    "Value": 832495
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Baptist",
+    "Value": 691237
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Other African Independent Churches",
+    "Value": 656644
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Islam ",
+    "Value": 654064
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Refused to answer",
+    "Value": 610971
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Hindu",
+    "Value": 551669
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Congregational",
+    "Value": 508825
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Other Faiths",
+    "Value": 269200
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Ibandlalama Nazaretha",
+    "Value": 248824
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Apostolic Faith Mission of SA",
+    "Value": 246190
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Other Reformed Church",
+    "Value": 226495
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "African Traditional Belief",
+    "Value": 125903
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Judaism",
+    "Value": 75555
+  },
+  {
+    "Country": "South Africa",
+    "Year": 2001,
+    "Religion": "Orthodox",
+    "Value": 42251
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2012,
+    "Religion": "Buddhist",
+    "Value": 14272056
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2012,
+    "Religion": "Hindu",
+    "Value": 2561299
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2012,
+    "Religion": "Islam ",
+    "Value": 1967523
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2012,
+    "Religion": "Roman Catholic",
+    "Value": 1261194
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2012,
+    "Religion": "Other Christians",
+    "Value": 290967
+  },
+  {
+    "Country": "Sri Lanka",
+    "Year": 2012,
+    "Religion": "Other",
+    "Value": 6400
+  },
+  {
+    "Country": "State of Palestine",
+    "Year": 2007,
+    "Religion": "Islam ",
+    "Value": 3568020
+  },
+  {
+    "Country": "State of Palestine",
+    "Year": 2007,
+    "Religion": "Not Stated",
+    "Value": 56994
+  },
+  {
+    "Country": "State of Palestine",
+    "Year": 2007,
+    "Religion": "Christian",
+    "Value": 43179
+  },
+  {
+    "Country": "State of Palestine",
+    "Year": 2007,
+    "Religion": "Other",
+    "Value": 1051
+  },
+  {
+    "Country": "Suriname",
+    "Year": 2012,
+    "Religion": "Christian",
+    "Value": 262320
+  },
+  {
+    "Country": "Suriname",
+    "Year": 2012,
+    "Religion": "Hindu",
+    "Value": 120623
+  },
+  {
+    "Country": "Suriname",
+    "Year": 2012,
+    "Religion": "Islam ",
+    "Value": 75053
+  },
+  {
+    "Country": "Suriname",
+    "Year": 2012,
+    "Religion": "Other",
+    "Value": 66560
+  },
+  {
+    "Country": "Suriname",
+    "Year": 2012,
+    "Religion": "Not Stated",
+    "Value": 17082
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 2532217
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2011,
+    "Religion": "Reformed Churches",
+    "Value": 1830143
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2011,
+    "Religion": "No Afiliation",
+    "Value": 1356795
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2011,
+    "Religion": "Other Christians",
+    "Value": 368698
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2011,
+    "Religion": "Islam ",
+    "Value": 320958
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2011,
+    "Religion": "Unknown",
+    "Value": 81224
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2011,
+    "Religion": "Other Religions",
+    "Value": 80758
+  },
+  {
+    "Country": "Switzerland",
+    "Year": 2011,
+    "Religion": "Judaism",
+    "Value": 16763
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2010,
+    "Religion": "Buddhist",
+    "Value": 61746429
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2010,
+    "Religion": "Islam ",
+    "Value": 3259340
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2010,
+    "Religion": "Christian",
+    "Value": 789376
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2010,
+    "Religion": "Other Religions",
+    "Value": 66922
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2010,
+    "Religion": "No Religion",
+    "Value": 46122
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2010,
+    "Religion": "Hindu",
+    "Value": 41808
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2010,
+    "Religion": "Confucian",
+    "Value": 16718
+  },
+  {
+    "Country": "Thailand",
+    "Year": 2010,
+    "Religion": "Unknown",
+    "Value": 14944
+  },
+  {
+    "Country": "Timor-Leste",
+    "Year": 2004,
+    "Religion": "Catholic",
+    "Value": 715285
+  },
+  {
+    "Country": "Timor-Leste",
+    "Year": 2004,
+    "Religion": "Protestant Evangelical",
+    "Value": 16616
+  },
+  {
+    "Country": "Timor-Leste",
+    "Year": 2004,
+    "Religion": "Traditional",
+    "Value": 5883
+  },
+  {
+    "Country": "Timor-Leste",
+    "Year": 2004,
+    "Religion": "Islam ",
+    "Value": 2455
+  },
+  {
+    "Country": "Timor-Leste",
+    "Year": 2004,
+    "Religion": "Other",
+    "Value": 616
+  },
+  {
+    "Country": "Timor-Leste",
+    "Year": 2004,
+    "Religion": "Buddhist",
+    "Value": 484
+  },
+  {
+    "Country": "Timor-Leste",
+    "Year": 2004,
+    "Religion": "Hindu",
+    "Value": 191
+  },
+  {
+    "Country": "Tokelau",
+    "Year": 2016,
+    "Religion": "Christian Congregational",
+    "Value": 603
+  },
+  {
+    "Country": "Tokelau",
+    "Year": 2016,
+    "Religion": "Roman Catholic",
+    "Value": 460
+  },
+  {
+    "Country": "Tokelau",
+    "Year": 2016,
+    "Religion": "Presbyterian",
+    "Value": 71
+  },
+  {
+    "Country": "Tokelau",
+    "Year": 2016,
+    "Religion": "Other Christians",
+    "Value": 54
+  },
+  {
+    "Country": "Tokelau",
+    "Year": 2016,
+    "Religion": "Not Stated",
+    "Value": 9
+  },
+  {
+    "Country": "Tokelau",
+    "Year": 2016,
+    "Religion": "New Age",
+    "Value": 0
+  },
+  {
+    "Country": "Tokelau",
+    "Year": 2016,
+    "Religion": "No Religion",
+    "Value": 0
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Free Wesleyan Church",
+    "Value": 35082
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Latter Day Saints",
+    "Value": 18673
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Roman Catholic",
+    "Value": 14276
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Free Church of Tonga",
+    "Value": 11896
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Church of Tonga",
+    "Value": 6868
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Other Religions",
+    "Value": 3016
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Assembly of God",
+    "Value": 2347
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Seventh Day Adventist",
+    "Value": 2249
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Tokaikolo Christian Church",
+    "Value": 1562
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Constitutional Church of Tonga",
+    "Value": 957
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Other",
+    "Value": 921
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Baha'i",
+    "Value": 755
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Anglican",
+    "Value": 697
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "No Religion",
+    "Value": 516
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Full Gospel Church",
+    "Value": 287
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Refused to answer",
+    "Value": 104
+  },
+  {
+    "Country": "Tonga",
+    "Year": 2016,
+    "Religion": "Buddhist",
+    "Value": 60
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Roman Catholic",
+    "Value": 285671
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Hindu",
+    "Value": 240100
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Pentecostal/ Evangelical/ Full Gospel",
+    "Value": 159033
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Not Stated",
+    "Value": 146798
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 96166
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Baptist",
+    "Value": 90953
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Anglican",
+    "Value": 74994
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Islam ",
+    "Value": 65705
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Seventh Day Adventist",
+    "Value": 54156
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Presbyterian/ Congregational",
+    "Value": 32972
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": null,
+    "Value": 28842
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Jehovah Witness",
+    "Value": 19450
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Orisha",
+    "Value": 11918
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Methodist",
+    "Value": 8648
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Rastafarian",
+    "Value": 3615
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Year": 2011,
+    "Religion": "Moravian",
+    "Value": 3526
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": "Ekalesia Kelisiano Tuvalu",
+    "Value": 9023
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": "Brethren Assembly",
+    "Value": 296
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": "Other",
+    "Value": 270
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": "Seventh Day Adventist",
+    "Value": 266
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": "Baha'i",
+    "Value": 157
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": "Assembly of God",
+    "Value": 155
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": "Jehovah Witness",
+    "Value": 155
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": "Latter Day Saints",
+    "Value": 92
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": "Catholic",
+    "Value": 53
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": null,
+    "Value": 26
+  },
+  {
+    "Country": "Tuvalu",
+    "Year": 2017,
+    "Religion": "Refused to answer",
+    "Value": 14
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2002,
+    "Religion": "Catholic",
+    "Value": 10242594
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2002,
+    "Religion": "Anglican",
+    "Value": 8782821
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2002,
+    "Religion": "Muslim",
+    "Value": 2956121
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2002,
+    "Religion": "Pentecostal",
+    "Value": 1129647
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2002,
+    "Religion": "Other",
+    "Value": 741589
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2002,
+    "Religion": "Seventh Day Adventist",
+    "Value": 367972
+  },
+  {
+    "Country": "Uganda",
+    "Year": 2002,
+    "Religion": "No Religion",
+    "Value": 212388
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": 2011,
+    "Religion": "Christian",
+    "Value": 37583962
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": 2011,
+    "Religion": "No Religion",
+    "Value": 16221509
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": 2011,
+    "Religion": "Not Specified",
+    "Value": 4528323
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": 2011,
+    "Religion": "Muslim",
+    "Value": 2786635
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": 2011,
+    "Religion": "Hindu",
+    "Value": 835418
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": 2011,
+    "Religion": "Sikh",
+    "Value": 432429
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": 2011,
+    "Religion": "Jewish",
+    "Value": 269568
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": 2011,
+    "Religion": "Other",
+    "Value": 262750
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "Year": 2011,
+    "Religion": "Buddhist",
+    "Value": 261584
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "Presbyterian",
+    "Value": 65345
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "Other",
+    "Value": 36698
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "Anglican",
+    "Value": 35256
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "Seventh Day Adventist",
+    "Value": 29251
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "Catholic",
+    "Value": 28933
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "Assembly of God",
+    "Value": 11078
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "Church of Christ",
+    "Value": 10593
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "Custom",
+    "Value": 8600
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "Apostolic",
+    "Value": 5231
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "No Religion",
+    "Value": 2554
+  },
+  {
+    "Country": "Vanuatu",
+    "Year": 2009,
+    "Religion": "Not Stated",
+    "Value": 484
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2019,
+    "Religion": "No Religion",
+    "Value": 83046105
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2019,
+    "Religion": "Cong giao - Catholic",
+    "Value": 5866169
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2019,
+    "Religion": "Phat giao - Buddhist",
+    "Value": 4606543
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2019,
+    "Religion": "Hoa hao - Hoa Hao",
+    "Value": 983079
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2019,
+    "Religion": "Tin lanh - Protestant",
+    "Value": 960558
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2019,
+    "Religion": "Cao daii - Cao Dai",
+    "Value": 556234
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2019,
+    "Religion": "Other",
+    "Value": 119362
+  },
+  {
+    "Country": "Viet Nam",
+    "Year": 2019,
+    "Religion": "Hoi giao - Muslim",
+    "Value": 70934
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2010,
+    "Religion": "Protestant",
+    "Value": 9436231
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2010,
+    "Religion": "Catholic",
+    "Value": 2532858
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2010,
+    "Religion": "Other",
+    "Value": 253621
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2010,
+    "Religion": null,
+    "Value": 224295
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2010,
+    "Religion": "Muslim",
+    "Value": 61412
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2010,
+    "Religion": "Buddhist",
+    "Value": 9623
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2010,
+    "Religion": "Hindu",
+    "Value": 4383
+  },
+  {
+    "Country": "Zambia",
+    "Year": 2010,
+    "Religion": "Baha'i",
+    "Value": 3891
+  }
+]

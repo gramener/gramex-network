@@ -43,7 +43,7 @@ Use via CDN as an ES Module:
 
 ```html
 <script type="module">
-  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1/network.js";
+  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1/dist/network.min.js";
 </script>
 ```
 
@@ -62,10 +62,12 @@ The `network()` function creates a network visualization. It accepts the followi
 
 - `el`: {string|HTMLElement} - The selector or HTML element for the SVG.
 - `params`: {Object} - Parameters for the visualization.
-  - `nodes`: {Array} - The data for the nodes.
-  - `links`: {Array} - The data for the links.
-  - `width`: {number} - (optional) The width of the SVG.
-  - `height`: {number} - (optional) The height of the SVG.
+  - `nodes`: {Array} - list of node objects.
+  - `links`: {Array} - list of {source, target} link objects.
+  - `width`: {number} - width of the SVG.
+  - `height`: {number} - height of the SVG.
+  - `linkCurvature`: {number} - curvature of the links. 0 = straight, 1 = half-circle.
+  - `forces`: {Object} - forces to apply to the simulation.
   - `brush`: {Function} - (optional) Callback function to handle brush events.
 
 It returns an object with 2 keys:
@@ -104,7 +106,7 @@ If `nodes` has an `id` key, you can specify the links using `id`:
 
 Here is a simple network that draws the above dataset:
 
-[![Simple network](https://code.gramener.com/reuse/gramex-cartogram/-/raw/main/docs/simple.png)](docs/simple.html ":include")
+[![Example](https://code.gramener.com/reuse/gramex-network/-/raw/main/docs/simple.png)](docs/simple.html ":include height=120px")
 
 [Source code](docs/simple.html ":include :type=code")
 
@@ -127,27 +129,50 @@ const graph = await network("#network", data);
 graph.nodes.attr("r", (d) => d.depth);
 ```
 
-[![Styled network](https://code.gramener.com/reuse/gramex-cartogram/-/raw/main/docs/style.png)](docs/style.html ":include")
+[![Example](https://code.gramener.com/reuse/gramex-network/-/raw/main/docs/style.png)](docs/style.html ":include")
 
 [Source code](docs/style.html ":include :type=code")
 
-<!--
+## Curved links
+
+To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a straight line. 1 is a half-circle. -1 is a half-circle in the opposite direction.
+
+[![Example](https://code.gramener.com/reuse/gramex-network/-/raw/main/docs/curved.png)](docs/curved.html ":include")
+
+[Source code](docs/curved.html ":include :type=code")
 
 ## Add tooltips
 
+You can use [Bootstrap tooltips](https://getbootstrap.com/docs/5.3/components/tooltips/).
+
+1. Add a `data-bs-toggle="tooltip" title="..."` attribute to each feature using `update`
+2. Call `new bootstrap.Tooltip(element, {selector: '[data-bs-toggle="tooltip"]'})` to initialize tooltips
+
+[![Example](https://code.gramener.com/reuse/gramex-network/-/raw/main/docs/tooltip.png)](docs/tooltip.html ":include")
+
+[Source code](docs/tooltip.html ":include :type=code")
 
 ## Filter nodes and links
 
+To dynamically filter nodes and links, pass a subset of the nodes and links.
+
+Make sure the nodes and links are the same objects as the original nodes and links. This ensures that the simulation is not restarted.
+
+In this example, when you move the slider, the country - religion links are filtered based on population. Any isolated nodes are also removed.
+
+[![Example](https://code.gramener.com/reuse/gramex-network/-/raw/main/docs/filter.png)](docs/filter.html ":include")
+
+[Source code](docs/filter.html ":include :type=code")
 
 ## K-partite data
 
+## Forces
+
+## Brushing
 
 ## Animate features
 
-
 ## Zoom to fit
-
--->
 
 ## Documentation
 

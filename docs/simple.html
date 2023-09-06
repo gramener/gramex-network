@@ -1,9 +1,9 @@
-<svg id="network" width="600" height="400"></svg>
+<svg id="network" width="100" height="100"></svg>
 
 <script type="module">
-  // import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1/network.js";
-  import { network } from "../network.js";
+  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1/dist/network.min.js";
 
+  // Load the data
   const data = {
     "nodes": [
       { "id": "Alice" },
@@ -15,7 +15,9 @@
         { "source": "Bob", "target": "Carol" }
       ]
   }
+  // Create the network
   const graph = await network("#network", data);
+  // Style the network
   graph.nodes.attr("fill", "red").attr("r", 8)
   graph.links.attr("stroke", "rgba(0,0,0,0.2)");
 </script>

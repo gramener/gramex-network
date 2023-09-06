@@ -9,7 +9,7 @@
   var root = d3.hierarchy(data);
 
   // Create the network
-  const graph = await network("#network", { links: root.links(), nodes: root.descendants() });
+  const graph = await network("#network", { links: root.links(), nodes: root.descendants(), linkCurvature: 0.5, arrowSize: 8 });
 
   // Style the network
   const color = d3.scaleOrdinal(d3.schemeCategory10);

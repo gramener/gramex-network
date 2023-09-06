@@ -1,4 +1,4 @@
 TODO*
 network.*
 node_modules/
-*.min.*
+dist/

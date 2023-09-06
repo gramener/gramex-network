@@ -5,14 +5,14 @@
   "module": "network.js",
   "browser": "network.min.js",
   "scripts": {
-    "watch": "esbuild index.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outfile=network.js --watch",
-    "build-browser": "esbuild index.js --format=iife --global-name=gramex --bundle --sourcemap --minify --outfile=network.min.js",
-    "build-esm": "esbuild index.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outfile=network.js",
+    "watch": "esbuild index.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist --watch",
+    "build-browser": "esbuild index.js kpartite.js --format=iife --global-name=gramex --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
+    "build-esm": "esbuild index.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
     "build": "npm run build-browser && npm run build-esm",
     "prepublish": "npm run build"
   },
   "files": [
-    "network.*"
+    "dist/*"
   ],
   "repository": {
     "type": "git",

@@ -46,12 +46,12 @@ const defaultForces = {
  * @async
  * @param {string|HTMLElement} el - The selector or HTML element for the SVG.
  * @param {Object} params - Parameters for the visualization.
- * @param {Array} params.nodes - array of node objects.
- * @param {Array} params.links - array of {source, target} link objects.
+ * @param {Array} params.nodes - list of node objects.
+ * @param {Array} params.links - list of {source, target} link objects.
  * @param {number} [params.width] - width of the SVG.
  * @param {number} [params.height] - height of the SVG.
  * @param {number} [params.linkCurvature=0] - curvature of the links. 0 = straight, 1 = half-circle.
- * @param {Object} [params.forces] - object of forces to apply to the simulation.
+ * @param {Object} [params.forces] - forces to apply to the simulation.
  * @param {Function} [params.brush] - callback function to handle brush events.
  * @returns {Object} Object containing D3.js selections for nodes and links.
  */

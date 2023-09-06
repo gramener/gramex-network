@@ -26,7 +26,7 @@ Use locally as an ES module:
 
 ```html
 <script type="module">
-  import { network } from "./node_modules/@gramex/network/index.js";
+  import { network } from "./node_modules/@gramex/network/dist/network.js";
 </script>
 ```
 
@@ -43,14 +43,14 @@ Use via CDN as an ES Module:
 
 ```html
 <script type="module">
-  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1/dist/network.min.js";
+  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1/dist/network.js";
 </script>
 ```
 
 Use via CDN as a script:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@gramex/network@1/network.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@gramex/network@1/dist/network.min.js"></script>
 <script>
   gramex.network(...)
 </script>
@@ -106,7 +106,7 @@ If `nodes` has an `id` key, you can specify the links using `id`:
 
 Here is a simple network that draws the above dataset:
 
-[![Example](https://code.gramener.com/reuse/gramex-network/-/raw/main/docs/simple.png)](docs/simple.html ":include height=120px")
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/simple.png)](docs/simple.html ":include height=120px")
 
 [Source code](docs/simple.html ":include :type=code")
 
@@ -129,7 +129,7 @@ const graph = await network("#network", data);
 graph.nodes.attr("r", (d) => d.depth);
 ```
 
-[![Example](https://code.gramener.com/reuse/gramex-network/-/raw/main/docs/style.png)](docs/style.html ":include")
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/style.png)](docs/style.html ":include")
 
 [Source code](docs/style.html ":include :type=code")
 
@@ -137,7 +137,7 @@ graph.nodes.attr("r", (d) => d.depth);
 
 To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a straight line. 1 is a half-circle. -1 is a half-circle in the opposite direction.
 
-[![Example](https://code.gramener.com/reuse/gramex-network/-/raw/main/docs/curved.png)](docs/curved.html ":include")
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/curved.png)](docs/curved.html ":include")
 
 [Source code](docs/curved.html ":include :type=code")
 
@@ -148,7 +148,7 @@ You can use [Bootstrap tooltips](https://getbootstrap.com/docs/5.3/components/to
 1. Add a `data-bs-toggle="tooltip" title="..."` attribute to each feature using `update`
 2. Call `new bootstrap.Tooltip(element, {selector: '[data-bs-toggle="tooltip"]'})` to initialize tooltips
 
-[![Example](https://code.gramener.com/reuse/gramex-network/-/raw/main/docs/tooltip.png)](docs/tooltip.html ":include")
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/tooltip.png)](docs/tooltip.html ":include")
 
 [Source code](docs/tooltip.html ":include :type=code")
 
@@ -160,7 +160,7 @@ Make sure the nodes and links are the same objects as the original nodes and lin
 
 In this example, when you move the slider, the country - religion links are filtered based on population. Any isolated nodes are also removed.
 
-[![Example](https://code.gramener.com/reuse/gramex-network/-/raw/main/docs/filter.png)](docs/filter.html ":include")
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/filter.png)](docs/filter.html ":include")
 
 [Source code](docs/filter.html ":include :type=code")
 

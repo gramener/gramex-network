@@ -144,6 +144,27 @@ You can use [Bootstrap tooltips](https://getbootstrap.com/docs/5.3/components/to
 
 [Source code](docs/tooltip.html ":include :type=code")
 
+## Dragging and pinning
+
+Dragging a node pins it where you release it. Double-click a pinned node to unpin. To unpin all nodes, double-click on the background.
+
+When dragging, the node gets a `dragging` class. When pinned, it gets a `pinned` class. You can use this to style nodes that are dragged or pinned. For example:
+
+```css
+.dragging {
+  stroke: black;
+  stroke-width: 5;
+}
+.pinned {
+  stroke: black;
+  stroke-width: 3;
+}
+```
+
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/drag.png)](docs/drag.html ":include")
+
+[Source code](docs/drag.html ":include :type=code")
+
 ## Curved links
 
 To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a straight line. 1 is a half-circle. -1 is a half-circle in the opposite direction.

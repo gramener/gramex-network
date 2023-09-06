@@ -123,12 +123,13 @@ export async function network(
 
   function dragended(event) {
     if (!event.active) simulation.alphaTarget(0);
-    d3.select(this).classed("dragging", false);
+    d3.select(this).classed("dragging", false).classed("pinned", true);
   }
 
   function releaseNode(d) {
     d.fx = null;
     d.fy = null;
+    d3.select(this).classed("pinned", false);
   }
 
   function releaseAllNodes() {
@@ -136,6 +137,7 @@ export async function network(
       node.fx = null;
       node.fy = null;
     }
+    nodesLayer.classed("pinned", false);
     simulation.alphaTarget(0.3).restart(); // Restart the simulation to reflect the changes
   }
 

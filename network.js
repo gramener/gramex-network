@@ -51,13 +51,14 @@ const defaultForces = {
  * @param {number} [params.width] - width of the SVG.
  * @param {number} [params.height] - height of the SVG.
  * @param {number} [params.linkCurvature=0] - curvature of the links. 0 = straight, 1 = half-circle.
+ * @param {string} [params.nodeTag="circle"] - SVG tag to use for nodes.
  * @param {Object} [params.forces] - forces to apply to the simulation.
  * @param {Function} [params.brush] - callback function to handle brush events.
  * @returns {Object} Object containing D3.js selections for nodes and links.
  */
 export async function network(
   el,
-  { nodes, links, width, height, linkCurvature = 0, forces, brush },
+  { nodes, links, width, height, linkCurvature = 0, nodeTag = "circle", forces, brush },
 ) {
   let container;
   ({ el, container, width, height } = getSVG(el, width, height));
@@ -94,11 +95,12 @@ export async function network(
   const linkGroup = layer(svg, "g", "links");
   const linksLayer = layer(linkGroup, "path", "link", links).attr("fill", "none");
   const nodeGroup = layer(svg, "g", "nodes");
-  const nodesLayer = layer(nodeGroup, "circle", "node", nodes)
+  const nodesLayer = layer(nodeGroup, nodeTag, "node", nodes)
     .call(d3.drag().on("start", dragstarted).on("drag", dragged).on("end", dragended))
     .on("dblclick", releaseNode);
 
-  d3.select(container).on("dblclick", releaseAllNodes); // Added double-click listener to the SVG background
+  // Clicking the background releases all nodes
+  d3.select(container).on("dblclick", releaseAllNodes);
 
   simulation.on("tick", () => {
     linksLayer.attr("d", (d) => {
@@ -126,9 +128,9 @@ export async function network(
     d3.select(this).classed("dragging", false).classed("pinned", true);
   }
 
-  function releaseNode(d) {
-    d.fx = null;
-    d.fy = null;
+  function releaseNode(event, d) {
+    event.stopPropagation();
+    d.fx = d.fy = null;
     d3.select(this).classed("pinned", false);
   }
 

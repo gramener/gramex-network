@@ -6,7 +6,7 @@ A force-directed network or graph visualization.
 
 Given this [table of countries and religions](docs/country-religion.json ":ignore"):
 
-[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/country-religion.json ":ignore")
+[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/religion.png)](docs/country-religion.json ":ignore")
 
 ... we can render the following network:
 
@@ -106,6 +106,10 @@ If `nodes` has an `id` key, you can specify the links using `id`:
 
 Here is a simple network that draws the above dataset:
 
+```js
+const graph = await network("#network", data);
+```
+
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/simple.png)](docs/simple.html ":include height=120px")
 
 [Source code](docs/simple.html ":include :type=code")
@@ -164,14 +168,6 @@ When dragging, the node gets a `dragging` class. When pinned, it gets a `pinned`
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/drag.png)](docs/drag.html ":include")
 
 [Source code](docs/drag.html ":include :type=code")
-
-## Curved links
-
-To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a straight line. 1 is a half-circle. -1 is a half-circle in the opposite direction.
-
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/curved.png)](docs/curved.html ":include")
-
-[Source code](docs/curved.html ":include :type=code")
 
 ## Filter nodes and links
 
@@ -302,6 +298,29 @@ Passing a `brush` function enables brushing. The `brush` function is called with
 
 - [**Home page**](https://gramener.com/gramex-network/)
 - [**Source**](https://code.gramener.com/cto/gramex-network.git)
+
+## Node shapes and labels
+
+By default, nodes are `<circle>` elements. Change `nodeTag` for a different shape. For example, to use `<text>` elements:
+
+```js
+const graph = await network("#network", { nodes, links, nodeTag: "text" });
+graph.nodes.text((d) => d.id);
+```
+
+Here is a detailed example on how to draw labels with text and a rectangle background:
+
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/shapes.png)](docs/shapes.html ":include")
+
+[Source code](docs/shapes.html ":include :type=code")
+
+## Curved links
+
+To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a straight line. 1 is a half-circle. -1 is a half-circle in the opposite direction.
+
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/curved.png)](docs/curved.html ":include")
+
+[Source code](docs/curved.html ":include :type=code")
 
 ## Release notes
 

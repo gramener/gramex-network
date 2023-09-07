@@ -15,8 +15,7 @@
   const graph = await network("#network", {
     links: root.links(),
     nodes: root.descendants(),
-    brush: (nodes) =>
-      (document.querySelector("#selection").innerHTML = nodes.map((d) => d.data.name).join("<br>")),
+    brush: (nodes) => (document.querySelector("#selection").innerHTML = nodes.map((d) => d.data.name).join("<br>")),
   });
 
   // Style the network

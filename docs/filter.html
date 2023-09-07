@@ -1,9 +1,7 @@
-<link
-  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
-  rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-<input type="range" min="0" max="10" step="0.1" value="6" id="link-filter" style="width: 600px; display: block"/>
+<input type="range" min="0" max="10" step="0.1" value="6" id="link-filter" style="width: 600px; display: block" />
 <svg id="network" width="600" height="380"></svg>
 
 <script type="module">
@@ -14,22 +12,29 @@
 
   // Load the data
   const data = await fetch("country-religion.json").then((r) => r.json());
-  const { nodes, links } = kpartite(data, { country: "Country", religion: "Religion" }, { count: 1, Population: "Value" });
+  const { nodes, links } = kpartite(
+    data,
+    { country: "Country", religion: "Religion" },
+    { count: 1, Population: "Value" },
+  );
 
   async function draw() {
     // Filter the data
     const minPopulation = Math.pow(10, document.querySelector("#link-filter").value);
-    const filteredLinks = links.filter(d => d.Population >= minPopulation);
-    const filteredNodes = nodes.filter(d => filteredLinks.some(l => l.source == d || l.target == d));
+    const filteredLinks = links.filter((d) => d.Population >= minPopulation);
+    const filteredNodes = nodes.filter((d) => filteredLinks.some((l) => l.source == d || l.target == d));
 
     // Create the network
     const graph = await network("#network", { nodes: filteredNodes, links: filteredLinks });
 
     // Style the network
-    const rScale = d3.scaleLinear().domain(d3.extent(nodes, d => d.Population)).range([3, 20]);
+    const rScale = d3
+      .scaleLinear()
+      .domain(d3.extent(nodes, (d) => d.Population))
+      .range([3, 20]);
     graph.nodes
       .attr("fill", (d) => (d.key == "country" ? "rgba(255,0,0,0.5)" : "rgba(0,0,255,0.5)"))
-      .attr("r", d => rScale(d.Population))
+      .attr("r", (d) => rScale(d.Population))
       .attr("data-bs-toggle", "tooltip")
       .attr("title", (d) => d.value);
     graph.links.attr("stroke", "rgba(0,0,0,0.2)");

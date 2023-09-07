@@ -12,5 +12,5 @@ To run this project locally:
 ```shell
 npm version minor
 npm publish
-git push --tags
+git push --follow-tags
 ```

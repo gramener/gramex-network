@@ -5,19 +5,15 @@
 
   // Load the data
   const data = {
-    "nodes": [
-      { "id": "Alice" },
-      { "id": "Bob" },
-      { "id": "Carol" }
+    nodes: [{ id: "Alice" }, { id: "Bob" }, { id: "Carol" }],
+    links: [
+      { source: "Alice", target: "Bob" },
+      { source: "Bob", target: "Carol" },
     ],
-      "links": [
-        { "source": "Alice", "target": "Bob" },
-        { "source": "Bob", "target": "Carol" }
-      ]
-  }
+  };
   // Create the network
   const graph = await network("#network", data);
   // Style the network
-  graph.nodes.attr("fill", "red").attr("r", 8)
+  graph.nodes.attr("fill", "red").attr("r", 8);
   graph.links.attr("stroke", "rgba(0,0,0,0.2)");
 </script>

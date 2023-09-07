@@ -6,11 +6,11 @@ A force-directed network or graph visualization.
 
 Given this [table of countries and religions](docs/country-religion.json ":ignore"):
 
-[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/religion.png)](docs/country-religion.json ":ignore")
+[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/country-religion.json ":ignore")
 
 ... we can render the following network:
 
-[![Religion network visual](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/religion.html ":include")
+[![Religion network visual](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/religion.png)](docs/religion.html ":include")
 
 [Here is the source code for the network above](docs/religion.html ":include :type=code")
 

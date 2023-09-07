@@ -36,7 +36,7 @@
   },
   "homepage": "https://gramener.com/gramex-network/",
   "prettier": {
-    "printWidth": 100
+    "printWidth": 120
   },
   "devDependencies": {
     "esbuild": "^0.19.2",

@@ -69,6 +69,8 @@ The `network()` function creates a network visualization. It accepts the followi
   - `linkCurvature`: {number} - curvature of the links. 0 = straight, 1 = half-circle.
   - `forces`: {Object} - forces to apply to the simulation.
   - `brush`: {Function} - (optional) Callback function to handle brush events.
+  - `id`: {string} - (optional) a unique ID for the SVG. Defaults to the `id` attribute of `el`.
+    When re-running `network()`, previous simulations are stopped on the same `id`.
 
 It returns an object with 2 keys:
 
@@ -324,6 +326,9 @@ To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a s
 
 ## Release notes
 
+- 1.0.8: 14 Sep 2023. Stop past simulations on re-run. Use MIT license
+- 1.0.7: 7 Sep 2023. Support any node shape.
+- 1.0.6: 6 Sep 2023. Enable styles on pinned nodes
 - 1.0.5: 6 Sep 2023. Initial release
 
 ## Authors
@@ -332,4 +337,4 @@ Anand S <s.anand@gramener.com>
 
 ## License
 
-[AGPL-3.0-only](https://spdx.org/licenses/AGPL-3.0-only.html)
+[MIT](https://spdx.org/licenses/MIT.html)

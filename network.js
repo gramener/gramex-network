@@ -25,8 +25,7 @@ export function getSVG(el, width, height) {
   // If width and height are not specified, get them from the closest SVG parent.
   const container = el.closest("svg");
   width = width ?? (container?.viewBox?.animVal?.width || container?.width?.animVal?.value || 0);
-  height =
-    height ?? (container?.viewBox?.animVal?.height || container?.height?.animVal?.value || 0);
+  height = height ?? (container?.viewBox?.animVal?.height || container?.height?.animVal?.value || 0);
   return { el, container, width, height };
 }
 
@@ -39,6 +38,8 @@ const defaultForces = {
   x: ({ width }) => d3.forceX(width / 2),
   y: ({ height }) => d3.forceY(height / 2),
 };
+
+const simulationMap = new Map();
 
 /**
  * Creates a network visualization.
@@ -54,11 +55,12 @@ const defaultForces = {
  * @param {string} [params.nodeTag="circle"] - SVG tag to use for nodes.
  * @param {Object} [params.forces] - forces to apply to the simulation.
  * @param {Function} [params.brush] - callback function to handle brush events.
+ * @param {string} [params.id] - unique identifier for the simulation. Default: el.id.
  * @returns {Object} Object containing D3.js selections for nodes and links.
  */
 export async function network(
   el,
-  { nodes, links, width, height, linkCurvature = 0, nodeTag = "circle", forces, brush },
+  { nodes, links, width, height, linkCurvature = 0, nodeTag = "circle", forces, brush, id },
 ) {
   let container;
   ({ el, container, width, height } = getSVG(el, width, height));
@@ -78,9 +80,7 @@ export async function network(
         .on("end", function (event) {
           if (event.selection) {
             const [[x0, y0], [x1, y1]] = event.selection;
-            brush(
-              nodes.filter((node) => node.x >= x0 && node.x <= x1 && node.y >= y0 && node.y <= y1),
-            );
+            brush(nodes.filter((node) => node.x >= x0 && node.x <= x1 && node.y >= y0 && node.y <= y1));
           } else {
             brush([]);
           }
@@ -89,6 +89,10 @@ export async function network(
   }
 
   const simulation = d3.forceSimulation(nodes);
+  id = id || el.getAttribute("id") || el;
+  if (simulationMap.has(id)) simulationMap.get(id).stop();
+  simulationMap.set(id, simulation);
+
   for (let [name, force] of Object.entries(Object.assign({}, defaultForces, forces)))
     if (force) simulation.force(name, force({ nodes, links, width, height }));
 

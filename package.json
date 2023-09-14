@@ -1,6 +1,6 @@
 {
   "name": "@gramex/network",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A layered map visual that renders choropleths and networks from TopoJSON files",
   "module": "dist/network.js",
   "browser": "dist/network.min.js",
@@ -12,6 +12,7 @@
     "prepublishOnly": "npm run build"
   },
   "files": [
+    "README.md",
     "dist/*"
   ],
   "repository": {
@@ -26,7 +27,7 @@
   ],
   "author": "S Anand <root.node@gmail.com>",
   "contributors": [],
-  "license": "AGPL-3.0-only",
+  "license": "MIT",
   "bugs": {
     "url": "https://code.gramener.com/cto/gramex-network/-/issues"
   },

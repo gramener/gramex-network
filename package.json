@@ -5,11 +5,12 @@
   "module": "dist/network.js",
   "browser": "dist/network.min.js",
   "scripts": {
+    "lint": "prettier --write '**/*.{js,mjs,ts,md,json}' && eslint",
     "watch": "esbuild network.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist --watch",
     "build-browser": "esbuild network.js kpartite.js --format=iife --global-name=gramex --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
     "build-esm": "esbuild network.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
     "build": "npm run build-browser && npm run build-esm",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run lint && npm run build"
   },
   "files": [
     "README.md",
@@ -40,6 +41,7 @@
     "printWidth": 120
   },
   "devDependencies": {
+    "@gramex/chartbase": "^1.0.0",
     "esbuild": "^0.19.2",
     "eslint": "^8.48.0",
     "eslint-plugin-html": "^7.1.0",

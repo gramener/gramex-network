@@ -9,12 +9,4 @@ env:
   jest: true
 # Check JS inside HTML files
 plugins: [html]
-extends:
-  # Use eslint recommended rules by default
-  - eslint:recommended
-  # docs/network-react uses React
-  - plugin:react/recommended
-  - plugin:react-hooks/recommended
-rules:
-  # From React 17+, we don't need to import React
-  react/react-in-jsx-scope: 'off'
+extends: eslint:recommended

@@ -10,3 +10,4 @@ deploy:
     URL: gramex-network
     VERSION: static
     SETUP: npm install && npm run build
+    CORS: enabled

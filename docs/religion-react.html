@@ -1,0 +1,40 @@
+<div id="root"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/react/umd/react.development.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/react-dom/umd/react-dom.development.js"></script>
+<script type="module">
+  /* globals React, ReactDOM */
+  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@2";
+  import { kpartite } from "https://cdn.jsdelivr.net/npm/@gramex/network@2/dist/kpartite.js";
+  import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+  const { useEffect } = React;
+
+  // Load the data
+  const data = await fetch("country-religion.json").then((r) => r.json());
+  const { nodes, links } = kpartite(
+    data,
+    { country: "Country", religion: "Religion" },
+    { count: 1, Population: "Value" },
+  );
+
+  // Create the network
+  function App() {
+    useEffect(() => {
+      const graph = network("#network", { nodes, links, d3 });
+      // Style the network
+      const rScale = d3
+        .scaleLinear()
+        .domain(d3.extent(nodes, (d) => d.Population))
+        .range([3, 20]);
+      graph.nodes
+        .attr("fill", (d) => (d.key == "country" ? "rgba(255,0,0,0.5)" : "rgba(0,0,255,0.5)"))
+        .attr("r", (d) => rScale(d.Population))
+        .text((d) => d.value);
+      graph.links.attr("stroke", "rgba(0,0,0,0.2)");
+    }, []);
+
+    return React.createElement("svg", { id: "network", width: 600, height: 380 });
+  }
+  const root = ReactDOM.createRoot(document.querySelector("#root"));
+  root.render(React.createElement(React.StrictMode, null, React.createElement(App)));
+</script>

@@ -306,6 +306,44 @@ If you already have D3 loaded, or want to use a specific version / instance of D
 
 [See how to use your own D3 version](docs/d3.html ":include :type=code")
 
+## React usage
+
+Use the following pattern when using `network()`` with React:
+
+```js
+const { useEffect } = React;
+function App() {
+  useEffect(() => network("#network", { ... }), []);
+  return React.createElement("svg", { id: "network", width: 600, height: 380 });
+}
+const root = ReactDOM.createRoot(document.querySelector("#root"));
+root.render(React.createElement(React.StrictMode, null, React.createElement(App)));
+```
+
+[![Example](https://code.gramener.com/cto/gramex-documap/-/raw/main/docs/religion.png)](docs/religion-react.html ":include height=400")
+
+[See how to use network with React](docs/religion-react.html ":include :type=code")
+
+Here are instructions to create a React Component:
+
+```shell
+npx create-react-app network-react
+cd network-react
+npm install d3 @gramex/network
+```
+
+Create `src/NetworkComponent.js` with this code:
+
+[See NetworkComponent.js code](docs/network-react/src/NetworkComponent.js ":include :type=code")
+
+Modify `src/App.js` as follows:
+
+[See App.js code](docs/network-react/src/App.js ":include :type=code")
+
+Then run `npm start` or `npm run build`.
+
+[Explore the code](https://code.gramener.com/cto/gramex-network/-/tree/main/docs/network-react ":ignore").
+
 ## API
 
 [See API documentation](docs/api.md ":include :type=markdown")

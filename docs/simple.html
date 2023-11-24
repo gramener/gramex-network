@@ -1,7 +1,8 @@
 <svg id="network" width="100" height="100"></svg>
 
 <script type="module">
-  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1";
+  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@2";
+  import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
   // Load the data
   const data = {
@@ -10,9 +11,10 @@
       { source: "Alice", target: "Bob" },
       { source: "Bob", target: "Carol" },
     ],
+    d3
   };
   // Create the network
-  const graph = await network("#network", data);
+  const graph = network("#network", data);
   // Style the network
   graph.nodes.attr("fill", "red").attr("r", 8);
   graph.links.attr("stroke", "rgba(0,0,0,0.2)");

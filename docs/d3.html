@@ -1,0 +1,22 @@
+<svg id="network" width="100" height="100"></svg>
+
+<script type="module">
+  // Use our own version of D3
+  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@2";
+  import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7.8.5/+esm";
+
+  // Load the data
+  const data = {
+    nodes: [{ id: "Alice" }, { id: "Bob" }, { id: "Carol" }],
+    links: [
+      { source: "Alice", target: "Bob" },
+      { source: "Bob", target: "Carol" },
+    ],
+    d3
+  };
+  // Create the network
+  const graph = network("#network", data);
+  // Style the network
+  graph.nodes.attr("fill", "red").attr("r", 8);
+  graph.links.attr("stroke", "rgba(0,0,0,0.2)");
+</script>

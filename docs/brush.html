@@ -4,7 +4,7 @@
 </div>
 
 <script type="module">
-  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1";
+  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@2";
   import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
   // Load the data
@@ -12,10 +12,11 @@
   var root = d3.hierarchy(data);
 
   // Create the network
-  const graph = await network("#network", {
+  const graph = network("#network", {
     links: root.links(),
     nodes: root.descendants(),
     brush: (nodes) => (document.querySelector("#selection").innerHTML = nodes.map((d) => d.data.name).join("<br>")),
+    d3
   });
 
   // Style the network

@@ -6,8 +6,8 @@
 
 <script type="module">
   /* globals bootstrap */
-  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1";
-  import { kpartite } from "https://cdn.jsdelivr.net/npm/@gramex/network@1/dist/kpartite.js";
+  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@2";
+  import { kpartite } from "https://cdn.jsdelivr.net/npm/@gramex/network@2/dist/kpartite.js";
   import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
   // Load the data
@@ -18,14 +18,14 @@
     { count: 1, Population: "Value" },
   );
 
-  async function draw() {
+  function draw() {
     // Filter the data
     const minPopulation = Math.pow(10, document.querySelector("#link-filter").value);
     const filteredLinks = links.filter((d) => d.Population >= minPopulation);
     const filteredNodes = nodes.filter((d) => filteredLinks.some((l) => l.source == d || l.target == d));
 
     // Create the network
-    const graph = await network("#network", { nodes: filteredNodes, links: filteredLinks });
+    const graph = network("#network", { nodes: filteredNodes, links: filteredLinks, d3 });
 
     // Style the network
     const rScale = d3

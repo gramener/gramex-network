@@ -88,12 +88,12 @@ If `nodes` has an `id` key, you can specify the links using `id`:
 Here is a simple network that draws the above dataset:
 
 ```js
-const graph = await network("#network", data);
+const graph = network("#network", data);
 ```
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/simple.png)](docs/simple.html ":include height=120px")
 
-[Source code](docs/simple.html ":include :type=code")
+[See how to use network()](docs/simple.html ":include :type=code")
 
 ## Style nodes and links
 
@@ -110,13 +110,13 @@ and any other [selection methods](https://github.com/d3/d3-selection) to style t
 You can use any node/link keys in the styles. For example:
 
 ```js
-const graph = await network("#network", data);
+const graph = network("#network", data);
 graph.nodes.attr("r", (d) => d.depth);
 ```
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/style.png)](docs/style.html ":include")
 
-[Source code](docs/style.html ":include :type=code")
+[See how to style nodes and links](docs/style.html ":include :type=code")
 
 ## Add tooltips
 
@@ -127,7 +127,7 @@ You can use [Bootstrap tooltips](https://getbootstrap.com/docs/5.3/components/to
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/tooltip.png)](docs/tooltip.html ":include")
 
-[Source code](docs/tooltip.html ":include :type=code")
+[See how to add tooltips](docs/tooltip.html ":include :type=code")
 
 ## Dragging and pinning
 
@@ -148,7 +148,7 @@ When dragging, the node gets a `dragging` class. When pinned, it gets a `pinned`
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/drag.png)](docs/drag.html ":include")
 
-[Source code](docs/drag.html ":include :type=code")
+[See how to highlight dragged and pinned nodes](docs/drag.html ":include :type=code")
 
 ## Filter nodes and links
 
@@ -160,7 +160,7 @@ In this example, when you move the slider, the country - religion links are filt
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/filter.png)](docs/filter.html ":include")
 
-[Source code](docs/filter.html ":include :type=code")
+[See how to filter nodes and links](docs/filter.html ":include :type=code")
 
 ## Tabular data
 
@@ -265,7 +265,7 @@ Each force is a function that accepts the `nodes`, `links`, `width` and `height`
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/forces.png)](docs/forces.html ":include")
 
-[Source code](docs/forces.html ":include :type=code")
+[See how to modify forces](docs/forces.html ":include :type=code")
 
 ## Brushing
 
@@ -273,19 +273,14 @@ Passing a `brush` function enables brushing. The `brush` function is called with
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/brush.png)](docs/brush.html ":include")
 
-[Source code](docs/brush.html ":include :type=code")
-
-## Documentation
-
-- [**Home page**](https://gramener.com/gramex-network/)
-- [**Source**](https://code.gramener.com/cto/gramex-network.git)
+[See how to handle brushing](docs/brush.html ":include :type=code")
 
 ## Node shapes and labels
 
 By default, nodes are `<circle>` elements. Change `nodeTag` for a different shape. For example, to use `<text>` elements:
 
 ```js
-const graph = await network("#network", { nodes, links, nodeTag: "text" });
+const graph = network("#network", { nodes, links, nodeTag: "text" });
 graph.nodes.text((d) => d.id);
 ```
 
@@ -293,7 +288,7 @@ Here is a detailed example on how to draw labels with text and a rectangle backg
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/shapes.png)](docs/shapes.html ":include")
 
-[Source code](docs/shapes.html ":include :type=code")
+[See how to use different node shapes](docs/shapes.html ":include :type=code")
 
 ## Curved links
 
@@ -301,7 +296,15 @@ To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a s
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/curved.png)](docs/curved.html ":include")
 
-[Source code](docs/curved.html ":include :type=code")
+[See how to draw curved links](docs/curved.html ":include :type=code")
+
+## Bring your own D3
+
+If you already have D3 loaded, or want to use a specific version / instance of D3, pass it to `network(el, { d3 })`:
+
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/simple.png)](docs/d3.html ":include height=120")
+
+[See how to use your own D3 version](docs/d3.html ":include :type=code")
 
 ## API
 
@@ -309,6 +312,7 @@ To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a s
 
 ## Release notes
 
+- 2.0.0: 24 Nov 2023. Synchronous API. Bring your own D3.
 - 1.0.8: 14 Sep 2023. Stop past simulations on re-run. Use MIT license
 - 1.0.7: 7 Sep 2023. Support any node shape.
 - 1.0.6: 6 Sep 2023. Enable styles on pinned nodes

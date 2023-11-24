@@ -1,10 +1,10 @@
 /**
- * Generates a D3 compatible node-link structure based on given data and keys.
+ * Generates a D3 compatible node-link structure from a data frame (array of objects).
  *
- * @param {Array} data - An array of objects containing the data.
- * @param {Object} keys - An object of {key: column/accessor} pairs or an array of [key, column/accessor] pairs
- * @param {Object} values - An object of accessor functions for link values.
- * @returns {Object} An object with `nodes` and `links` arrays representing the node-link structure.
+ * @param {Array} data - array of objects containing the data.
+ * @param {Object|Array} keys - object of {key: column/accessor} pairs or an array of [key, column/accessor] pairs
+ * @param {Object} values - object of accessor functions for link values.
+ * @returns {NodeLink} - `{ nodes, links }` arrays with the node-link structure.
  *
  * @example
  * const data = [
@@ -12,34 +12,17 @@
  *   { "Country": "UK", "Religion": "Christian" },
  *   { "Country": "Iran", "Religion": "Muslim" }
  * ];
- *
+ * // List nodes to extract from each row
  * const keys = {
- *   "Country": "Country",
- *   "Religion": d => d.Religion
+ *   "Country": "Country",        // Create node from "Country" field
+ *   "Religion": d => d.Religion  // Create node from "Religion" field
  * };
- *
+ * // Define attributes to add to each node / link
  * const values = {
- *  count: 1,
- *  Population: "Population"
+ *  count: 1,                     // Sum "1" to count the number of rows matching each node / link
+ *  Population: "Population"      // Sum the "Population" field from rows matching each node / link
  * };
- *
- * const result = kpartite(data, keys, values);
- * console.log(result.nodes, result.links);
- *
- * The `nodes` array has all unique nodes -- for each key in each data element. It has:
- *
- * - `key`: the key in the `keys` object, e.g. `Country`, `Religion`
- * - `value`: the value of the `keys` object, e.g. `data[0]["Country"]`, `data[0].Religion`
- * - `id`: JSON.stringify([key, value])
- * - `count`: number of links the node has
- * - `Population`: sum of the `Population` values for all links the node has
- *
- * The `links` array counts unique links -- for each PAIR of keys in each data element. It has:
- *
- * - `source`: link to the nodes object corresponding to the first key
- * - `target`: link to the nodes object corresponding to the second key
- * - `count`: number of times the pair occurred
- * - `Population`: sum of the `Population` values for all links the pair occurred
+ * const { nodes, links } = kpartite(data, keys, values);
  */
 // https://chat.openai.com/share/3046fae8-d85d-4c95-a650-6703040b36bb
 
@@ -95,5 +78,16 @@ export function kpartite(data, keys, values = {}) {
     }
   });
 
+  /**
+   * @typedef {Object} NodeLink
+   * @property {Array} nodes - unique nodes for each key in each data element
+   * @property {Array} links - unique links for each PAIR of keys in each data element
+   * @property {string} nodes[].key - key of the node.
+   * @property {string} nodes[].value - value of the node.
+   * @property {string} nodes[].id - JSON.stringify([key, value]).
+   * @property {Object} links[].source - link to the nodes object corresponding to the first key.
+   * @property {Object} links[].target - link to the nodes object corresponding to the second key.
+   * @property {string} links[].id - JSON.stringify([source.id, target.id]).
+   */
   return { nodes: Array.from(nodesMap.values()), links: Array.from(linkMap.values()) };
 }

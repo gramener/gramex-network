@@ -1,22 +1,13 @@
 import { layer, getSVG } from "@gramex/chartbase";
-import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 
-const defaultForces = {
-  link: ({ nodes, links }) => {
-    const force = d3.forceLink(links);
-    return nodes?.[0]?.id ? force.id((d) => d.id) : force;
-  },
-  charge: () => d3.forceManyBody(),
-  x: ({ width }) => d3.forceX(width / 2),
-  y: ({ height }) => d3.forceY(height / 2),
-};
-
+/* Store default forces for each D3 instance. */
+const defaultForces = new Map();
+/* Store simulations for each SVG. */
 const simulationMap = new Map();
 
 /**
  * Creates a network visualization.
  *
- * @async
  * @param {string|HTMLElement} el - The selector or HTML element for the SVG.
  * @param {Object} params - Parameters for the visualization.
  * @param {Array} params.nodes - list of node objects.
@@ -27,16 +18,29 @@ const simulationMap = new Map();
  * @param {string} [params.nodeTag="circle"] - SVG tag to use for nodes.
  * @param {Object} [params.forces] - forces to apply to the simulation.
  * @param {Function} [params.brush] - callback function to handle brush events.
- * @param {string} [params.id] - unique identifier for the simulation. Default: el.id.
+ * @param {string} [params.id] - unique identifier for the simulation. Uses `el.id` if not specified.
+ * @param {Object} [params.d3=window.d3] - D3 instance to use.
  * @returns {Object} Object containing D3.js selections for nodes and links.
  */
-export async function network(
+export function network(
   el,
-  { nodes, links, width, height, linkCurvature = 0, nodeTag = "circle", forces, brush, id },
+  { nodes, links, width, height, linkCurvature = 0, nodeTag = "circle", forces, brush, id, d3 = globalThis.d3 },
 ) {
+  // If el is already a D3 element, use it (with it's version of D3). Else use the provided D3
   let container;
-  ({ el, container, width, height } = getSVG(el, width, height));
+  ({ el, container, width, height } = getSVG(el._groups ? el.node() : el, width, height));
   const svg = d3.select(el);
+
+  if (!defaultForces.has(d3))
+    defaultForces.set(d3, {
+      link: ({ nodes, links }) => {
+        const force = d3.forceLink(links);
+        return nodes?.[0]?.id ? force.id((d) => d.id) : force;
+      },
+      charge: () => d3.forceManyBody(),
+      x: ({ width }) => d3.forceX(width / 2),
+      y: ({ height }) => d3.forceY(height / 2),
+    });
 
   const arc = Math.sqrt(2 * (1 - Math.cos(Math.PI * linkCurvature)));
 
@@ -65,7 +69,7 @@ export async function network(
   if (simulationMap.has(id)) simulationMap.get(id).stop();
   simulationMap.set(id, simulation);
 
-  for (let [name, force] of Object.entries(Object.assign({}, defaultForces, forces)))
+  for (let [name, force] of Object.entries(Object.assign({}, defaultForces.get(d3), forces)))
     if (force) simulation.force(name, force({ nodes, links, width, height }));
 
   const linkGroup = layer(svg, "g", "links");

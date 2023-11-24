@@ -56,27 +56,6 @@ Use via CDN as a script:
 </script>
 ```
 
-## API
-
-The `network()` function creates a network visualization. It accepts the following parameters:
-
-- `el`: {string|HTMLElement} - The selector or HTML element for the SVG.
-- `params`: {Object} - Parameters for the visualization.
-  - `nodes`: {Array} - list of node objects.
-  - `links`: {Array} - list of {source, target} link objects.
-  - `width`: {number} - width of the SVG.
-  - `height`: {number} - height of the SVG.
-  - `linkCurvature`: {number} - curvature of the links. 0 = straight, 1 = half-circle.
-  - `forces`: {Object} - forces to apply to the simulation.
-  - `brush`: {Function} - (optional) Callback function to handle brush events.
-  - `id`: {string} - (optional) a unique ID for the SVG. Defaults to the `id` attribute of `el`.
-    When re-running `network()`, previous simulations are stopped on the same `id`.
-
-It returns an object with 2 keys:
-
-- `nodes`: a D3 join of the nodes
-- `links`: a D3 join of the links
-
 ## Use a node-link dataset
 
 The `network()` function accepts a `{ nodes, links }` object.
@@ -323,6 +302,10 @@ To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a s
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/curved.png)](docs/curved.html ":include")
 
 [Source code](docs/curved.html ":include :type=code")
+
+## API
+
+[See API documentation](docs/api.md ":include :type=markdown")
 
 ## Release notes
 

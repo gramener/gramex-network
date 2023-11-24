@@ -261,7 +261,17 @@ forces: {
 }
 ```
 
-Each force is a function that accepts the `nodes`, `links`, `width` and `height` of the SVG, and returns a D3 force.
+This network uses a `d3.forceCollide()` to prevent nodes from overlapping, and a stronger
+`d3.forceManyBody()` replacing the default `charge` force to push nodes apart:
+
+```js
+forces: {
+  charge: () => d3.forceManyBody().strength(-20),
+  collide: () => d3.forceCollide().radius(d => 22 - d.depth * 4).iterations(3),
+},
+```
+
+Each force is a `function({ nodes, links, width, height })` where `width` and `height` are the size of the SVG. It should **return** a D3 force.
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/forces.png)](docs/forces.html ":include")
 
@@ -289,6 +299,42 @@ Here is a detailed example on how to draw labels with text and a rectangle backg
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/shapes.png)](docs/shapes.html ":include")
 
 [See how to use different node shapes](docs/shapes.html ":include :type=code")
+
+## Arrows
+
+To add arrows, add a triangle `<marker>` to your SVG's `<defs>` like below:
+
+```html
+<svg>
+  <defs>
+    <marker
+      id="triangle"
+      viewBox="0 0 10 10"
+      refX="20"
+      refY="5"
+      markerUnits="strokeWidth"
+      markerWidth="8"
+      markerHeight="8"
+      orient="auto"
+    >
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="rgba(0,0,0,0.2)" />
+    </marker>
+  </defs>
+</svg>
+```
+
+Here:
+
+- `refX` is the distance from the end of the line to the tip of the arrow
+- `refY` is the distance from the center of the line to the center of the arrow
+- `markerWidth` and `markerHeight` are the size of the arrow
+- `orient` is the direction of the arrow. `auto` means the arrow points in the direction of the line
+
+Then add `graph.links.attr("marker-end", "url(#triangle)")` to your code.
+
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/arrows.png)](docs/arrows.html ":include")
+
+[See how to draw arrows on links](docs/arrows.html ":include :type=code")
 
 ## Curved links
 
@@ -320,7 +366,7 @@ const root = ReactDOM.createRoot(document.querySelector("#root"));
 root.render(React.createElement(React.StrictMode, null, React.createElement(App)));
 ```
 
-[![Example](https://code.gramener.com/cto/gramex-documap/-/raw/main/docs/religion.png)](docs/religion-react.html ":include height=400")
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/religion.png)](docs/religion-react.html ":include height=400")
 
 [See how to use network with React](docs/religion-react.html ":include :type=code")
 
@@ -350,7 +396,9 @@ Then run `npm start` or `npm run build`.
 
 ## Release notes
 
-- 2.0.0: 24 Nov 2023. Synchronous API. Bring your own D3.
+- 2.0.0: 24 Nov 2023. Synchronous API. Bring your own D3. To migrate from v1:
+  - Replace `await network(...)` with `network(...)`
+  - Pass `d3` as a param, e.g. `network(el, { d3 })`
 - 1.0.8: 14 Sep 2023. Stop past simulations on re-run. Use MIT license
 - 1.0.7: 7 Sep 2023. Support any node shape.
 - 1.0.6: 6 Sep 2023. Enable styles on pinned nodes

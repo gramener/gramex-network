@@ -13,15 +13,14 @@
     links: root.links(),
     nodes: root.descendants(),
     forces: {
-      x: false,
-      y: false,
-      center: ({ width, height }) => d3.forceCenter(width / 2, height / 2),
+      charge: () => d3.forceManyBody().strength(-20),
+      collide: () => d3.forceCollide().radius(d => 22 - d.depth * 4).iterations(3),
     },
     d3
   });
 
   // Style the network
   const color = d3.scaleOrdinal(d3.schemeCategory10);
-  graph.nodes.attr("fill", (d) => color(d.depth)).attr("r", (d) => 10 - d.depth * 2);
+  graph.nodes.attr("fill", (d) => color(d.depth)).attr("r", (d) => 20 - d.depth * 4);
   graph.links.attr("stroke", "rgba(0,0,0,0.2)");
 </script>

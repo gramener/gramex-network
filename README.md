@@ -1,4 +1,4 @@
-# gramex-network
+# @gramex/network
 
 A force-directed network or graph visualization.
 
@@ -192,7 +192,7 @@ If you have tabular data (a flat array of objects) like this [table of countries
 ... you can convert it to a node-link dataset using `kpartite()`. It accepts 3 parameters:
 
 1. `data` - array of objects containing the data.
-2. `keys` - object of `{key: column}` pairs or an array of [key, column] pairs.
+2. `keys` - object of `{key: column}` pairs or an array of `[key, column]` pairs.
    - `key` is a string node type
    - `column` is the string name of a field in data, or a function(object) that returns the field, or a static value.
 3. `values` - object of accessor functions for link values that are aggregated across links and nodes
@@ -333,7 +333,9 @@ To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a s
 
 ## Authors
 
-Anand S <s.anand@gramener.com>
+- Anand S <s.anand@gramener.com>
+- Aayush Thakur <aayush.thakur@gramener.com>
+- Chandana Sagar <chandana.sagar@gramener.com>
 
 ## License
 

@@ -1,9 +1,9 @@
 {
   "name": "@gramex/network",
   "version": "1.0.8",
-  "description": "A layered map visual that renders choropleths and networks from TopoJSON files",
+  "description": "A force-directed network or graph visualization.",
   "module": "dist/network.js",
-  "browser": "dist/network.min.js",
+  "main": "dist/network.min.js",
   "scripts": {
     "lint": "prettier --write '**/*.{js,mjs,ts,md,json}' && eslint",
     "watch": "esbuild network.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist --watch",
@@ -26,8 +26,11 @@
     "choropleth",
     "map"
   ],
-  "author": "S Anand <root.node@gmail.com>",
-  "contributors": [],
+  "author": "S Anand <s.anand@gramener.com>",
+  "contributors": [
+    "Aayush Thakur <aayush.thakur@gramener.com>",
+    "Chandana Sagar <chandana.sagar@gramener.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://code.gramener.com/cto/gramex-network/-/issues"

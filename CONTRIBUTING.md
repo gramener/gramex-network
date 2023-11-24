@@ -3,9 +3,9 @@
 To run this project locally:
 
 - Clone this repo, and run `npm install` to install dependencies
-- Run `npm run watch` to start auto-compiling [`index.js`](index.js)
+- Run `npm run watch` to start auto-compiling [`network.js`](network.js)
 - Open [`index.html`](index.html) using a HTTP server (e.g. `python -m http.server`)
-- Edit [`index.js`](index.js) to make changes
+- Edit [`network.js`](network.js) to make changes
 
 # Release
 

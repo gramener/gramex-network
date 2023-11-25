@@ -164,7 +164,7 @@ In this example, when you move the slider, the country - religion links are filt
 
 ## Tabular data
 
-If you have tabular data (a flat array of objects) like this [table of countries and religions](docs/country-religion.json ":ignore"):
+If you have tabular data (a flat array of objects) with multiple entities like this [table of countries and religions](docs/country-religion.json ":ignore"):
 
 [![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/country-religion.json ":ignore")
 
@@ -240,6 +240,31 @@ This creates the following `nodes`:
   // ... etc.
 ];
 ```
+
+## Tabular unipartite data
+
+If you have a relationships between the same entity (e.g. people connected with people, countries trading with countries),
+use `kpartite()` as follows:
+
+```js
+// Create nodes and links, mapping the "name" key with both "Column A" and "Column B"
+const { nodes, links } = kpartite(
+  data,
+  [
+    ["name", "Column A"],
+    ["name", "Column B"],
+  ],
+  { count: 1 },
+);
+```
+
+Here is an example with the [Friends sexual partners](https://www.reddit.com/r/entertainment/comments/1628b4/people_demand_to_know_full_list_of_friends_sexual/)
+[`data`](friends-sexual-partners.csv).
+(Interestingly, Rachel is the only one who doesn't share a sexual partner with any of the others.)
+
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/friends.png)](docs/friends.html ":include")
+
+[See how to generate unipartite data](docs/friends.html ":include :type=code")
 
 ## Forces
 

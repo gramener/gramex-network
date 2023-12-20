@@ -19,7 +19,7 @@ Given this [table of countries and religions](docs/country-religion.json ":ignor
 Install via `npm`:
 
 ```bash
-npm install @gramex/network
+npm install @gramex/network@2
 ```
 
 Use locally as an ES module:
@@ -43,14 +43,14 @@ Use via CDN as an ES Module:
 
 ```html
 <script type="module">
-  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@1";
+  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@2";
 </script>
 ```
 
 Use via CDN as a script:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@gramex/network@1/dist/network.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@gramex/network@2/dist/network.min.js"></script>
 <script>
   gramex.network(...)
 </script>

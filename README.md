@@ -259,12 +259,19 @@ const { nodes, links } = kpartite(
 ```
 
 Here is an example with the [Friends sexual partners](https://www.reddit.com/r/entertainment/comments/1628b4/people_demand_to_know_full_list_of_friends_sexual/)
-[`data`](friends-sexual-partners.csv).
+[`data`](docs/friends-sexual-partners.csv ":ignore").
 (Interestingly, Rachel is the only one who doesn't share a sexual partner with any of the others.)
 
 [![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/friends.png)](docs/friends.html ":include")
 
 [See how to generate unipartite data](docs/friends.html ":include :type=code")
+
+Here is an example with the [Arxiv paper coauthors](https://www.kaggle.com/datasets/Cornell-University/arxiv/)
+[`data`](docs/coauthors.csv ":ignore") of Computational Lingustics papers that have "LLM" in their title, and authored 2+ papers together.
+
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/coauthors.png)](docs/coauthors.html ":include")
+
+[See how to generate unipartite data](docs/coauthors.html ":include :type=code")
 
 ## Forces
 

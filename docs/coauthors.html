@@ -14,7 +14,7 @@
   data.forEach(d => d.count = +d.count);
   // Create nodes and links, mapping the "name" key with both "author" and "coauthor" columns
   const { nodes, links } = kpartite(
-    data.filter(d => d.count > 1),
+    data,
     [["name", "author"], ["name", "coauthor"]],
     { count: "count" },
   );

@@ -1,0 +1,1591 @@
+,Country,Year,Religion,Value
+0,Albania,2011,Muslim,1587608.0
+1,Albania,2011,Refused to answer,386024.0
+2,Albania,2011,Catholic,280921.0
+3,Albania,2011,Orthodox,188992.0
+4,Albania,2011,Believers without denomination,153630.0
+5,Albania,2011,Atheist,69995.0
+6,Albania,2011,Not Stated,68022.0
+7,Albania,2011,Bektashism,58628.0
+8,Albania,2011,Evangelical,3797.0
+9,Albania,2011,Other Christians,1919.0
+10,Albania,2011,Other,602.0
+11,Anguilla,2001,Anglican,3313.0
+12,Anguilla,2001,Methodist,2733.0
+13,Anguilla,2001,Pentecostal,878.0
+14,Anguilla,2001,Seventh Day Adventist,871.0
+15,Anguilla,2001,Church of God,869.0
+16,Anguilla,2001,Baptist,833.0
+17,Anguilla,2001,Roman Catholic,654.0
+18,Anguilla,2001,No Religion,456.0
+19,Anguilla,2001,Other Religions,400.0
+20,Anguilla,2001,Rastafarian,82.0
+21,Anguilla,2001,Jehovah Witness,81.0
+22,Anguilla,2001,Evangelical,60.0
+23,Anguilla,2001,Hindu,45.0
+24,Anguilla,2001,Brethren,39.0
+25,Anguilla,2001,Not Specified,39.0
+26,Anguilla,2001,Muslim,36.0
+27,Anguilla,2001,Presbyterian,25.0
+28,Anguilla,2001,Jewish,16.0
+29,Antigua and Barbuda,2001,Anglican,19767.0
+30,Antigua and Barbuda,2001,Seventh Day Adventist,9436.0
+31,Antigua and Barbuda,2001,Pentecostal,8118.0
+32,Antigua and Barbuda,2001,Moravian,8057.0
+33,Antigua and Barbuda,2001,Roman Catholic,8021.0
+34,Antigua and Barbuda,2001,Methodist,6091.0
+35,Antigua and Barbuda,2001,Baptist,3777.0
+36,Antigua and Barbuda,2001,Church of God,3443.0
+37,Antigua and Barbuda,2001,No Religion,3145.0
+38,Antigua and Barbuda,2001,Evangelical,1982.0
+39,Antigua and Barbuda,2001,Not Declared,1329.0
+40,Antigua and Barbuda,2001,Jehovah Witness,1257.0
+41,Antigua and Barbuda,2001,Rastafarian,973.0
+42,Antigua and Barbuda,2001,Salvation Army,444.0
+43,Antigua and Barbuda,2001,Islam ,228.0
+44,Antigua and Barbuda,2001,Presbyterian,205.0
+45,Antigua and Barbuda,2001,Brethren,194.0
+46,Antigua and Barbuda,2001,Hindu,189.0
+47,Antigua and Barbuda,2001,Other,116.0
+48,Antigua and Barbuda,2001,Spiritualist,66.0
+49,Antigua and Barbuda,2001,Baha'i,51.0
+50,Armenia,2011,Armenian Apostolic,2796519.0
+51,Armenia,2011,Not Stated,87214.0
+52,Armenia,2011,No Religion,34373.0
+53,Armenia,2011,Evangelical,29280.0
+54,Armenia,2011,Shar-fadinian,25204.0
+55,Armenia,2011,Catholic,13843.0
+56,Armenia,2011,Yeshiva's witness,8695.0
+57,Armenia,2011,Other,7888.0
+58,Armenia,2011,Armenian Orthodox,7532.0
+59,Armenia,2011,Pagan,5434.0
+60,Armenia,2011,Molokai,2872.0
+61,Aruba,2010,Roman Catholic,76464.0
+62,Aruba,2010,Other Religions and Persuasions,11862.0
+63,Aruba,2010,Pagan,5625.0
+64,Aruba,2010,No Religion,5625.0
+65,Aruba,2010,Protestant,2698.0
+66,Aruba,2010,Jehovah Witness,1703.0
+67,Aruba,2010,Methodist,932.0
+68,Aruba,2010,Adventist,880.0
+69,Aruba,2010,Not Stated,515.0
+70,Aruba,2010,Anglican,450.0
+71,Aruba,2010,Jewish,354.0
+72,Australia,2016,No Religion,6933708.0
+73,Australia,2016,Catholic,5291834.0
+74,Australia,2016,Anglican,3101185.0
+75,Australia,2016,Not Stated,2132167.0
+76,Australia,2016,United Church,870183.0
+77,Australia,2016,Christian nfd,612371.0
+78,Australia,2016,Islam ,604240.0
+79,Australia,2016,Buddhist,563674.0
+80,Australia,2016,Presbyterian and Reformed,526689.0
+81,Australia,2016,Eastern Orthodox,502801.0
+82,Australia,2016,Hindu,440300.0
+83,Australia,2016,Baptist,345142.0
+84,Australia,2016,Pentecostal,260558.0
+85,Australia,2016,Lutheran,174019.0
+86,Australia,2016,Sikh,125901.0
+87,Australia,2016,Other Protestant,108307.0
+88,Australia,2016,"Religious belief, nfd and Inadequately described",106568.0
+89,Australia,2016,Judaism,91022.0
+90,Australia,2016,Jehovah's Witnesses,82510.0
+91,Australia,2016,Secular Beliefs,67592.0
+92,Australia,2016,Seventh Day Adventist,62945.0
+93,Australia,2016,Latter Day Saints,61639.0
+94,Australia,2016,Oriental Orthodox,51013.0
+95,Australia,2016,Salvation Army,48939.0
+96,Australia,2016,Church of Christ,39621.0
+97,Australia,2016,Other Religions,39180.0
+98,Australia,2016,Other Christians,30549.0
+99,Australia,2016,Nature and earth based religions,27207.0
+100,Australia,2016,Other,25065.0
+101,Australia,2016,Brethren,17423.0
+102,Australia,2016,Baha'i,13989.0
+103,Australia,2016,Assyrian Apostolic,13863.0
+104,Australia,2016,Spiritualist,10101.0
+105,Australia,2016,Australian Aboriginal Traditional Religion,8078.0
+106,Australia,2016,Chinese Religions,6385.0
+107,Australia,2016,Druze,3096.0
+108,Australia,2016,Japanese Religions,1772.0
+109,Australia,2016,"Secular Beliefs and Other Spiritual Beliefs and No Religious Affiliation, nfd",237.0
+110,Austria,2001,Roman Catholic,5915421.0
+111,Austria,2001,No Religion,963263.0
+112,Austria,2001,Protestant,376150.0
+113,Austria,2001,Islam ,338988.0
+114,Austria,2001,Not Specified,160662.0
+115,Austria,2001,Orthodox,159115.0
+116,Austria,2001,Jehovah Witness,23206.0
+117,Austria,2001,Greek Orthodox,18533.0
+118,Austria,2001,Old Catholic Church,14621.0
+119,Austria,2001,Buddhist,10402.0
+120,Austria,2001,Jewish,8140.0
+121,Austria,2001,Free Christian Community,7186.0
+122,Austria,2001,Evangelical,4892.0
+123,Austria,2001,Seventh Day Adventist,4220.0
+124,Austria,2001,New Apostolic,4217.0
+125,Austria,2001,Hindu,3629.0
+126,Austria,2001,Sikh,2794.0
+127,Austria,2001,Church of England,2317.0
+128,Austria,2001,Latter Day Saints,2236.0
+129,Austria,2001,Baptist,2108.0
+130,Austria,2001,Armenian Apostolic,1824.0
+131,Austria,2001,Other Religions,1745.0
+132,Austria,2001,Christian Community,1428.0
+133,Austria,2001,Methodist,1263.0
+134,Austria,2001,Christengmeinschaft,1152.0
+135,Austria,2001,Greek Oriental,1089.0
+136,Austria,2001,Catholic,764.0
+137,Austria,2001,Baha'i,760.0
+138,Austria,2001,Mennonite,381.0
+139,Austria,2001,Unification,297.0
+140,Austria,2001,Shinto,123.0
+141,Bahamas,2010,Baptist,122500.0
+142,Bahamas,2010,Anglican,48006.0
+143,Bahamas,2010,Roman Catholic,42287.0
+144,Bahamas,2010,Other Christians,41214.0
+145,Bahamas,2010,Pentecostal,31358.0
+146,Bahamas,2010,Seventh Day Adventist,15441.0
+147,Bahamas,2010,Methodist,12512.0
+148,Bahamas,2010,Not Stated,9050.0
+149,Bahamas,2010,Church of God,6732.0
+150,Bahamas,2010,,6561.0
+151,Bahamas,2010,Brethren,5781.0
+152,Bahamas,2010,Jehovah Witness,3762.0
+153,Bahamas,2010,Assembly of God,2397.0
+154,Bahamas,2010,Rastafarian,790.0
+155,Bahamas,2010,Presbyterian,728.0
+156,Bahamas,2010,Greek Church,447.0
+157,Bahamas,2010,Hindu,428.0
+158,Bahamas,2010,Lutheran,376.0
+159,Bahamas,2010,Islam ,306.0
+160,Bahamas,2010,Mormon,301.0
+161,Bahamas,2010,Other Non-Christians,228.0
+162,Bahamas,2010,Jewish,191.0
+163,Bahamas,2010,Baha'i,65.0
+164,Bahrain,2020,Muslim,1111533.0
+165,Bahrain,2020,Other Religions,390102.0
+166,Bangladesh,2001,Muslim,111393250.0
+167,Bangladesh,2001,Hindu,11608268.0
+168,Bangladesh,2001,Buddhist,773949.0
+169,Bangladesh,2001,Christian,388855.0
+170,Bangladesh,2001,Other,190941.0
+171,Barbados,2010,Anglican,53969.0
+172,Barbados,2010,No Religion,46559.0
+173,Barbados,2010,Pentecostal,44093.0
+174,Barbados,2010,Adventist,13437.0
+175,Barbados,2010,Methodist,9461.0
+176,Barbados,2010,Roman Catholic,8679.0
+177,Barbados,2010,Wesleyan,7701.0
+178,Barbados,2010,Other Christians,7567.0
+179,Barbados,2010,Nazarene,7300.0
+180,Barbados,2010,Church of God,5356.0
+181,Barbados,2010,Jehovah Witness,4515.0
+182,Barbados,2010,Baptist,4082.0
+183,Barbados,2010,Not Specified,2776.0
+184,Barbados,2010,Moravian,2692.0
+185,Barbados,2010,Rastafarian,2332.0
+186,Barbados,2010,Muslim,1605.0
+187,Barbados,2010,Brethren,1075.0
+188,Barbados,2010,Hindu,1055.0
+189,Barbados,2010,Salvation Army,879.0
+190,Barbados,2010,Other Non-Christians,624.0
+191,Barbados,2010,Mormon,235.0
+192,Barbados,2010,Jewish,103.0
+193,Barbados,2010,Baha'i,98.0
+194,Belize,2010,Roman Catholic,129456.0
+195,Belize,2010,No Religion,49975.0
+196,Belize,2010,Other Religions,28976.0
+197,Belize,2010,Pentecostal,27121.0
+198,Belize,2010,Seventh Day Adventist,17559.0
+199,Belize,2010,Anglican,15065.0
+200,Belize,2010,Mennonite,12053.0
+201,Belize,2010,Baptist,11620.0
+202,Belize,2010,Methodist,9457.0
+203,Belize,2010,Nazarene,9145.0
+204,Belize,2010,Jehovah Witness,5386.0
+205,Belize,2010,Not Stated,2028.0
+206,Belize,2010,Mormon,1333.0
+207,Belize,2010,Adventist,820.0
+208,Belize,2010,Hindu,654.0
+209,Belize,2010,Muslim,622.0
+210,Belize,2010,Not Specified,567.0
+211,Belize,2010,Salvation Army,400.0
+212,Belize,2010,Baha'i,216.0
+213,Bermuda,2010,,11466.0
+214,Bermuda,2010,Anglican,10138.0
+215,Bermuda,2010,Roman Catholic,9340.0
+216,Bermuda,2010,African Methodist Episcopal Church,5497.0
+217,Bermuda,2010,Non-denominational,5309.0
+218,Bermuda,2010,Other Religions,4399.0
+219,Bermuda,2010,Seventh Day Adventist,4273.0
+220,Bermuda,2010,Pentecostal,2246.0
+221,Bermuda,2010,Methodist,1747.0
+222,Bermuda,2010,Other,1527.0
+223,Bermuda,2010,Not Stated,1407.0
+224,Bermuda,2010,Presbyterian,1300.0
+225,Bermuda,2010,Church of God,1001.0
+226,Bermuda,2010,Jehovah Witness,850.0
+227,Bermuda,2010,Baptist,786.0
+228,Bermuda,2010,Salvation Army,708.0
+229,Bermuda,2010,Brethren,652.0
+230,Bermuda,2010,Muslim,616.0
+231,Bermuda,2010,Ethiopian Orthodox,253.0
+232,Bermuda,2010,Lutheran,251.0
+233,Bermuda,2010,Rastafarian,212.0
+234,Bermuda,2010,Jewish,135.0
+235,Bermuda,2010,Baha'i,124.0
+236,Botswana,2011,Christian,1171537.0
+237,Botswana,2011,Unknown,547103.0
+238,Botswana,2011,No Religion,225416.0
+239,Botswana,2011,Badimo,60613.0
+240,Botswana,2011,Muslim,10941.0
+241,Botswana,2011,Hindu,3729.0
+242,Botswana,2011,Baha'i,2074.0
+243,Botswana,2011,Rastafarian,2030.0
+244,Botswana,2011,Other,1461.0
+245,Brazil,2010,Roman Apostolic Catholic,123280172.0
+246,Brazil,2010,No Religion,15335510.0
+247,Brazil,2010,Assembly of God,12314410.0
+248,Brazil,2010,Other Traditional Evangelical,9358386.0
+249,Brazil,2010,Other Evangelical Pentecostal,8047813.0
+250,Brazil,2010,Espiritia,3848876.0
+251,Brazil,2010,Baptist,3723853.0
+252,Brazil,2010,Christian Congregation of Brazil,2289634.0
+253,Brazil,2010,Other Religions,1953260.0
+254,Brazil,2010,Universal of the Kingdom of God,1873243.0
+255,Brazil,2010,Adventist,1561071.0
+256,Brazil,2010,Jehovah Witness,1393208.0
+257,Brazil,2010,Lutheran,999498.0
+258,Brazil,2010,Presbyterian,921209.0
+259,Brazil,2010,God is Love,845383.0
+260,Brazil,2010,Not Specified,643598.0
+261,Brazil,2010,Brasilian Apostolic Catholic,560781.0
+262,Brazil,2010,Umbanda,407331.0
+263,Brazil,2010,Methodist,340938.0
+264,Brazil,2010,Buddhist,243966.0
+265,Brazil,2010,Not Declared,241941.0
+266,Brazil,2010,Candomble,167363.0
+267,Brazil,2010,Orthodox Catholic,131571.0
+268,Brazil,2010,Jewish,107329.0
+269,Brazil,2010,Messianica,103716.0
+270,Brazil,2010,Spiritualist,61739.0
+271,British Virgin Islands,2010,Methodist,4941.0
+272,British Virgin Islands,2010,Church of God,2913.0
+273,British Virgin Islands,2010,Anglican,2674.0
+274,British Virgin Islands,2010,Seventh Day Adventist,2523.0
+275,British Virgin Islands,2010,Roman Catholic,2492.0
+276,British Virgin Islands,2010,Pentecostal,2292.0
+277,British Virgin Islands,2010,No Religion,2230.0
+278,British Virgin Islands,2010,Baptist,2080.0
+279,British Virgin Islands,2010,New Testament Church of God,1924.0
+280,British Virgin Islands,2010,Other,1153.0
+281,British Virgin Islands,2010,Jehovah Witness,693.0
+282,British Virgin Islands,2010,Not Stated,683.0
+283,British Virgin Islands,2010,Hindu,528.0
+284,British Virgin Islands,2010,Muslim,255.0
+285,British Virgin Islands,2010,Evangelical,184.0
+286,British Virgin Islands,2010,Rastafarian,179.0
+287,British Virgin Islands,2010,Moravian,92.0
+288,British Virgin Islands,2010,Mormon,75.0
+289,British Virgin Islands,2010,Presbyterian,68.0
+290,British Virgin Islands,2010,Buddhist,43.0
+291,British Virgin Islands,2010,Judaism,11.0
+292,British Virgin Islands,2010,Baha'i,10.0
+293,Brunei Darussalam,2011,Muslim,309962.0
+294,Brunei Darussalam,2011,Christian,34176.0
+295,Brunei Darussalam,2011,Buddhist,30814.0
+296,Brunei Darussalam,2011,Other Religions,18420.0
+297,Bulgaria,2011,Eastern Orthodox,4374135.0
+298,Bulgaria,2011,Unknown,1606269.0
+299,Bulgaria,2011,Muslim,577139.0
+300,Bulgaria,2011,Not Specified,409898.0
+301,Bulgaria,2011,No Religion,272264.0
+302,Bulgaria,2011,Protestant,64476.0
+303,Bulgaria,2011,Catholic,48945.0
+304,Bulgaria,2011,Other,9023.0
+305,Bulgaria,2011,Armeno-Gregorian,1715.0
+306,Bulgaria,2011,Yiddish,706.0
+307,Burkina Faso,2006,Muslim,8485149.0
+308,Burkina Faso,2006,Catholic,2664236.0
+309,Burkina Faso,2006,Animist,2150309.0
+310,Burkina Faso,2006,Protestant,585154.0
+311,Burkina Faso,2006,Other,79485.0
+312,Burkina Faso,2006,No Religion,52929.0
+313,Burundi,2008,Catholic,4941833.0
+314,Burundi,2008,Protestant,1722039.0
+315,Burundi,2008,Other Religions,494533.0
+316,Burundi,2008,Unknown,491098.0
+317,Burundi,2008,Muslim,200509.0
+318,Burundi,2008,Adventist,185361.0
+319,Burundi,2008,Jehovah's Witnesses,25454.0
+320,Burundi,2008,Traditional,2747.0
+321,Côte d'Ivoire,2014,Muslim,9618121.0
+322,Côte d'Ivoire,2014,No Religion,4289895.0
+323,Côte d'Ivoire,2014,Catholic,3851434.0
+324,Côte d'Ivoire,2014,Evangelical,2647178.0
+325,Côte d'Ivoire,2014,Animist,808719.0
+326,Côte d'Ivoire,2014,Other Christians,503349.0
+327,Côte d'Ivoire,2014,Protestant,383900.0
+328,Côte d'Ivoire,2014,Unknown,234442.0
+329,Côte d'Ivoire,2014,Other Religions and Persuasions,117761.0
+330,Côte d'Ivoire,2014,Harriste,116950.0
+331,Côte d'Ivoire,2014,Celestial,99582.0
+332,Cambodia,2008,Buddhist,12984523.0
+333,Cambodia,2008,Islam ,257022.0
+334,Cambodia,2008,Other,104081.0
+335,Cambodia,2008,Christian,50056.0
+336,Canada,2011,Roman Catholic,12728880.0
+337,Canada,2011,No Religion,7762200.0
+338,Canada,2011,United Church,2007610.0
+339,Canada,2011,Anglican,1631845.0
+340,Canada,2011,"Christians, n.i.e.",1475565.0
+341,Canada,2011,Islam ,1053945.0
+342,Canada,2011,Baptist,635840.0
+343,Canada,2011,Protestant nfd,550965.0
+344,Canada,2011,Hindu,497960.0
+345,Canada,2011,Pentecostal,478705.0
+346,Canada,2011,Lutheran,478180.0
+347,Canada,2011,Presbyterian,472385.0
+348,Canada,2011,Sikh,454960.0
+349,Canada,2011,Buddhist,366830.0
+350,Canada,2011,Jewish,329500.0
+351,Canada,2011,Other Orthodox Churches,220270.0
+352,Canada,2011,Greek Orthodox,220255.0
+353,Canada,2011,Mennonite,179195.0
+354,Canada,2011,Jehovah Witness,137780.0
+355,Canada,2011,Church of Jesus Christ of Latter-day Saints,105365.0
+356,Canada,2011,Evangelical,92650.0
+357,Canada,2011,Salvation Army,70955.0
+358,Canada,2011,Adventist,66940.0
+359,Canada,2011,Christian Reformed Church,65395.0
+360,Canada,2011,Aboriginal spirituality,64940.0
+361,Canada,2011,Other Religions,53685.0
+362,Canada,2011,Ukrainian Catholic,51790.0
+363,Canada,2011,Christian and Mission Alliance,50720.0
+364,Canada,2011,Atheist,48675.0
+365,Canada,2011,Non-denominational,43595.0
+366,Canada,2011,Agnostic,36280.0
+367,Canada,2011,Other Catholic,28865.0
+368,Canada,2011,Russian Orthodox,25245.0
+369,Canada,2011,Ukrainian Orthodox,23845.0
+370,Canada,2011,Other Reformed Church,22965.0
+371,Canada,2011,Serbian Orthodox,22780.0
+372,Canada,2011,Methodist,22750.0
+373,Canada,2011,Baha'i,18945.0
+374,Canada,2011,Brethren in Christ,18110.0
+375,Canada,2011,Coptic Orthodox,16255.0
+376,Canada,2011,Church of Christ,15815.0
+377,Canada,2011,Pagan,15270.0
+378,Canada,2011,Unitarian,15125.0
+379,Canada,2011,Armenian Orthodox,13730.0
+380,Canada,2011,Wesleyan,13290.0
+381,Canada,2011,Free Methodists,10555.0
+382,Canada,2011,Canadian Reformed Church,10120.0
+383,Canada,2011,Church of Nazarene,9015.0
+384,Canada,2011,Evangelical Missionary Church,7820.0
+385,Canada,2011,Church of God,7290.0
+386,Canada,2011,Romanian Orthodox,7085.0
+387,Canada,2011,Evangelical Free Church,6545.0
+388,Canada,2011,Other Christians,6145.0
+389,Canada,2011,Zoroastrian,6130.0
+390,Canada,2011,Associated Gospel,5700.0
+391,Canada,2011,Christian or Plymouth Brethren,5370.0
+392,Canada,2011,New Apostolic,5220.0
+393,Canada,2011,Moravian,5020.0
+394,Canada,2011,Dutch Reformed,4355.0
+395,Canada,2011,Spiritualist,4315.0
+396,Canada,2011,Taoist,3625.0
+397,Canada,2011,Humanist,3450.0
+398,Canada,2011,Jains,3320.0
+399,Canada,2011,Reorganized Church of Latter-day Saints,3300.0
+400,Canada,2011,Christadelphian,3000.0
+401,Canada,2011,Quakers,2725.0
+402,Canada,2011,Unity-New Thought-Pantheist,2565.0
+403,Canada,2011,Christian Congregational,2510.0
+404,Canada,2011,Doukhobors,2290.0
+405,Canada,2011,New Age,2225.0
+406,Canada,2011,Charismatic Renewal,1960.0
+407,Canada,2011,Interdenominational,1815.0
+408,Canada,2011,Scientology,1745.0
+409,Canada,2011,Apostolic Christian Church,1600.0
+410,Canada,2011,Vineyard Christian Fellowship,1585.0
+411,Canada,2011,Antiochian Orthodox Christian,1220.0
+412,Canada,2011,Rastafarian,1060.0
+413,Canada,2011,Satanist,1050.0
+414,Canada,2011,Shinto,915.0
+415,Canada,2011,Gnostic,870.0
+416,Canada,2011,Swedenborgian (New Church),840.0
+417,Canada,2011,Worldwide Church of God,600.0
+418,Canada,2011,Mission de l'Esprit Saint,520.0
+419,Cayman Islands,2010,Church of God,12459.70481
+420,Cayman Islands,2010,Roman Catholic,7745.359712
+421,Cayman Islands,2010,Seventh Day Adventist,5171.455055
+422,Cayman Islands,2010,,5116.343729
+423,Cayman Islands,2010,Presbyterian and Reformed,4750.262838
+424,Cayman Islands,2010,Baptist,4541.234896
+425,Cayman Islands,2010,Pentecostal,391672764.0
+426,Cayman Islands,2010,Other,3892.200345
+427,Cayman Islands,2010,Non-denominational,2907.586049
+428,Cayman Islands,2010,Anglican,2251.722789
+429,Cayman Islands,2010,Wesleyan,1335.189337
+430,Cayman Islands,2010,Jehovah Witness,613.3797966
+431,Cayman Islands,2010,Not Stated,335.4878946
+432,Chile,2002,Catholic,7853428.0
+433,Chile,2002,Evangelical,1699725.0
+434,Chile,2002,"No religion, Agnostic, Atheist",931990.0
+435,Chile,2002,Other Religions,493147.0
+436,Chile,2002,Jehovah Witness,119455.0
+437,Chile,2002,Mormon,103735.0
+438,Chile,2002,Judaism,14976.0
+439,Chile,2002,Orthodox,6959.0
+440,Chile,2002,Muslim,2894.0
+441,Cook Islands,2011,Cook Islands Christian Church,7356.0
+442,Cook Islands,2011,Roman Catholic,2540.0
+443,Cook Islands,2011,Other Religions,1201.0
+444,Cook Islands,2011,Seventh Day Adventist,1190.0
+445,Cook Islands,2011,No Religion,841.0
+446,Cook Islands,2011,Latter Day Saints,656.0
+447,Cook Islands,2011,Assembly of God,557.0
+448,Cook Islands,2011,Unknown,323.0
+449,Cook Islands,2011,Apostolic,310.0
+450,Croatia,2011,Catholic,3697143.0
+451,Croatia,2011,Orthodox,190143.0
+452,Croatia,2011,Atheist,163375.0
+453,Croatia,2011,Not Declared,93018.0
+454,Croatia,2011,Muslim,62977.0
+455,Croatia,2011,Agnostic,32518.0
+456,Croatia,2011,Protestant,14653.0
+457,Croatia,2011,Other Christians,12961.0
+458,Croatia,2011,Unknown,12460.0
+459,Croatia,2011,Other Religions,2555.0
+460,Croatia,2011,Oriental,2550.0
+461,Croatia,2011,Jewish,536.0
+462,Cyprus,2001,Orthodox,653635.0
+463,Cyprus,2001,Roman Catholic,10240.0
+464,Cyprus,2001,Anglican,6839.0
+465,Cyprus,2001,Other,6505.0
+466,Cyprus,2001,Muslim,4182.0
+467,Cyprus,2001,Maronite church,3930.0
+468,Cyprus,2001,Armenian church,1741.0
+469,Cyprus,2001,Atheist,1500.0
+470,Cyprus,2001,Not Stated,993.0
+471,Czechia,2011,Unknown,4662455.0
+472,Czechia,2011,No Religion,3604095.0
+473,Czechia,2011,Roman Catholic,1082463.0
+474,Czechia,2011,Not Specified,705368.0
+475,Czechia,2011,Other Religions,209028.0
+476,Czechia,2011,Evangelical,51858.0
+477,Czechia,2011,Czechoslovak Hussite Church,39229.0
+478,Czechia,2011,Orthodox,20533.0
+479,Czechia,2011,Jehovah's Witnesses,13069.0
+480,Czechia,2011,Brethren,10865.0
+481,Czechia,2011,Catholic,9883.0
+482,Czechia,2011,Christian,9377.0
+483,Czechia,2011,Silesian Evangelical Church,8158.0
+484,Czechia,2011,Seventh Day Adventist,7391.0
+485,Czechia,2011,Old Catholic Church,1730.0
+486,Czechia,2011,Atheist,1058.0
+487,Dominica,2001,Roman Catholic,42174.0
+488,Dominica,2001,Other Evangelical Churches,4882.0
+489,Dominica,2001,No Religion,4165.0
+490,Dominica,2001,Seventh Day Adventist,4144.0
+491,Dominica,2001,Pentecostal,3863.0
+492,Dominica,2001,Baptist,2798.0
+493,Dominica,2001,Methodist,2572.0
+494,Dominica,2001,Rastafarian,879.0
+495,Dominica,2001,Church of God,819.0
+496,Dominica,2001,Jehovah Witness,805.0
+497,Dominica,2001,Not Specified,720.0
+498,Dominica,2001,Anglican,423.0
+499,Dominica,2001,Other,252.0
+500,Dominica,2001,Islam ,139.0
+501,Estonia,2011,No Religion,592588.0
+502,Estonia,2011,Orthodox,176773.0
+503,Estonia,2011,Refused to answer,157216.0
+504,Estonia,2011,Lutheran,108513.0
+505,Estonia,2011,Unknown,23888.0
+506,Estonia,2011,Baptist,4507.0
+507,Estonia,2011,Roman Catholic,4501.0
+508,Estonia,2011,Jehovah Witness,3938.0
+509,Estonia,2011,Taara or Earth Believer,2972.0
+510,Estonia,2011,Old Believers,2605.0
+511,Estonia,2011,Christian Free Congregations,2189.0
+512,Estonia,2011,Other Christians,1899.0
+513,Estonia,2011,Pentecostal,1855.0
+514,Estonia,2011,Not Specified,1804.0
+515,Estonia,2011,Muslim,1508.0
+516,Estonia,2011,Other Religions,1228.0
+517,Estonia,2011,Adventist,1194.0
+518,Estonia,2011,Buddhist,1145.0
+519,Estonia,2011,Methodist,1098.0
+520,Estonia,2011,Judaism,355.0
+521,Estonia,2011,Apostolic,341.0
+522,Estonia,2011,Pagan,341.0
+523,Estonia,2011,Estonian Ancient Belief,291.0
+524,Estonia,2011,New Age,272.0
+525,Estonia,2011,Church of Christian Fellowship,269.0
+526,Estonia,2011,Mormon,185.0
+527,Estonia,2011,Russian Catholic Orthodox Church,160.0
+528,Estonia,2011,Taoist,144.0
+529,Estonia,2011,Hindu,142.0
+530,Estonia,2011,Ukrainian Greek-Catholic Church,124.0
+531,Estonia,2011,Hare Rama Hare Krishna,121.0
+532,Estonia,2011,Satanist,120.0
+533,Estonia,2011,Spiritualist,100.0
+534,Estonia,2011,Church of Charismatic Fellowship,99.0
+535,Estonia,2011,Charismatic Episcopal Church,79.0
+536,Ethiopia,2007,Orthodox,32092182.0
+537,Ethiopia,2007,Muslim,25037646.0
+538,Ethiopia,2007,Protestant,13661588.0
+539,Ethiopia,2007,Traditional,1956647.0
+540,Ethiopia,2007,Catholic,532187.0
+541,Ethiopia,2007,Other,470682.0
+542,Falkland Islands (Malvinas),2006,Christian,1985.0
+543,Falkland Islands (Malvinas),2006,,931.0
+544,Falkland Islands (Malvinas),2006,Baha'i,12.0
+545,Falkland Islands (Malvinas),2006,Other,11.0
+546,Falkland Islands (Malvinas),2006,Hindu,9.0
+547,Falkland Islands (Malvinas),2006,Muslim,9.0
+548,Falkland Islands (Malvinas),2006,Buddhist,5.0
+549,Falkland Islands (Malvinas),2006,Jewish,1.0
+550,Fiji,2007,Methodist,289923.0
+551,Fiji,2007,Hindu,233393.0
+552,Fiji,2007,Other Christians,86781.0
+553,Fiji,2007,Catholic,76433.0
+554,Fiji,2007,Muslim,52520.0
+555,Fiji,2007,Assembly of God,47778.0
+556,Fiji,2007,Seventh Day Adventist,32308.0
+557,Fiji,2007,No Religion,7073.0
+558,Fiji,2007,Anglican,6313.0
+559,Fiji,2007,Sikh,2577.0
+560,Fiji,2007,Other Religions,2172.0
+561,Finland,2021,Lutheran,3749713.0
+562,Finland,2021,No Religion,1627727.0
+563,Finland,2021,The Greek Orthodox Church in Finland,60086.0
+564,Finland,2021,Islam ,19347.0
+565,Finland,2021,Jehovah Witness,16787.0
+566,Finland,2021,Other Lutheran Churches,15329.0
+567,Finland,2021,Free Church in Finland,15064.0
+568,Finland,2021,Roman Catholic Church in Finland,14529.0
+569,Finland,2021,Adventist,3236.0
+570,Finland,2021,Latter Day Saints,3230.0
+571,Finland,2021,Other Religions,2836.0
+572,Finland,2021,Baptist,2512.0
+573,Finland,2021,Buddhist,1826.0
+574,Finland,2021,Methodist,1364.0
+575,Finland,2021,Jewish,1094.0
+576,Finland,2021,Baha'i,653.0
+577,Finland,2021,Hindu,368.0
+578,Finland,2021,Christian,286.0
+579,Georgia,2014,Christian Orthodox,3097573.0
+580,Georgia,2014,Muslim,398677.0
+581,Georgia,2014,Armeno-Gregorian,109041.0
+582,Georgia,2014,Not Specified,34251.0
+583,Georgia,2014,Other,24935.0
+584,Georgia,2014,Catholic,19195.0
+585,Georgia,2014,,19080.0
+586,Georgia,2014,Unknown,9635.0
+587,Georgia,2014,Jewish,1417.0
+588,Germany,2011,Other,32783750.0
+589,Germany,2011,Roman Catholic,24066604.0
+590,Germany,2011,Protestant,23369341.0
+591,Ghana,2010,Pentecostal,6980792.0
+592,Ghana,2010,Protestant,4534178.0
+593,Ghana,2010,Islam ,4345723.0
+594,Ghana,2010,Catholic,3230996.0
+595,Ghana,2010,Other Christians,2800871.0
+596,Ghana,2010,No Religion,1302077.0
+597,Ghana,2010,Traditional,1270272.0
+598,Ghana,2010,Other Religions,193914.0
+599,Gibraltar,2012,Roman Catholic,23223.0
+600,Gibraltar,2012,Church of England,2480.0
+601,Gibraltar,2012,No Religion,2293.0
+602,Gibraltar,2012,Other Christians,1232.0
+603,Gibraltar,2012,Muslim,1166.0
+604,Gibraltar,2012,Jewish,763.0
+605,Gibraltar,2012,Hindu,628.0
+606,Gibraltar,2012,Other,365.0
+607,Gibraltar,2012,Not Stated,44.0
+608,Guinea,2014,Muslim,9358718.0
+609,Guinea,2014,Christian,711349.0
+610,Guinea,2014,No Religion,252786.0
+611,Guinea,2014,Animist,167406.0
+612,Guinea,2014,Unknown,20129.0
+613,Guinea,2014,Other,12873.0
+614,Guinea-Bissau,2009,Muslim,650402.0
+615,Guinea-Bissau,2009,Christian,318021.0
+616,Guinea-Bissau,2009,Unknown,228718.0
+617,Guinea-Bissau,2009,Animist,215130.0
+618,Guinea-Bissau,2009,No Religion,29542.0
+619,Guinea-Bissau,2009,Other,414.0
+620,Hungary,2011,Roman Catholic,3691389.0
+621,Hungary,2011,Not Declared,2698844.0
+622,Hungary,2011,,1659023.0
+623,Hungary,2011,Calvinist,1153454.0
+624,Hungary,2011,Lutheran,215093.0
+625,Hungary,2011,Greek Catholic,179176.0
+626,Hungary,2011,Atheist,147386.0
+627,Hungary,2011,Other,84506.0
+628,Hungary,2011,Other Protestant,58301.0
+629,Hungary,2011,Baptist,18211.0
+630,Hungary,2011,Orthodox,13710.0
+631,Hungary,2011,Jewish,10965.0
+632,Hungary,2011,Adventist,6213.0
+633,Hungary,2011,Other Catholic,1357.0
+634,India,2001,Hindu,827578868.0
+635,India,2001,Muslim,138188240.0
+636,India,2001,Christian,24080016.0
+637,India,2001,Sikh,19215730.0
+638,India,2001,Buddhist,7955207.0
+639,India,2001,Other,6639626.0
+640,India,2001,Jains,4225053.0
+641,India,2001,Not Specified,727588.0
+642,Indonesia,2010,Muslim,207176162.0
+643,Indonesia,2010,Protestant,16528513.0
+644,Indonesia,2010,Catholic,6907873.0
+645,Indonesia,2010,Hindu,4012116.0
+646,Indonesia,2010,Buddhist,1703254.0
+647,Indonesia,2010,Not Asked,757118.0
+648,Indonesia,2010,Other,299617.0
+649,Indonesia,2010,Not Stated,139582.0
+650,Indonesia,2010,Confucian,117091.0
+651,Iran (Islamic Republic of),2016,Muslim,79598054.0
+652,Iran (Islamic Republic of),2016,Christian,130158.0
+653,Iran (Islamic Republic of),2016,Not Specified,124572.0
+654,Iran (Islamic Republic of),2016,Other Religions,40551.0
+655,Iran (Islamic Republic of),2016,Zoroastrian,23109.0
+656,Iran (Islamic Republic of),2016,Jewish,9826.0
+657,Ireland,2011,Roman Catholic,3861335.0
+658,Ireland,2011,No Religion,269811.0
+659,Ireland,2011,Church of Ireland,129039.0
+660,Ireland,2011,Not Stated,72914.0
+661,Ireland,2011,Muslim,49204.0
+662,Ireland,2011,Orthodox,45223.0
+663,Ireland,2011,Christian,41161.0
+664,Ireland,2011,Presbyterian,24600.0
+665,Ireland,2011,Other Religions,14118.0
+666,Ireland,2011,Apostolic,14043.0
+667,Ireland,2011,Hindu,10688.0
+668,Ireland,2011,Buddhist,8703.0
+669,Ireland,2011,Methodist,6842.0
+670,Ireland,2011,Jehovah Witness,6149.0
+671,Ireland,2011,Lutheran,5683.0
+672,Ireland,2011,Protestant,5326.0
+673,Ireland,2011,Evangelical,4188.0
+674,Ireland,2011,Atheist,3905.0
+675,Ireland,2011,Baptist,3531.0
+676,Ireland,2011,Agnostic,3521.0
+677,Ireland,2011,Jewish,1984.0
+678,Ireland,2011,Pantheism,1940.0
+679,Ireland,2011,Latter Day Saints,1284.0
+680,Ireland,2011,Lapsed Roman Catholic,1279.0
+681,Ireland,2011,Quakers,925.0
+682,Ireland,2011,Baha'i,520.0
+683,Ireland,2011,Brethren,336.0
+684,Israel,1995,Jewish,4476225.0
+685,Israel,1995,Muslim,808375.0
+686,Israel,1995,Christian,122400.0
+687,Israel,1995,Druze,92655.0
+688,Israel,1995,Other,67445.0
+689,Jamaica,2011,No Religion,571988.0
+690,Jamaica,2011,Seventh Day Adventist,322202.0
+691,Jamaica,2011,Pentecostal,295209.0
+692,Jamaica,2011,Other Church of God,246790.0
+693,Jamaica,2011,New Testament Church of God,192128.0
+694,Jamaica,2011,Baptist,180626.0
+695,Jamaica,2011,Other Religions,169000.0
+696,Jamaica,2011,Church of God in Jamaica,129557.0
+697,Jamaica,2011,Church of God of Prophecy,121264.0
+698,Jamaica,2011,Anglican,74995.0
+699,Jamaica,2011,Not Specified,61403.0
+700,Jamaica,2011,Roman Catholic,58010.0
+701,Jamaica,2011,United Church,55419.0
+702,Jamaica,2011,Jehovah Witness,50843.0
+703,Jamaica,2011,Methodist,43362.0
+704,Jamaica,2011,Revived,36309.0
+705,Jamaica,2011,Rastafarian,29028.0
+706,Jamaica,2011,Brethren,23647.0
+707,Jamaica,2011,Moravian,18351.0
+708,Jamaica,2011,Hindu,1839.0
+709,Jamaica,2011,Islam ,1511.0
+710,Jamaica,2011,Judaism,506.0
+711,Jamaica,2011,Baha'i,269.0
+712,Kazakhstan,2009,Islam ,11239176.0
+713,Kazakhstan,2009,Christian,4214232.0
+714,Kazakhstan,2009,Non-believers,451547.0
+715,Kazakhstan,2009,Not Stated,81010.0
+716,Kazakhstan,2009,Buddhist,14663.0
+717,Kazakhstan,2009,Judaism,5281.0
+718,Kazakhstan,2009,Other,3688.0
+719,Kenya,2019,Protestant,15777430.0
+720,Kenya,2019,Catholic,9726143.0
+721,Kenya,2019,Evangelical,9648674.0
+722,Kenya,2019,Muslim,5152186.0
+723,Kenya,2019,African Instituted Churches,3292568.0
+724,Kenya,2019,Other Christians,1732904.0
+725,Kenya,2019,No Religion,755748.0
+726,Kenya,2019,Other Religions,467081.0
+727,Kenya,2019,Traditional,318726.0
+728,Kenya,2019,Orthodox,201263.0
+729,Kenya,2019,Unknown,73249.0
+730,Kenya,2019,Hindu,60287.0
+731,Kiribati,2015,Catholic,63116.0
+732,Kiribati,2015,Kempsville Presbyterian Church,34464.0
+733,Kiribati,2015,Latter Day Saints (Mormon),5857.0
+734,Kiribati,2015,Baha'i,2314.0
+735,Kiribati,2015,Seventh Day Adventist,2064.0
+736,Kiribati,2015,Other,832.0
+737,Kiribati,2015,Assembly of God,364.0
+738,Kiribati,2015,Te koaua,352.0
+739,Kiribati,2015,Church of God,279.0
+740,Kiribati,2015,All Nations Baptist,141.0
+741,Kiribati,2015,Muslim,139.0
+742,Kiribati,2015,Te Ran,86.0
+743,Kiribati,2015,Church of the Foursquare Gospel,77.0
+744,Kiribati,2015,No Religion,51.0
+745,Lao People's Democratic Republic,2015,Buddhist,4201993.0
+746,Lao People's Democratic Republic,2015,No Religion,2040365.0
+747,Lao People's Democratic Republic,2015,Not Stated,114012.0
+748,Lao People's Democratic Republic,2015,Christian,112230.0
+749,Lao People's Democratic Republic,2015,Other,19901.0
+750,Lao People's Democratic Republic,2015,Baha'i,2122.0
+751,Lao People's Democratic Republic,2015,Muslim,1605.0
+752,Liberia,2008,Christian,2975675.0
+753,Liberia,2008,Muslim,424685.0
+754,Liberia,2008,No Religion,50688.0
+755,Liberia,2008,Traditional,20134.0
+756,Liberia,2008,Other Religions,5426.0
+757,Liechtenstein,2015,Roman Catholic,27599.0
+758,Liechtenstein,2015,No Afiliation,2623.0
+759,Liechtenstein,2015,Protestant Reformed,2365.0
+760,Liechtenstein,2015,Islam ,2215.0
+761,Liechtenstein,2015,Not Specified,1229.0
+762,Liechtenstein,2015,Christian Orthodox,472.0
+763,Liechtenstein,2015,Protestant Lutheran,447.0
+764,Liechtenstein,2015,Other Protestant,259.0
+765,Liechtenstein,2015,Buddhist,180.0
+766,Liechtenstein,2015,Other,128.0
+767,Liechtenstein,2015,Other Christians,105.0
+768,Lithuania,2021,Roman Catholic,2085340.0
+769,Lithuania,2021,Not Stated,384094.0
+770,Lithuania,2021,No Religion,171810.0
+771,Lithuania,2021,Orthodox,105326.0
+772,Lithuania,2021,Old Believers,18196.0
+773,Lithuania,2021,Evangelical Lutherans,15741.0
+774,Lithuania,2021,Other,15353.0
+775,Lithuania,2021,Evangelical Reformists,5540.0
+776,Lithuania,2021,Pentecostal,3032.0
+777,Lithuania,2021,Sunni Muslims,2165.0
+778,Lithuania,2021,Baptist,1092.0
+779,Lithuania,2021,Judaism,899.0
+780,Lithuania,2021,Greek Catholic,785.0
+781,Lithuania,2021,Seventh Day Adventist,721.0
+782,Lithuania,2021,New Apostolic,412.0
+783,Lithuania,2021,Karaite,255.0
+784,Malawi,2018,Christian,13581623.0
+785,Malawi,2018,Islam ,2426754.0
+786,Malawi,2018,Other Religions,1178588.0
+787,Malawi,2018,No Religion,376784.0
+788,Malaysia,2010,Islam ,17375794.0
+789,Malaysia,2010,Islam ,16849328.0
+790,Malaysia,2010,Buddhist,5620483.0
+791,Malaysia,2010,Buddhist,5446855.0
+792,Malaysia,2010,Christian,2617159.0
+793,Malaysia,2010,Christian,2542254.0
+794,Malaysia,2010,Hindu,1777694.0
+795,Malaysia,2010,Hindu,1725838.0
+796,Malaysia,2010,Confucianism/Taoism and Other Traditional Chinese,356718.0
+797,Malaysia,2010,Confucianism/Taoism and Other Traditional Chinese,346827.0
+798,Malaysia,2010,Unknown,271765.0
+799,Malaysia,2010,Unknown,266884.0
+800,Malaysia,2010,No Religion,202763.0
+801,Malaysia,2010,No Religion,197064.0
+802,Malaysia,2010,Other Religions,111759.0
+803,Malaysia,2010,Other Religions,109546.0
+804,Maldives,2014,Islam ,377651.0
+805,Maldives,2014,Hindu,10163.0
+806,Maldives,2014,Christian,6403.0
+807,Maldives,2014,Buddhist,5337.0
+808,Maldives,2014,Other,1289.0
+809,Maldives,2014,Not Stated,1228.0
+810,Marshall Islands,1999,Protestant,27849.0
+811,Marshall Islands,1999,Assembly of God,13112.0
+812,Marshall Islands,1999,Other,5632.0
+813,Marshall Islands,1999,Roman Catholic,4255.0
+814,Mauritius,2011,Hindu,469313.0
+815,Mauritius,2011,Roman Catholic,324811.0
+816,Mauritius,2011,Muslim,153505.0
+817,Mauritius,2011,Tamil and Tamil Hindu,72036.0
+818,Mauritius,2011,Islam ,59178.0
+819,Mauritius,2011,Christian,47774.0
+820,Mauritius,2011,Telegu and Telegu Hindu,27809.0
+821,Mauritius,2011,Marathi & Marathi Hindu,20654.0
+822,Mauritius,2011,No Religion,8772.0
+823,Mauritius,2011,Assembly of God,8692.0
+824,Mauritius,2011,Pentecostal,6817.0
+825,Mauritius,2011,Vedic,6318.0
+826,Mauritius,2011,Adventist,4428.0
+827,Mauritius,2011,Mission Salut et Guerison,3731.0
+828,Mauritius,2011,Chinese,3040.0
+829,Mauritius,2011,Church of England,2788.0
+830,Mauritius,2011,Rajput,2320.0
+831,Mauritius,2011,Témoin de Jehovah,2173.0
+832,Mauritius,2011,Buddhist,2172.0
+833,Mauritius,2011,Other Religions,1835.0
+834,Mauritius,2011,Not Stated,1398.0
+835,Mauritius,2011,Ahmadhya,1265.0
+836,Mauritius,2011,Sanatanist,868.0
+837,Mauritius,2011,Other Christians,748.0
+838,Mauritius,2011,La Voix de la Delivrance,731.0
+839,Mauritius,2011,Baha'i,645.0
+840,Mauritius,2011,Protestant,620.0
+841,Mauritius,2011,Presbyterian,501.0
+842,Mauritius,2011,Arya Samajist,271.0
+843,Mauritius,2011,Revived,223.0
+844,Mauritius,2011,Evangelical,199.0
+845,Mauritius,2011,Other Hindu,183.0
+846,Mauritius,2011,Eglise Chrétienne,142.0
+847,Mauritius,2011,Aryan,134.0
+848,Mauritius,2011,Full Gospel Church,77.0
+849,Mauritius,2011,Apostolic,70.0
+850,Mauritius,2011,Kabir Panthis,66.0
+851,Mauritius,2011,Other Chinese,63.0
+852,Mauritius,2011,Christian Tamil,53.0
+853,Mauritius,2011,Baptist,52.0
+854,Mauritius,2011,Vaish,49.0
+855,Mauritius,2011,Puranic,48.0
+856,Mauritius,2011,Jewish,43.0
+857,Mauritius,2011,Peniel Tabernacle,43.0
+858,Mauritius,2011,Mormon,40.0
+859,Mauritius,2011,Christian Orthodox,34.0
+860,Mauritius,2011,Methodist,29.0
+861,Mauritius,2011,"Arya Samajist, Other",25.0
+862,Mauritius,2011,Unknown,25.0
+863,Mauritius,2011,Other Muslims,21.0
+864,Mauritius,2011,Ahir,10.0
+865,Mexico,2010,Catholic,92924489.0
+866,Mexico,2010,Other Evangelical Churches,5595116.0
+867,Mexico,2010,No Religion,5262546.0
+868,Mexico,2010,Not Specified,3052509.0
+869,Mexico,2010,Pentecostal,1782021.0
+870,Mexico,2010,Jehovah Witness,1561086.0
+871,Mexico,2010,Historics,820744.0
+872,Mexico,2010,Seventh Day Adventist,661878.0
+873,Mexico,2010,Latter Day Saints,314932.0
+874,Mexico,2010,Church of God,188326.0
+875,Mexico,2010,Judaism,67476.0
+876,Mexico,2010,Spiritualist,35995.0
+877,Mexico,2010,Ethnic Churches,27839.0
+878,Mexico,2010,Other Religions,19636.0
+879,Mexico,2010,Oriental,18185.0
+880,Mexico,2010,Islam ,3760.0
+881,Micronesia (Federated States of),2000,Roman Catholic,56365.0
+882,Micronesia (Federated States of),2000,Congregational,42879.0
+883,Micronesia (Federated States of),2000,Other Religions,4066.0
+884,Micronesia (Federated States of),2000,Latter Day Saints,1123.0
+885,Micronesia (Federated States of),2000,Baptist,972.0
+886,Micronesia (Federated States of),2000,Seventh Day Adventist,793.0
+887,Micronesia (Federated States of),2000,No Religion,753.0
+888,Micronesia (Federated States of),2000,Refused to answer,57.0
+889,Mongolia,2020,Buddhist,1643336.0
+890,Mongolia,2020,No Religion,1287309.0
+891,Mongolia,2020,Muslim,102336.0
+892,Mongolia,2020,Shaman,80004.0
+893,Mongolia,2020,Christian,41566.0
+894,Mongolia,2020,Other,20014.0
+895,Montenegro,2011,Christian Orthodox,446858.0
+896,Montenegro,2011,Muslim,118477.0
+897,Montenegro,2011,Catholic,21299.0
+898,Montenegro,2011,Not Declared,16180.0
+899,Montenegro,2011,Atheist,7667.0
+900,Montenegro,2011,Other,6337.0
+901,Montenegro,2011,Christian,1460.0
+902,Montenegro,2011,Adventist,894.0
+903,Montenegro,2011,Agnostic,451.0
+904,Montenegro,2011,Jehovah Witness,145.0
+905,Montenegro,2011,Protestant,143.0
+906,Montenegro,2011,Buddhist,118.0
+907,Montenegro,2011,Unknown,0.0
+908,Montserrat,2001,Anglican,937.0
+909,Montserrat,2001,Methodist,731.0
+910,Montserrat,2001,Pentecostal,609.0
+911,Montserrat,2001,Roman Catholic,498.0
+912,Montserrat,2001,Unknown,465.0
+913,Montserrat,2001,Seventh Day Adventist,454.0
+914,Montserrat,2001,Other Religions,251.0
+915,Montserrat,2001,Church of God,158.0
+916,Montserrat,2001,No Religion,110.0
+917,Montserrat,2001,Rastafarian,59.0
+918,Montserrat,2001,Hindu,31.0
+919,Mozambique,2017,Catholic,7344788.0
+920,Mozambique,2017,Islam ,5131177.0
+921,Mozambique,2017,Pentecostal,4481176.0
+922,Mozambique,2017,Saio/Zione,4389294.0
+923,Mozambique,2017,No Religion,3625355.0
+924,Mozambique,2017,Other,1148051.0
+925,Mozambique,2017,Anglican,461714.0
+926,Mozambique,2017,Unknown,317550.0
+927,Myanmar,2014,Buddhist,45185449.0
+928,Myanmar,2014,Christian,3172479.0
+929,Myanmar,2014,Islam ,1147495.0
+930,Myanmar,2014,Animist,408045.0
+931,Myanmar,2014,Hindu,252763.0
+932,Myanmar,2014,Other Religions,82825.0
+933,Myanmar,2014,No Religion,30844.0
+934,Nepal,2011,Hindu,21551492.0
+935,Nepal,2011,Buddhist,2396099.0
+936,Nepal,2011,Islam ,1162370.0
+937,Nepal,2011,Kirati,807169.0
+938,Nepal,2011,Christian,375699.0
+939,Nepal,2011,Unknown,134988.0
+940,Nepal,2011,Other,61581.0
+941,Nepal,2011,Jains,3214.0
+942,Nepal,2011,Baha'i,1283.0
+943,Nepal,2011,Sikh,609.0
+944,New Zealand,2018,No Religion,2264601.0
+945,New Zealand,2018,Christian,335286.0
+946,New Zealand,2018,Anglican,314913.0
+947,New Zealand,2018,Not Stated,312795.0
+948,New Zealand,2018,Roman Catholic,295743.0
+949,New Zealand,2018,Presbyterian,224019.0
+950,New Zealand,2018,Catholic,174753.0
+951,New Zealand,2018,Hindu,122526.0
+952,New Zealand,2018,Methodist,61014.0
+953,New Zealand,2018,Islam ,57312.0
+954,New Zealand,2018,Latter Day Saints,54123.0
+955,New Zealand,2018,Buddhist,51378.0
+956,New Zealand,2018,Ratana,43821.0
+957,New Zealand,2018,Sikh,40908.0
+958,New Zealand,2018,Baptist,35979.0
+959,New Zealand,2018,Born Again Christian,33486.0
+960,New Zealand,2018,Other,27831.0
+961,New Zealand,2018,Pentecostal,24207.0
+962,New Zealand,2018,Jehovah Witness,20061.0
+963,New Zealand,2018,Seventh Day Adventist,17799.0
+964,New Zealand,2018,Assembly of God,14883.0
+965,New Zealand,2018,Ringatu,12336.0
+966,New Zealand,2018,Tongan Methodist,11169.0
+967,New Zealand,2018,Protestant,8544.0
+968,New Zealand,2018,Spiritualist,8262.0
+969,New Zealand,2018,Samoan Congregational,7932.0
+970,New Zealand,2018,Salvation Army,7929.0
+971,New Zealand,2018,Atheist,7068.0
+972,New Zealand,2018,Plymouth Brethren,6822.0
+973,New Zealand,2018,Chinese Christian,6660.0
+974,New Zealand,2018,Agnostic,6516.0
+975,New Zealand,2018,Orthodox,5943.0
+976,New Zealand,2018,Open Brethren,5640.0
+977,New Zealand,2018,Reformed Churches,5418.0
+978,New Zealand,2018,Mäori Religion,5283.0
+979,New Zealand,2018,Judaism,5274.0
+980,New Zealand,2018,Evangelical,4554.0
+981,New Zealand,2018,United Church,3624.0
+982,New Zealand,2018,Lutheran,3585.0
+983,New Zealand,2018,Korean Christian,3543.0
+984,New Zealand,2018,Congregational,3513.0
+985,New Zealand,2018,Vineyard Christian Fellowship,3399.0
+986,New Zealand,2018,Greek Orthodox,3162.0
+987,New Zealand,2018,New life centres,3132.0
+988,New Zealand,2018,Elim,3018.0
+989,New Zealand,2018,Sunni Muslims,2961.0
+990,New Zealand,2018,Russian Orthodox,2952.0
+991,New Zealand,2018,Baha'i,2925.0
+992,New Zealand,2018,Theism,2607.0
+993,New Zealand,2018,Liberal Catholic,2115.0
+994,New Zealand,2018,Christian and Mission Alliance,2094.0
+995,New Zealand,2018,Christadelphian,1758.0
+996,New Zealand,2018,Other Religions,1731.0
+997,New Zealand,2018,Rastafarian,1707.0
+998,New Zealand,2018,Brethren,1698.0
+999,New Zealand,2018,Cook Island Congregational,1698.0
+1000,New Zealand,2018,New Age,1674.0
+1001,New Zealand,2018,Christian Outreach,1554.0
+1002,New Zealand,2018,Wiccan,1482.0
+1003,New Zealand,2018,Church of God,1458.0
+1004,New Zealand,2018,Nature and earth based religions,1455.0
+1005,New Zealand,2018,Zen Buddhist,1401.0
+1006,New Zealand,2018,Church of Christ,1302.0
+1007,New Zealand,2018,Independent Baptist,1218.0
+1008,New Zealand,2018,Associated Churches of Christ,1176.0
+1009,New Zealand,2018,Satanist,1149.0
+1010,New Zealand,2018,Taoist,1098.0
+1011,New Zealand,2018,Zoroastrian,1068.0
+1012,New Zealand,2018,Full Gospel Church,1017.0
+1013,New Zealand,2018,Reformed Baptist,987.0
+1014,New Zealand,2018,Independent Pentecostal,954.0
+1015,New Zealand,2018,Religious Society of Friends,954.0
+1016,New Zealand,2018,Serbian Orthodox,936.0
+1017,New Zealand,2018,Bible Baptist,846.0
+1018,New Zealand,2018,Other Church of Christ,780.0
+1019,New Zealand,2018,Independent Evangelical Churches,750.0
+1020,New Zealand,2018,United Pentecostal,690.0
+1021,New Zealand,2018,Humanist,663.0
+1022,New Zealand,2018,Shiite Islam,651.0
+1023,New Zealand,2018,Hare Rama Hare Krishna,645.0
+1024,New Zealand,2018,Christian Science,639.0
+1025,New Zealand,2018,Jains,612.0
+1026,New Zealand,2018,Christian Revival Crusade,576.0
+1027,New Zealand,2018,Nazarene,564.0
+1028,New Zealand,2018,Coptic Orthodox,546.0
+1029,New Zealand,2018,Pantheism,453.0
+1030,New Zealand,2018,Adventist,432.0
+1031,New Zealand,2018,Shinto,387.0
+1032,New Zealand,2018,Ahmadhya,369.0
+1033,New Zealand,2018,Unification,369.0
+1034,New Zealand,2018,Unitarian,354.0
+1035,New Zealand,2018,Assyrian Orthodox,327.0
+1036,New Zealand,2018,Yoga,327.0
+1037,New Zealand,2018,Church of Scientology,321.0
+1038,New Zealand,2018,Chinese Religions,294.0
+1039,New Zealand,2018,Worldwide Church of God,279.0
+1040,New Zealand,2018,Animist,273.0
+1041,New Zealand,2018,Druid,189.0
+1042,New Zealand,2018,Revival Centres,180.0
+1043,New Zealand,2018,Sufi,162.0
+1044,New Zealand,2018,Mahikari,138.0
+1045,New Zealand,2018,Confucian,99.0
+1046,New Zealand,2018,Unification Church,93.0
+1047,New Zealand,2018,Fundamentalist,87.0
+1048,New Zealand,2018,Ecumenical,69.0
+1049,New Zealand,2018,Metropolitan,63.0
+1050,New Zealand,2018,Japanese Religions,51.0
+1051,New Zealand,2018,Arya Samajist,36.0
+1052,New Zealand,2018,Unknown,36.0
+1053,New Zealand,2018,Tenrikyo,12.0
+1054,New Zealand,2018,Commonwealth Covenant Church,3.0
+1055,Nicaragua,2005,Catholic,2652985.0
+1056,Nicaragua,2005,Evangelical,981795.0
+1057,Nicaragua,2005,No Religion,711310.0
+1058,Nicaragua,2005,Other,74101.0
+1059,Nicaragua,2005,Moravian,73902.0
+1060,Nicaragua,2005,Jehovah Witness,42587.0
+1061,Nicaragua,2005,Muslim,321.0
+1062,Nicaragua,2005,Judaism,199.0
+1063,Niger,2012,Muslim,16978889.0
+1064,Niger,2012,Christian,56856.0
+1065,Niger,2012,Unknown,42608.0
+1066,Niger,2012,Animist,34786.0
+1067,Niger,2012,No Religion,23048.0
+1068,Niger,2012,Other,2520.0
+1069,Niue,2017,Ekalesia Niue,981.0
+1070,Niue,2017,Latter Day Saints,139.0
+1071,Niue,2017,Roman Catholic,134.0
+1072,Niue,2017,Other,131.0
+1073,Niue,2017,Not Stated,81.0
+1074,Niue,2017,,59.0
+1075,Niue,2017,Jehovah's Witnesses,43.0
+1076,Niue,2017,Seventh Day Adventist,23.0
+1077,Norfolk Island,2011,Church of England,755.0
+1078,Norfolk Island,2011,No Religion,499.0
+1079,Norfolk Island,2011,Catholic,307.0
+1080,Norfolk Island,2011,Uniting Church,302.0
+1081,Norfolk Island,2011,Other Religions,228.0
+1082,Norfolk Island,2011,Not Stated,150.0
+1083,Norfolk Island,2011,Seventh Day Adventist,61.0
+1084,North Macedonia,2002,Orthodox,1310184.0
+1085,North Macedonia,2002,Islam ,674015.0
+1086,North Macedonia,2002,Other,30820.0
+1087,North Macedonia,2002,Catholic,7008.0
+1088,North Macedonia,2002,Protestant,520.0
+1089,Pakistan,2017,Muslim,200362718.0
+1090,Pakistan,2017,Hindu,3595256.0
+1091,Pakistan,2017,Christian,2642048.0
+1092,Pakistan,2017,Scheduled Castes,849614.0
+1093,Pakistan,2017,Qadiani/Ahmadi,191737.0
+1094,Pakistan,2017,Other,43253.0
+1095,Palau,2005,Catholic,9825.0
+1096,Palau,2005,Protestant,4610.0
+1097,Palau,2005,Modekngei,1733.0
+1098,Palau,2005,Other,1613.0
+1099,Palau,2005,Seventh Day Adventist,1046.0
+1100,Palau,2005,Other Protestant,493.0
+1101,Palau,2005,Jehovah Witness,222.0
+1102,Palau,2005,None or Refused,222.0
+1103,Palau,2005,Mormon,143.0
+1104,Paraguay,2002,Catholic,3488086.0
+1105,Paraguay,2002,Evangelical,239573.0
+1106,Paraguay,2002,No Religion,44334.0
+1107,Paraguay,2002,Other Christians,44275.0
+1108,Paraguay,2002,Unknown,37206.0
+1109,Paraguay,2002,Other Religions,32730.0
+1110,Paraguay,2002,Buddhist,2190.0
+1111,Paraguay,2002,Orthodox,1445.0
+1112,Paraguay,2002,Judaism,1100.0
+1113,Paraguay,2002,Islam ,872.0
+1114,Paraguay,2002,Spiritualist,641.0
+1115,Paraguay,2002,Hindu,151.0
+1116,Peru,2017,Catholic,17635339.0
+1117,Peru,2017,Evangelical Christian,3645850.0
+1118,Peru,2017,No Religion,1180361.0
+1119,Peru,2017,Other Religions,734841.0
+1120,Philippines,2020,Roman Catholic,85645362.0
+1121,Philippines,2020,Islam ,6981710.0
+1122,Philippines,2020,Iglesia ni Cristo,2806524.0
+1123,Philippines,2020,Other,2760157.0
+1124,Philippines,2020,Other Christians,1652715.0
+1125,Philippines,2020,Seventh Day Adventist,862725.0
+1126,Philippines,2020,Aglipay,818916.0
+1127,Philippines,2020,Other Baptist Churches,698509.0
+1128,Philippines,2020,Bible Baptist,540364.0
+1129,Philippines,2020,United Church of Christ,470792.0
+1130,Philippines,2020,Jehovah Witness,457245.0
+1131,Philippines,2020,Church of Christ,429921.0
+1132,Philippines,2020,Assembly of God,421111.0
+1133,Philippines,2020,Other Evangelical Churches,348819.0
+1134,Philippines,2020,Other Protestant,332173.0
+1135,Philippines,2020,Pentecostal,301165.0
+1136,Philippines,2020,United Methodist Church,300095.0
+1137,Philippines,2020,Tribal,251548.0
+1138,Philippines,2020,United Pentecostal,212425.0
+1139,Philippines,2020,Southern Baptist,190336.0
+1140,Philippines,2020,Episcopal,179007.0
+1141,Philippines,2020,Church of Jesus Christ of Latter-day Saints,175004.0
+1142,Philippines,2020,Other Church of God,172440.0
+1143,Philippines,2020,Church of the Foursquare Gospel,164449.0
+1144,Philippines,2020,Other Catholic,133592.0
+1145,Philippines,2020,Espiritia,132476.0
+1146,Philippines,2020,Evangelical Christian,115626.0
+1147,Philippines,2020,Other Pentecostal Churches,100070.0
+1148,Philippines,2020,Association of Fundamental Baptist Church in the Philippines,98327.0
+1149,Philippines,2020,Other Faiths,69121.0
+1150,Philippines,2020,Wesleyan,55844.0
+1151,Philippines,2020,Apostolic Catholic,54543.0
+1152,Philippines,2020,Other Methodist Churches,54419.0
+1153,Philippines,2020,Lutheran,54039.0
+1154,Philippines,2020,Other Church of Christ,53207.0
+1155,Philippines,2020,Free Methodists,51943.0
+1156,Philippines,2020,No Religion,43931.0
+1157,Philippines,2020,Evangelical Free Church,43789.0
+1158,Philippines,2020,Independent Baptist,39961.0
+1159,Philippines,2020,Buddhist,39158.0
+1160,Philippines,2020,Ecumenical,36094.0
+1161,Philippines,2020,Salvation Army,36070.0
+1162,Philippines,2020,Convention of the Philippine Baptist Church,35142.0
+1163,Philippines,2020,Free Christian Community,32548.0
+1164,Philippines,2020,Baptist,31206.0
+1165,Philippines,2020,Iglesia Evangelista Methodista en Las Filipinas,27793.0
+1166,Philippines,2020,Other Charismatic Churches,26289.0
+1167,Philippines,2020,Presbyterian,20818.0
+1168,Philippines,2020,Zion Christian Church,18294.0
+1169,Philippines,2020,Church of Nazarene,16144.0
+1170,Philippines,2020,Not Stated,15186.0
+1171,Philippines,2020,Other Assemblies,14443.0
+1172,Philippines,2020,International Baptist Missionary Fellowship,11283.0
+1173,Philippines,2020,Philippine Benevolent Missionaries Association,11283.0
+1174,Philippines,2020,Evangelical,9619.0
+1175,Philippines,2020,Missionary Church,9159.0
+1176,Philippines,2020,Church of God,5983.0
+1177,Philippines,2020,Evangelical Missionary Church,4616.0
+1178,Philippines,2020,"Association of Baptist Churches in Luzon, Visayas and Mindanao",2798.0
+1179,Poland,2011,Roman Catholic,33331533.0
+1180,Poland,2011,Refused to answer,2744836.0
+1181,Poland,2011,No Religion,915590.0
+1182,Poland,2011,Not Stated,560937.0
+1183,Poland,2011,Orthodox,158477.0
+1184,Poland,2011,Jehovah Witness,134693.0
+1185,Poland,2011,Evangelic Augustan Confession,69281.0
+1186,Poland,2011,Other,44942.0
+1187,Poland,2011,Greek Catholic,33399.0
+1188,Poland,2011,Pentecostal,26166.0
+1189,Poland,2011,Old Catholic Church,9961.0
+1190,Poland,2011,Polish National Catholic Church,8806.0
+1191,Poland,2011,Baptist,5945.0
+1192,Portugal,2011,Catholic,7281887.0
+1193,Portugal,2011,Unknown,1572329.0
+1194,Portugal,2011,Didn't answer,744874.0
+1195,Portugal,2011,No Religion,615332.0
+1196,Portugal,2011,Other Christians,163338.0
+1197,Portugal,2011,Protestant,75571.0
+1198,Portugal,2011,Orthodox,56550.0
+1199,Portugal,2011,Other Non-Christians,28596.0
+1200,Portugal,2011,Muslim,20640.0
+1201,Portugal,2011,Jewish,3061.0
+1202,Qatar,2004,Muslim,576391.0
+1203,Qatar,2004,Other,104426.0
+1204,Qatar,2004,Christian,63212.0
+1205,Republic of Korea,2015,No Religion,27498715.0
+1206,Republic of Korea,2015,Christian,13566072.0
+1207,Republic of Korea,2015,Protestant,9675761.0
+1208,Republic of Korea,2015,Buddhist,7619332.0
+1209,Republic of Korea,2015,Catholic,3890311.0
+1210,Republic of Korea,2015,Other Religions,98185.0
+1211,Republic of Korea,2015,Won Buddhist,84141.0
+1212,Republic of Korea,2015,Confucian,75703.0
+1213,Republic of Korea,2015,Ch'ondo-gyo,65964.0
+1214,Republic of Korea,2015,Daesoonjillihoi,41176.0
+1215,Republic of Korea,2015,Taejong-gyo,3101.0
+1216,Republic of Korea,2015,Not Stated,0.0
+1217,Republic of Korea,2015,Other Religions and Persuasions,0.0
+1218,Republic of Moldova,2014,Orthodox,2528152.0
+1219,Republic of Moldova,2014,Not Stated,193042.0
+1220,Republic of Moldova,2014,Baptist,25380.0
+1221,Republic of Moldova,2014,Other,20789.0
+1222,Republic of Moldova,2014,Pentecostal,10049.0
+1223,Republic of Moldova,2014,Seventh Day Adventist,9063.0
+1224,Republic of Moldova,2014,Atheist,5515.0
+1225,Republic of Moldova,2014,Evangelical Christian,4812.0
+1226,Republic of Moldova,2014,Roman Catholic,2745.0
+1227,Republic of Moldova,2014,Christian of Old Rite,2535.0
+1228,Republic of Moldova,2014,Evangelic Synodal Presbyterian,2292.0
+1229,Republic of Moldova,2014,No Religion,427.0
+1230,Romania,2011,Orthodox,16307004.0
+1231,Romania,2011,Not Stated,1259739.0
+1232,Romania,2011,Roman Catholic,870774.0
+1233,Romania,2011,Reformat,600932.0
+1234,Romania,2011,Pentecostal,362314.0
+1235,Romania,2011,Greek Catholic,150593.0
+1236,Romania,2011,Baptist,112850.0
+1237,Romania,2011,Seventh Day Adventist,80944.0
+1238,Romania,2011,Other,64598.0
+1239,Romania,2011,Muslim,64337.0
+1240,Romania,2011,Unitarian,57686.0
+1241,Romania,2011,Christian by Gospel,42495.0
+1242,Romania,2011,Christian of Old Rite,32558.0
+1243,Romania,2011,Other Religions,30557.0
+1244,Romania,2011,Atheist,20743.0
+1245,Romania,2011,Evangelical Lutherans,20168.0
+1246,Romania,2011,No Religion,18917.0
+1247,Romania,2011,Evangelical,15514.0
+1248,Romania,2011,Evangelic Augustan Confession,5399.0
+1249,Romania,2011,Mosaic,3519.0
+1250,Rwanda,2012,Catholic,4599371.0
+1251,Rwanda,2012,Protestant,3967592.0
+1252,Rwanda,2012,Adventist,1242174.0
+1253,Rwanda,2012,No Religion,259150.0
+1254,Rwanda,2012,Muslim,211011.0
+1255,Rwanda,2012,Jehovah Witness,69451.0
+1256,Rwanda,2012,Other Religions,25344.0
+1257,Rwanda,2012,Not Specified,2418.0
+1258,Rwanda,2012,Animist,1510.0
+1259,Saint Helena ex. dep.,2016,Anglican,2995.0
+1260,Saint Helena ex. dep.,2016,Unknown,709.0
+1261,Saint Helena ex. dep.,2016,Jehovah Witness,178.0
+1262,Saint Helena ex. dep.,2016,Other,97.0
+1263,Saint Helena ex. dep.,2016,Baptist,93.0
+1264,Saint Helena ex. dep.,2016,Seventh Day Adventist,77.0
+1265,Saint Helena ex. dep.,2016,Salvation Army,75.0
+1266,Saint Helena ex. dep.,2016,New Apostolic,61.0
+1267,Saint Helena ex. dep.,2016,Roman Catholic,53.0
+1268,Saint Helena ex. dep.,2016,Baha'i,11.0
+1269,Saint Lucia,2001,Roman Catholic,105755.0
+1270,Saint Lucia,2001,Seventh Day Adventist,13499.0
+1271,Saint Lucia,2001,Pentecostal,9003.0
+1272,Saint Lucia,2001,,7161.0
+1273,Saint Lucia,2001,Rastafarian,3233.0
+1274,Saint Lucia,2001,Anglican,3149.0
+1275,Saint Lucia,2001,Evangelical,2980.0
+1276,Saint Lucia,2001,Baptist,2962.0
+1277,Saint Lucia,2001,Unknown,2494.0
+1278,Saint Lucia,2001,Church of God,2322.0
+1279,Saint Lucia,2001,Jehovah Witness,1582.0
+1280,Saint Lucia,2001,Other,1253.0
+1281,Saint Lucia,2001,Methodist,826.0
+1282,Saint Lucia,2001,Hindu,317.0
+1283,Saint Lucia,2001,Muslim,222.0
+1284,Saint Lucia,2001,Brethren,154.0
+1285,Saint Lucia,2001,Salvation Army,135.0
+1286,Saint Lucia,2001,Baha'i,73.0
+1287,Saint Lucia,2001,Presbyterian,60.0
+1288,Saint Lucia,2001,Moravian,9.0
+1289,Saint Vincent and the Grenadines,2001,Anglican,18864.0
+1290,Saint Vincent and the Grenadines,2001,Pentecostal,18713.0
+1291,Saint Vincent and the Grenadines,2001,Methodist,11540.0
+1292,Saint Vincent and the Grenadines,2001,Seventh Day Adventist,10856.0
+1293,Saint Vincent and the Grenadines,2001,Baptist,10583.0
+1294,Saint Vincent and the Grenadines,2001,,9386.0
+1295,Saint Vincent and the Grenadines,2001,Roman Catholic,7938.0
+1296,Saint Vincent and the Grenadines,2001,Other,6887.0
+1297,Saint Vincent and the Grenadines,2001,Evangelical,2997.0
+1298,Saint Vincent and the Grenadines,2001,Church of God,2655.0
+1299,Saint Vincent and the Grenadines,2001,Not Stated,1630.0
+1300,Saint Vincent and the Grenadines,2001,Rastafarian,1571.0
+1301,Saint Vincent and the Grenadines,2001,Brethren,1351.0
+1302,Saint Vincent and the Grenadines,2001,Jehovah Witness,664.0
+1303,Saint Vincent and the Grenadines,2001,Salvation Army,285.0
+1304,Saint Vincent and the Grenadines,2001,Presbyterian,123.0
+1305,Saint Vincent and the Grenadines,2001,Hindu,83.0
+1306,Saint Vincent and the Grenadines,2001,Muslim,77.0
+1307,Saint Vincent and the Grenadines,2001,Baha'i,25.0
+1308,Saint Vincent and the Grenadines,2001,Moravian,25.0
+1309,Samoa,2016,Congregational,56818.0
+1310,Samoa,2016,Catholic,36766.0
+1311,Samoa,2016,Latter Day Saints,33077.0
+1312,Samoa,2016,Methodist,24228.0
+1313,Samoa,2016,Assembly of God,13399.0
+1314,Samoa,2016,Seventh Day Adventist,8534.0
+1315,Samoa,2016,Worship Centre,5433.0
+1316,Samoa,2016,Other,4793.0
+1317,Samoa,2016,Full Gospel Church,1946.0
+1318,Samoa,2016,Voice of Christ,1841.0
+1319,Samoa,2016,Jehovah Witness,1503.0
+1320,Samoa,2016,Nazarene,1358.0
+1321,Samoa,2016,Christian,1345.0
+1322,Samoa,2016,Baha'i,817.0
+1323,Samoa,2016,Peace Chapel,762.0
+1324,Samoa,2016,Baptist,679.0
+1325,Samoa,2016,CCCJS,657.0
+1326,Samoa,2016,Aoga Tusi Paia,639.0
+1327,Samoa,2016,No Religion,381.0
+1328,Samoa,2016,Protestant,282.0
+1329,Samoa,2016,Anglican,252.0
+1330,Samoa,2016,Elim,159.0
+1331,Samoa,2016,Samoa Evangelism,130.0
+1332,Samoa,2016,Not Stated,93.0
+1333,Samoa,2016,Muslim,87.0
+1334,Sao Tome and Principe,2012,Roman Apostolic Catholic,99570.0
+1335,Sao Tome and Principe,2012,No Religion,37935.0
+1336,Sao Tome and Principe,2012,Other,8990.0
+1337,Sao Tome and Principe,2012,Adventist,7239.0
+1338,Sao Tome and Principe,2012,Assembly of God,5991.0
+1339,Sao Tome and Principe,2012,New Apostolic,5177.0
+1340,Sao Tome and Principe,2012,Maná,4191.0
+1341,Sao Tome and Principe,2012,Universal of the Kingdom of God,3568.0
+1342,Sao Tome and Principe,2012,Jehovah Witness,2202.0
+1343,Sao Tome and Principe,2012,God is Love,1432.0
+1344,Sao Tome and Principe,2012,Unknown,1268.0
+1345,Sao Tome and Principe,2012,Messianica,688.0
+1346,Sao Tome and Principe,2012,Not Specified,488.0
+1347,Serbia,2011,Serbian Orthodox,6079396.0
+1348,Serbia,2011,Catholic,356957.0
+1349,Serbia,2011,Islam ,222828.0
+1350,Serbia,2011,Didn't answer,220735.0
+1351,Serbia,2011,Unknown,99714.0
+1352,Serbia,2011,Atheist,80053.0
+1353,Serbia,2011,Protestant,71284.0
+1354,Serbia,2011,Other Christians,48294.0
+1355,Serbia,2011,Agnostic,4010.0
+1356,Serbia,2011,Other Religions,1776.0
+1357,Serbia,2011,Eastern religion,1237.0
+1358,Serbia,2011,Judaism,578.0
+1359,Seychelles,2002,Roman Catholic,67280.0
+1360,Seychelles,2002,Anglican,5220.0
+1361,Seychelles,2002,Other Christians,2291.0
+1362,Seychelles,2002,Hindu,1700.0
+1363,Seychelles,2002,Unknown,1260.0
+1364,Seychelles,2002,Seventh Day Adventist,907.0
+1365,Seychelles,2002,Muslim,866.0
+1366,Seychelles,2002,Other Non-Christians,820.0
+1367,Seychelles,2002,No Religion,511.0
+1368,Seychelles,2002,Jehovah Witness,508.0
+1369,Seychelles,2002,Baha'i,392.0
+1370,Singapore,2020,Buddhist,1074159.0
+1371,Singapore,2020,No Religion,692528.0
+1372,Singapore,2020,Christian,654355.0
+1373,Singapore,2020,Islam ,539251.0
+1374,Singapore,2020,Other Christians,411674.0
+1375,Singapore,2020,Taoist,303960.0
+1376,Singapore,2020,Catholic,242681.0
+1377,Singapore,2020,Hindu,172963.0
+1378,Singapore,2020,Sikh,12051.0
+1379,Singapore,2020,Other Religions,9827.0
+1380,Sint Maarten (Dutch part),2011,Roman Catholic,11134.0
+1381,Sint Maarten (Dutch part),2011,Pentecostal,4954.0
+1382,Sint Maarten (Dutch part),2011,Methodist,3346.0
+1383,Sint Maarten (Dutch part),2011,Other,2654.0
+1384,Sint Maarten (Dutch part),2011,No Religion,2654.0
+1385,Sint Maarten (Dutch part),2011,Adventist,2224.0
+1386,Sint Maarten (Dutch part),2011,Hindu,1748.0
+1387,Sint Maarten (Dutch part),2011,Baptist,1585.0
+1388,Sint Maarten (Dutch part),2011,Christian,1387.0
+1389,Sint Maarten (Dutch part),2011,Anglican,1027.0
+1390,Sint Maarten (Dutch part),2011,Protestant,927.0
+1391,Sint Maarten (Dutch part),2011,Unknown,796.0
+1392,Sint Maarten (Dutch part),2011,Jehovah Witness,572.0
+1393,Sint Maarten (Dutch part),2011,Evangelical,456.0
+1394,Sint Maarten (Dutch part),2011,Islam/Judaism,377.0
+1395,Sint Maarten (Dutch part),2011,Buddhism/ Sikh,88.0
+1396,Sint Maarten (Dutch part),2011,Rastafarian,64.0
+1397,Slovakia,2011,Roman Catholic,3347277.0
+1398,Slovakia,2011,No Religion,725362.0
+1399,Slovakia,2011,Not Stated,571437.0
+1400,Slovakia,2011,Evangelic of Augsburg Affiliation,316250.0
+1401,Slovakia,2011,Byzantine Catholic Church,206871.0
+1402,Slovakia,2011,Reformed Christian,98797.0
+1403,Slovakia,2011,Orthodox,49133.0
+1404,Slovakia,2011,Other,23340.0
+1405,Slovakia,2011,Jehovah Witness,17222.0
+1406,Slovakia,2011,Evangelic Methodist Church,10328.0
+1407,Slovakia,2011,Christian,7720.0
+1408,Slovakia,2011,Apostolic,5831.0
+1409,Slovakia,2011,Baptists Fraternity Union,3486.0
+1410,Slovakia,2011,Fraternity Church,3396.0
+1411,Slovakia,2011,Seventh Day Adventist,2915.0
+1412,Slovakia,2011,Jewish,1999.0
+1413,Slovakia,2011,Czechoslovak Hussite Church,1782.0
+1414,Slovakia,2011,Old Catholic Church,1687.0
+1415,Slovakia,2011,Baha'i,1065.0
+1416,Slovakia,2011,Church of Jesus Christ of Latter-day Saints,972.0
+1417,Slovakia,2011,New Apostolic,166.0
+1418,Slovenia,2002,Catholic,1135626.0
+1419,Slovenia,2002,Didn't answer,307973.0
+1420,Slovenia,2002,Atheist,199264.0
+1421,Slovenia,2002,Unknown,139097.0
+1422,Slovenia,2002,No Afiliation,68714.0
+1423,Slovenia,2002,Islam ,47488.0
+1424,Slovenia,2002,Orthodox,45908.0
+1425,Slovenia,2002,Evangelical,14736.0
+1426,Slovenia,2002,Other Christians,1877.0
+1427,Slovenia,2002,Other Protestant,1399.0
+1428,Slovenia,2002,Oriental,1026.0
+1429,Slovenia,2002,Other,558.0
+1430,Slovenia,2002,Agnostic,271.0
+1431,Slovenia,2002,Jewish,99.0
+1432,South Africa,2001,No Religion,6767165.0
+1433,South Africa,2001,Other Apostolic Churches,5609070.0
+1434,South Africa,2001,Zion Christian Church,4971932.0
+1435,South Africa,2001,Pentecostal,3422749.0
+1436,South Africa,2001,Methodist,3305404.0
+1437,South Africa,2001,Other Christians,3195477.0
+1438,South Africa,2001,Catholic,3181336.0
+1439,South Africa,2001,Dutch Reformed,3005698.0
+1440,South Africa,2001,Other Zionist Churches,1887147.0
+1441,South Africa,2001,Anglican,1722076.0
+1442,South Africa,2001,Lutheran,1130987.0
+1443,South Africa,2001,Ethiopian Churches,880414.0
+1444,South Africa,2001,Presbyterian,832495.0
+1445,South Africa,2001,Baptist,691237.0
+1446,South Africa,2001,Other African Independent Churches,656644.0
+1447,South Africa,2001,Islam ,654064.0
+1448,South Africa,2001,Refused to answer,610971.0
+1449,South Africa,2001,Hindu,551669.0
+1450,South Africa,2001,Congregational,508825.0
+1451,South Africa,2001,Other Faiths,269200.0
+1452,South Africa,2001,Ibandlalama Nazaretha,248824.0
+1453,South Africa,2001,Apostolic Faith Mission of SA,246190.0
+1454,South Africa,2001,Other Reformed Church,226495.0
+1455,South Africa,2001,African Traditional Belief,125903.0
+1456,South Africa,2001,Judaism,75555.0
+1457,South Africa,2001,Orthodox,42251.0
+1458,Sri Lanka,2012,Buddhist,14272056.0
+1459,Sri Lanka,2012,Hindu,2561299.0
+1460,Sri Lanka,2012,Islam ,1967523.0
+1461,Sri Lanka,2012,Roman Catholic,1261194.0
+1462,Sri Lanka,2012,Other Christians,290967.0
+1463,Sri Lanka,2012,Other,6400.0
+1464,State of Palestine,2007,Islam ,3568020.0
+1465,State of Palestine,2007,Not Stated,56994.0
+1466,State of Palestine,2007,Christian,43179.0
+1467,State of Palestine,2007,Other,1051.0
+1468,Suriname,2012,Christian,262320.0
+1469,Suriname,2012,Hindu,120623.0
+1470,Suriname,2012,Islam ,75053.0
+1471,Suriname,2012,Other,66560.0
+1472,Suriname,2012,Not Stated,17082.0
+1473,Switzerland,2011,Roman Catholic,2532217.0
+1474,Switzerland,2011,Reformed Churches,1830143.0
+1475,Switzerland,2011,No Afiliation,1356795.0
+1476,Switzerland,2011,Other Christians,368698.0
+1477,Switzerland,2011,Islam ,320958.0
+1478,Switzerland,2011,Unknown,81224.0
+1479,Switzerland,2011,Other Religions,80758.0
+1480,Switzerland,2011,Judaism,16763.0
+1481,Thailand,2010,Buddhist,61746429.0
+1482,Thailand,2010,Islam ,3259340.0
+1483,Thailand,2010,Christian,789376.0
+1484,Thailand,2010,Other Religions,66922.0
+1485,Thailand,2010,No Religion,46122.0
+1486,Thailand,2010,Hindu,41808.0
+1487,Thailand,2010,Confucian,16718.0
+1488,Thailand,2010,Unknown,14944.0
+1489,Timor-Leste,2004,Catholic,715285.0
+1490,Timor-Leste,2004,Protestant Evangelical,16616.0
+1491,Timor-Leste,2004,Traditional,5883.0
+1492,Timor-Leste,2004,Islam ,2455.0
+1493,Timor-Leste,2004,Other,616.0
+1494,Timor-Leste,2004,Buddhist,484.0
+1495,Timor-Leste,2004,Hindu,191.0
+1496,Tokelau,2016,Christian Congregational,603.0
+1497,Tokelau,2016,Roman Catholic,460.0
+1498,Tokelau,2016,Presbyterian,71.0
+1499,Tokelau,2016,Other Christians,54.0
+1500,Tokelau,2016,Not Stated,9.0
+1501,Tokelau,2016,New Age,0.0
+1502,Tokelau,2016,No Religion,0.0
+1503,Tonga,2016,Free Wesleyan Church,35082.0
+1504,Tonga,2016,Latter Day Saints,18673.0
+1505,Tonga,2016,Roman Catholic,14276.0
+1506,Tonga,2016,Free Church of Tonga,11896.0
+1507,Tonga,2016,Church of Tonga,6868.0
+1508,Tonga,2016,Other Religions,3016.0
+1509,Tonga,2016,Assembly of God,2347.0
+1510,Tonga,2016,Seventh Day Adventist,2249.0
+1511,Tonga,2016,Tokaikolo Christian Church,1562.0
+1512,Tonga,2016,Constitutional Church of Tonga,957.0
+1513,Tonga,2016,Other,921.0
+1514,Tonga,2016,Baha'i,755.0
+1515,Tonga,2016,Anglican,697.0
+1516,Tonga,2016,No Religion,516.0
+1517,Tonga,2016,Full Gospel Church,287.0
+1518,Tonga,2016,Refused to answer,104.0
+1519,Tonga,2016,Buddhist,60.0
+1520,Trinidad and Tobago,2011,Roman Catholic,285671.0
+1521,Trinidad and Tobago,2011,Hindu,240100.0
+1522,Trinidad and Tobago,2011,Pentecostal/ Evangelical/ Full Gospel,159033.0
+1523,Trinidad and Tobago,2011,Not Stated,146798.0
+1524,Trinidad and Tobago,2011,Other,96166.0
+1525,Trinidad and Tobago,2011,Baptist,90953.0
+1526,Trinidad and Tobago,2011,Anglican,74994.0
+1527,Trinidad and Tobago,2011,Islam ,65705.0
+1528,Trinidad and Tobago,2011,Seventh Day Adventist,54156.0
+1529,Trinidad and Tobago,2011,Presbyterian/ Congregational,32972.0
+1530,Trinidad and Tobago,2011,,28842.0
+1531,Trinidad and Tobago,2011,Jehovah Witness,19450.0
+1532,Trinidad and Tobago,2011,Orisha,11918.0
+1533,Trinidad and Tobago,2011,Methodist,8648.0
+1534,Trinidad and Tobago,2011,Rastafarian,3615.0
+1535,Trinidad and Tobago,2011,Moravian,3526.0
+1536,Tuvalu,2017,Ekalesia Kelisiano Tuvalu,9023.0
+1537,Tuvalu,2017,Brethren Assembly,296.0
+1538,Tuvalu,2017,Other,270.0
+1539,Tuvalu,2017,Seventh Day Adventist,266.0
+1540,Tuvalu,2017,Baha'i,157.0
+1541,Tuvalu,2017,Assembly of God,155.0
+1542,Tuvalu,2017,Jehovah Witness,155.0
+1543,Tuvalu,2017,Latter Day Saints,92.0
+1544,Tuvalu,2017,Catholic,53.0
+1545,Tuvalu,2017,,26.0
+1546,Tuvalu,2017,Refused to answer,14.0
+1547,Uganda,2002,Catholic,10242594.0
+1548,Uganda,2002,Anglican,8782821.0
+1549,Uganda,2002,Muslim,2956121.0
+1550,Uganda,2002,Pentecostal,1129647.0
+1551,Uganda,2002,Other,741589.0
+1552,Uganda,2002,Seventh Day Adventist,367972.0
+1553,Uganda,2002,No Religion,212388.0
+1554,United Kingdom of Great Britain and Northern Ireland,2011,Christian,37583962.0
+1555,United Kingdom of Great Britain and Northern Ireland,2011,No Religion,16221509.0
+1556,United Kingdom of Great Britain and Northern Ireland,2011,Not Specified,4528323.0
+1557,United Kingdom of Great Britain and Northern Ireland,2011,Muslim,2786635.0
+1558,United Kingdom of Great Britain and Northern Ireland,2011,Hindu,835418.0
+1559,United Kingdom of Great Britain and Northern Ireland,2011,Sikh,432429.0
+1560,United Kingdom of Great Britain and Northern Ireland,2011,Jewish,269568.0
+1561,United Kingdom of Great Britain and Northern Ireland,2011,Other,262750.0
+1562,United Kingdom of Great Britain and Northern Ireland,2011,Buddhist,261584.0
+1563,Vanuatu,2009,Presbyterian,65345.0
+1564,Vanuatu,2009,Other,36698.0
+1565,Vanuatu,2009,Anglican,35256.0
+1566,Vanuatu,2009,Seventh Day Adventist,29251.0
+1567,Vanuatu,2009,Catholic,28933.0
+1568,Vanuatu,2009,Assembly of God,11078.0
+1569,Vanuatu,2009,Church of Christ,10593.0
+1570,Vanuatu,2009,Custom,8600.0
+1571,Vanuatu,2009,Apostolic,5231.0
+1572,Vanuatu,2009,No Religion,2554.0
+1573,Vanuatu,2009,Not Stated,484.0
+1574,Viet Nam,2019,No Religion,83046105.0
+1575,Viet Nam,2019,Cong giao - Catholic,5866169.0
+1576,Viet Nam,2019,Phat giao - Buddhist,4606543.0
+1577,Viet Nam,2019,Hoa hao - Hoa Hao,983079.0
+1578,Viet Nam,2019,Tin lanh - Protestant,960558.0
+1579,Viet Nam,2019,Cao daii - Cao Dai,556234.0
+1580,Viet Nam,2019,Other,119362.0
+1581,Viet Nam,2019,Hoi giao - Muslim,70934.0
+1582,Zambia,2010,Protestant,9436231.0
+1583,Zambia,2010,Catholic,2532858.0
+1584,Zambia,2010,Other,253621.0
+1585,Zambia,2010,,224295.0
+1586,Zambia,2010,Muslim,61412.0
+1587,Zambia,2010,Buddhist,9623.0
+1588,Zambia,2010,Hindu,4383.0
+1589,Zambia,2010,Baha'i,3891.0

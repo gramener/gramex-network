@@ -2,6 +2,8 @@
 
 A force-directed network or graph visualization.
 
+[See the workshop](workshop.md) for a step-by-step tutorial.
+
 ## Example
 
 Given this [table of countries and religions](docs/country-religion.json ":ignore"):
@@ -65,7 +67,7 @@ The `network()` function accepts a `{ nodes, links }` object.
 
 ```json
 {
-  "nodes": [{ "id": "Alice" }, { "id": "Bob" }, { "id": "Carol" }],
+  "nodes": [{ "name": "Alice" }, { "name": "Bob" }, { "name": "Carol" }],
   "links": [
     { "source": 0, "target": 1 },
     { "source": 1, "target": 2 }
@@ -152,7 +154,7 @@ When dragging, the node gets a `dragging` class. When pinned, it gets a `pinned`
 
 ## Filter nodes and links
 
-To dynamically filter nodes and links, pass a subset of the nodes and links.
+To dynamically filter nodes and links, pass a subset of the **SAME** `nodes` and `links`.
 
 Make sure the nodes and links are the same objects as the original nodes and links. This ensures that the simulation is not restarted.
 
@@ -164,21 +166,11 @@ In this example, when you move the slider, the country - religion links are filt
 
 ## Tabular data
 
-If you have tabular data (a flat array of objects) with multiple entities like this [table of countries and religions](docs/country-religion.json ":ignore"):
+Any tabular data can be converted into a node-link structure. For example, take this [table of countries and religions](docs/country-religion.csv ":ignore"):
 
-[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/country-religion.json ":ignore")
+[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/country-religion.csv ":ignore")
 
-... you can convert it to a node-link dataset using `kpartite()`. It accepts 3 parameters:
-
-1. `data` - array of objects containing the data.
-2. `keys` - object of `{key: column}` pairs or an array of `[key, column]` pairs.
-   - `key` is a string node type
-   - `column` is the string name of a field in data, or a function(object) that returns the field, or a static value.
-3. `values` - object of accessor functions for link values that are aggregated across links and nodes
-
-It returns an object with `nodes` and `links` arrays.
-
-For example, given the following data:
+Convert this into a flat array of objects like this:
 
 ```js
 const data = [
@@ -188,7 +180,15 @@ const data = [
 ];
 ```
 
-... you can convert it to a node-link dataset using `kpartite()` as follows:
+Now you can convert it to a node-link dataset using `{ nodes, links } = kpartite(data, keys, values)`. It accepts 3 parameters:
+
+1. `data` - array of objects containing the data.
+2. `keys` - object of `{key: column}` pairs or an array of `[key, column]` pairs.
+   - `key` is a string node type
+   - `column` is the string name of a field in data, or a function(object) that returns the field, or a static value.
+3. `values` - object of accessor functions for link values that are aggregated across links and nodes
+
+For example:
 
 ```js
 const { nodes, links } = kpartite(
@@ -226,7 +226,7 @@ This creates the following `nodes`:
 ];
 ```
 
-... and the following links:
+... and the following `links`:
 
 ```js
 [

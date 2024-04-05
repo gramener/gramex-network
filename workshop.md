@@ -301,7 +301,6 @@ function draw() {
 
 draw();
 document.querySelector("#link-filter").addEventListener("input", draw);
-new bootstrap.Tooltip("#network", { selector: '[data-bs-toggle="tooltip"]' });
 ```
 
 ### Exercise #4
@@ -339,8 +338,6 @@ Check if the output looks like this:
 
 ![Validation output](docs/validation.gif)
 
-<!--
 ## Video
 
-[![Workshop video](https://img.youtube.com/vi/VMkOznTrB2o/0.jpg)](https://youtu.be/VMkOznTrB2o)
--->
+[![Workshop video](https://img.youtube.com/vi/B9yXptqxkCw/0.jpg)](https://youtu.be/B9yXptqxkCw)

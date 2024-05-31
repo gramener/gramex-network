@@ -20,7 +20,7 @@ const simulationMap = new Map();
  * @param {Function} [params.brush] - callback function to handle brush events.
  * @param {string} [params.id] - unique identifier for the simulation. Uses `el.id` if not specified.
  * @param {Object} [params.d3=window.d3] - D3 instance to use.
- * @returns {Object} Object containing D3.js selections for nodes and links.
+ * @returns {Graph} Object containing D3.js selections for nodes and links.
  */
 export function network(
   el,
@@ -123,5 +123,14 @@ export function network(
     simulation.alphaTarget(0.3).restart(); // Restart the simulation to reflect the changes
   }
 
-  return { nodes: nodesLayer, links: linksLayer, nodeGroup, linkGroup };
+  /**
+   * Define the returned graph
+   * @typedef {Object} Graph
+   * @property {Object} nodes - D3.js selection for nodes.
+   * @property {Object} links - D3.js selection for links.
+   * @property {Object} nodeGroup - D3.js selection for the node group.
+   * @property {Object} linkGroup - D3.js selection for the link group.
+   * @property {Object} simulation - D3.js simulation object.
+   */
+  return { nodes: nodesLayer, links: linksLayer, nodeGroup, linkGroup, simulation };
 }

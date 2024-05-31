@@ -35,7 +35,7 @@ Use locally as an ES module:
 Use locally as a script:
 
 ```html
-<script src="./node_modules/@gramex/network/network.min.js"></script>
+<script src="./node_modules/@gramex/network/dist/network.min.js"></script>
 <script>
   gramex.network(...)
 </script>
@@ -376,6 +376,12 @@ To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a s
 
 [See how to draw curved links](docs/curved.html ":include :type=code")
 
+## Stop and restart simulation
+
+To stop or restart the simulation, call `graph.simulation.stop()` or `graph.simulation.alphaTarget(0.3).restart()`.
+
+[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/stop-start.png)](docs/stop-start.html ":include")
+
 ## Bring your own D3
 
 If you already have D3 loaded, or want to use a specific version / instance of D3, pass it to `network(el, { d3 })`:
@@ -428,6 +434,7 @@ Then run `npm start` or `npm run build`.
 
 ## Release notes
 
+- 2.1.0: 31 May 2024. Support [stop and restart](#stop-and-restart-simulation)
 - 2.0.0: 24 Nov 2023. Synchronous API. Bring your own D3. To migrate from v1:
   - Replace `await network(...)` with `network(...)`
   - Pass `d3` as a param, e.g. `network(el, { d3 })`

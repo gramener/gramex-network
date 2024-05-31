@@ -1,0 +1,24 @@
+<div><button id="stop">Stop</button><button id="restart">Restart</button></div>
+<svg id="network" width="600" height="380"></svg>
+
+<script type="module">
+  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@2";
+  import { kpartite } from "https://cdn.jsdelivr.net/npm/@gramex/network@2/dist/kpartite.js";
+  import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
+  const data = await fetch("country-religion.json").then((r) => r.json());
+  const { nodes, links } = kpartite(
+    data,
+    { country: "Country", religion: "Religion" },
+    { count: 1, Population: "Value" },
+  );
+  const graph = network("#network", { nodes, links, d3 });
+  graph.nodes
+    .attr("fill", (d) => (d.key == "country" ? "rgba(255,0,0,0.5)" : "rgba(0,0,255,0.5)"))
+    .attr("r", 4);
+  graph.links.attr("stroke", "rgba(0,0,0,0.2)");
+
+  // Stop or start the network
+  document.querySelector("#stop").addEventListener("click", () => graph.simulation.stop(0));
+  document.querySelector("#restart").addEventListener("click", () => graph.simulation.alphaTarget(0.3).restart());
+</script>

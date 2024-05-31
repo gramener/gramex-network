@@ -1,6 +1,6 @@
 {
   "name": "@gramex/network",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A force-directed network or graph visualization.",
   "module": "dist/network.js",
   "main": "dist/network.min.js",

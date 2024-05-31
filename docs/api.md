@@ -71,7 +71,21 @@ Creates a network visualization.
   - `params.id` **[string][4]?** unique identifier for the simulation. Uses `el.id` if not specified.
   - `params.d3` **[Object][2]** D3 instance to use. (optional, default `window.d3`)
 
-Returns **[Object][2]** Object containing D3.js selections for nodes and links.
+Returns **[Graph][8]** Object containing D3.js selections for nodes and links.
+
+## Graph
+
+Define the returned graph
+
+Type: [Object][2]
+
+### Properties
+
+- `nodes` **[Object][2]** D3.js selection for nodes.
+- `links` **[Object][2]** D3.js selection for links.
+- `nodeGroup` **[Object][2]** D3.js selection for the node group.
+- `linkGroup` **[Object][2]** D3.js selection for the link group.
+- `simulation` **[Object][2]** D3.js simulation object.
 
 [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array
 [2]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object
@@ -80,3 +94,4 @@ Returns **[Object][2]** Object containing D3.js selections for nodes and links.
 [5]: https://developer.mozilla.org/docs/Web/HTML/Element
 [6]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number
 [7]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/function
+[8]: #graph

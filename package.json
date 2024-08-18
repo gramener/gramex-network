@@ -5,13 +5,12 @@
   "module": "dist/network.js",
   "main": "dist/network.min.js",
   "scripts": {
-    "docs": "documentation build network.js kpartite.js --markdown-toc false -f md | prettier --parser markdown > docs/api.md",
-    "lint": "prettier --write '**/*.{js,mjs,ts,md,json}' && eslint",
-    "watch": "esbuild network.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist --watch",
-    "build-browser": "esbuild network.js kpartite.js --format=iife --global-name=gramex --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
-    "build-esm": "esbuild network.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
+    "docs": "npx -y documentation build network.js kpartite.js --markdown-toc false -f md | npx -y prettier --parser markdown > docs/api.md",
+    "watch": "npx -y esbuild network.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist --watch",
+    "build-browser": "npx -y esbuild network.js kpartite.js --format=iife --global-name=gramex --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
+    "build-esm": "npx -y esbuild network.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
     "build": "npm run build-browser && npm run build-esm",
-    "prepublishOnly": "npm run lint && npm run docs && npm run build"
+    "prepublishOnly": "npm run docs && npm run build"
   },
   "files": [
     "README.md",
@@ -19,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://code.gramener.com/cto/gramex-network"
+    "url": "git@github.com:gramener/gramex-network"
   },
   "keywords": [
     "gramex",
@@ -34,40 +33,14 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://code.gramener.com/cto/gramex-network/-/issues"
+    "url": "https://github.com/gramener/gramex-network/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "homepage": "https://gramener.com/gramex-network/",
-  "prettier": {
-    "printWidth": 120
-  },
-  "eslintConfig": {
-    "root": true,
-    "parserOptions": {
-      "ecmaVersion": "latest",
-      "sourceType": "module"
-    },
-    "env": {
-      "browser": true,
-      "es2022": true,
-      "jest": true
-    },
-    "plugins": [
-      "html"
-    ],
-    "extends": "eslint:recommended"
-  },
+  "homepage": "https://gramener.github.io/gramex-network/",
   "devDependencies": {
-    "@gramex/chartbase": "^1.0.2",
-    "documentation": "^14.0.2",
-    "esbuild": "^0.19.2",
-    "eslint": "^8.48.0",
-    "eslint-plugin-html": "^7.1.0",
-    "eslint-plugin-react": "^7.33.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "prettier": "^3.0.3"
+    "@gramex/chartbase": "^1.0.2"
   }
 }

@@ -8,11 +8,11 @@ A force-directed network or graph visualization.
 
 Given this [table of countries and religions](docs/country-religion.json ":ignore"):
 
-[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/country-religion.json ":ignore")
+[![Country-religion dataset screenshot](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/country-religion.png)](docs/country-religion.json ":ignore")
 
 ... we can render the following network:
 
-[![Religion network visual](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/religion.png)](docs/religion.html ":include")
+[![Religion network visual](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/religion.png)](docs/religion.html ":include")
 
 [Here is the source code for the network above](docs/religion.html ":include :type=code")
 
@@ -93,7 +93,7 @@ Here is a simple network that draws the above dataset:
 const graph = network("#network", data);
 ```
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/simple.png)](docs/simple.html ":include height=120px")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/simple.png)](docs/simple.html ":include height=120px")
 
 [See how to use network()](docs/simple.html ":include :type=code")
 
@@ -116,7 +116,7 @@ const graph = network("#network", data);
 graph.nodes.attr("r", (d) => d.depth);
 ```
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/style.png)](docs/style.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/style.png)](docs/style.html ":include")
 
 [See how to style nodes and links](docs/style.html ":include :type=code")
 
@@ -127,7 +127,7 @@ You can use [Bootstrap tooltips](https://getbootstrap.com/docs/5.3/components/to
 1. Add a `data-bs-toggle="tooltip" title="..."` attribute to each feature using `update`
 2. Call `new bootstrap.Tooltip(element, {selector: '[data-bs-toggle="tooltip"]'})` to initialize tooltips
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/tooltip.png)](docs/tooltip.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/tooltip.png)](docs/tooltip.html ":include")
 
 [See how to add tooltips](docs/tooltip.html ":include :type=code")
 
@@ -148,7 +148,7 @@ When dragging, the node gets a `dragging` class. When pinned, it gets a `pinned`
 }
 ```
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/drag.png)](docs/drag.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/drag.png)](docs/drag.html ":include")
 
 [See how to highlight dragged and pinned nodes](docs/drag.html ":include :type=code")
 
@@ -160,7 +160,7 @@ Make sure the nodes and links are the same objects as the original nodes and lin
 
 In this example, when you move the slider, the country - religion links are filtered based on population. Any isolated nodes are also removed.
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/filter.png)](docs/filter.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/filter.png)](docs/filter.html ":include")
 
 [See how to filter nodes and links](docs/filter.html ":include :type=code")
 
@@ -168,7 +168,7 @@ In this example, when you move the slider, the country - religion links are filt
 
 Any tabular data can be converted into a node-link structure. For example, take this [table of countries and religions](docs/country-religion.csv ":ignore"):
 
-[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/country-religion.csv ":ignore")
+[![Country-religion dataset screenshot](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/country-religion.png)](docs/country-religion.csv ":ignore")
 
 Convert this into a flat array of objects like this:
 
@@ -262,14 +262,14 @@ Here is an example with the [Friends sexual partners](https://www.reddit.com/r/e
 [`data`](docs/friends-sexual-partners.csv ":ignore").
 (Interestingly, Rachel is the only one who doesn't share a sexual partner with any of the others.)
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/friends.png)](docs/friends.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/friends.png)](docs/friends.html ":include")
 
 [See how to generate unipartite data](docs/friends.html ":include :type=code")
 
 Here is an example with the [Arxiv paper coauthors](https://www.kaggle.com/datasets/Cornell-University/arxiv/)
 [`data`](docs/coauthors.csv ":ignore") of Computational Lingustics papers that have "LLM" in their title, and authored 2+ papers together.
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/coauthors.png)](docs/coauthors.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/coauthors.png)](docs/coauthors.html ":include")
 
 [See how to generate unipartite data](docs/coauthors.html ":include :type=code")
 
@@ -305,7 +305,7 @@ forces: {
 
 Each force is a `function({ nodes, links, width, height })` where `width` and `height` are the size of the SVG. It should **return** a D3 force.
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/forces.png)](docs/forces.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/forces.png)](docs/forces.html ":include")
 
 [See how to modify forces](docs/forces.html ":include :type=code")
 
@@ -313,7 +313,7 @@ Each force is a `function({ nodes, links, width, height })` where `width` and `h
 
 Passing a `brush` function enables brushing. The `brush` function is called with the selected nodes as parameters. You can use this to update other visualizations.
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/brush.png)](docs/brush.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/brush.png)](docs/brush.html ":include")
 
 [See how to handle brushing](docs/brush.html ":include :type=code")
 
@@ -328,7 +328,7 @@ graph.nodes.text((d) => d.id);
 
 Here is a detailed example on how to draw labels with text and a rectangle background:
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/shapes.png)](docs/shapes.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/shapes.png)](docs/shapes.html ":include")
 
 [See how to use different node shapes](docs/shapes.html ":include :type=code")
 
@@ -364,7 +364,7 @@ Here:
 
 Then add `graph.links.attr("marker-end", "url(#triangle)")` to your code.
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/arrows.png)](docs/arrows.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/arrows.png)](docs/arrows.html ":include")
 
 [See how to draw arrows on links](docs/arrows.html ":include :type=code")
 
@@ -372,7 +372,7 @@ Then add `graph.links.attr("marker-end", "url(#triangle)")` to your code.
 
 To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a straight line. 1 is a half-circle. -1 is a half-circle in the opposite direction.
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/curved.png)](docs/curved.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/curved.png)](docs/curved.html ":include")
 
 [See how to draw curved links](docs/curved.html ":include :type=code")
 
@@ -380,13 +380,13 @@ To draw curved links, set `linkCurvature` to a number between -1 and 1. 0 is a s
 
 To stop or restart the simulation, call `graph.simulation.stop()` or `graph.simulation.alphaTarget(0.3).restart()`.
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/stop-start.png)](docs/stop-start.html ":include")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/stop-start.png)](docs/stop-start.html ":include")
 
 ## Bring your own D3
 
 If you already have D3 loaded, or want to use a specific version / instance of D3, pass it to `network(el, { d3 })`:
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/simple.png)](docs/d3.html ":include height=120")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/simple.png)](docs/d3.html ":include height=120")
 
 [See how to use your own D3 version](docs/d3.html ":include :type=code")
 
@@ -404,7 +404,7 @@ const root = ReactDOM.createRoot(document.querySelector("#root"));
 root.render(React.createElement(React.StrictMode, null, React.createElement(App)));
 ```
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/religion.png)](docs/religion-react.html ":include height=400")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/religion.png)](docs/religion-react.html ":include height=400")
 
 [See how to use network with React](docs/religion-react.html ":include :type=code")
 
@@ -426,7 +426,7 @@ Modify `src/App.js` as follows:
 
 Then run `npm start` or `npm run build`.
 
-[Explore the code](https://code.gramener.com/cto/gramex-network/-/tree/main/docs/network-react ":ignore").
+[Explore the code](https://github.com/gramener/gramex-network/tree/main/docs/network-react ":ignore").
 
 ## API
 

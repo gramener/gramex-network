@@ -75,7 +75,7 @@ The `network()` function accepts a `{ nodes, links }` object.
 
 The output should look like this:
 
-[![Example](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/simple.png)](docs/simple.html ":include height=120px")
+[![Example](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/simple.png)](docs/simple.html ":include height=120px")
 
 Notice a few things that `@gramex/network` automatically does:
 
@@ -154,7 +154,7 @@ Now, you should be able to see tooltips when you hover over the nodes.
 
 Any tabular data can be converted into a node-link structure. For example, take this [table of countries and religions](docs/country-religion.csv ":ignore"):
 
-[![Country-religion dataset screenshot](https://code.gramener.com/cto/gramex-network/-/raw/main/docs/country-religion.png)](docs/country-religion.csv ":ignore")
+[![Country-religion dataset screenshot](https://raw.githubusercontent.com/gramener/gramex-network/main/docs/country-religion.png)](docs/country-religion.csv ":ignore")
 
 Convert this into a flat array of objects like this:
 

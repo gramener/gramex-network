@@ -277,10 +277,10 @@ Here is an example with the [Arxiv paper coauthors](https://www.kaggle.com/datas
 
 By default, the network uses the following forces:
 
-- `link`: a `d3.forceLink()` force that links the nodes and links
+- `link`: a `d3.forceLink(links)` that links the nodes and links
 - `charge`: a `d3.forceManyBody()` that pushes nodes apart
-- `x`: a `d3.forceX()` that centers the nodes horizontally
-- `y`: a `d3.forceY()` that centers the nodes vertically
+- `x`: a `d3.forceX(width / 2)` that centers the nodes horizontally
+- `y`: a `d3.forceY(height / 2)` that centers the nodes vertically
 
 To disable these or modify the forces, pass a `force` object with the required forces. For example,
 this network uses a `d3.forceCenter()` force instead of `x` and `y`:

@@ -10,7 +10,8 @@
     "build-browser": "npx -y esbuild network.js kpartite.js --format=iife --global-name=gramex --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
     "build-esm": "npx -y esbuild network.js kpartite.js --format=esm --bundle --minify --allow-overwrite --sourcemap --outdir=dist",
     "build": "npm run build-browser && npm run build-esm",
-    "prepublishOnly": "npm run docs && npm run build"
+    "prepublishOnly": "npm run docs && npm run build",
+    "test": "vitest run --environment=happy-dom --globals"
   },
   "files": [
     "README.md",
@@ -41,6 +42,8 @@
   },
   "homepage": "https://gramener.github.io/gramex-network/",
   "devDependencies": {
-    "@gramex/chartbase": "^1.0.2"
+    "@gramex/chartbase": "^1.0.2",
+    "happy-dom": "^17.5.6",
+    "vitest": "^3.1.4"
   }
 }

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Network Test Fixture</title>
+  <!-- Load D3.js from a CDN -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <div id="chart-container"></div>
+
+  <!--
+  The network.js script will be loaded by the test environment (happy-dom)
+  as part of the test setup, not directly in this HTML.
+  Alternatively, if tests are run in a browser or an environment that
+  resolves modules from HTML, it could be:
+  <script type="module" src="../network.js"></script>
+  For happy-dom with local file access, the test script will load and execute this.
+  -->
+</body>
+</html>

@@ -18,43 +18,39 @@ Given this [table of countries and religions](docs/country-religion.json ":ignor
 
 ## Installation
 
-Install via `npm`:
+Add this to your script:
+
+```js
+import { network } from "@gramex/network";
+```
+
+To use via CDN, add this to your HTML file:
+
+```html
+<script type="importmap">
+  {
+    "imports": {
+      "@gramex/network": "https://cdn.jsdelivr.net/npm/@gramex/network@2"
+    }
+  }
+</script>
+```
+
+To use locally, install via `npm`:
 
 ```bash
 npm install @gramex/network@2
 ```
 
-Use locally as an ES module:
+... and add this to your HTML file:
 
 ```html
-<script type="module">
-  import { network } from "./node_modules/@gramex/network/dist/network.js";
-</script>
-```
-
-Use locally as a script:
-
-```html
-<script src="./node_modules/@gramex/network/dist/network.min.js"></script>
-<script>
-  gramex.network(...)
-</script>
-```
-
-Use via CDN as an ES Module:
-
-```html
-<script type="module">
-  import { network } from "https://cdn.jsdelivr.net/npm/@gramex/network@2";
-</script>
-```
-
-Use via CDN as a script:
-
-```html
-<script src="https://cdn.jsdelivr.net/npm/@gramex/network@2/dist/network.min.js"></script>
-<script>
-  gramex.network(...)
+<script type="importmap">
+  {
+    "imports": {
+      "@gramex/network": "./node_modules/@gramex/network/dist/network.js"
+    }
+  }
 </script>
 ```
 
